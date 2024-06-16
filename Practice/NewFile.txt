@@ -1,0 +1,10 @@
+Microsoft
+Python Debugger
+Python
+Pylance
+MakeFile Tools
+CMake Tools
+C/C++ Themes
+C/C++ Extenion Pack
+C/c++
+Intellicode

@@ -1,0 +1,75 @@
+1. Calculate the total revenue for each supplier ordered by total revenue in descending order.
+WITH productdetails as (
+SELECT p.ProductName, p.SupplierId, (o.UnitPrice * o.Quantity) as value
+FROM Products as p inner join OrderItem as o on p.Id=o.ProductId)
+
+SELECT CompanyName, sum(value) as TotalRevenue
+FROM Suppliers as s inner join productdetails as pd on s.Id=pd.SupplierId
+GROUP BY  CompanyName
+ORDER BY  TotalRevenue DESC;
+
+2. Calculate the total revenue for each month in 2013.
+
+SELECT month(ord.OrderDate) as Months,  sum(oi.UnitPrice * oi.Quantity) as TotalRevenue
+FROM Orders as ord inner join  OrderItem as oi on ord.Id=oi.OrderId
+WHERE year(ord.OrderDate) = 2013
+GROUP BY Months;
+
+3. Find out the second most popular Product in terms of Quantity ordered. List
+out the product name and Product ID. Assume the total quantity ordered for
+TOP 10 items is unique.
+Note: ‘LIMIT’ cannot be used for the query; on violation, 0 marks will be
+awarded
+
+WITH temp1 as(
+SELECT p.ProductName, p.Id, sum(o.Quantity) as TotalQuantity
+FROM Products as p inner join OrderItem as o on p.Id=o.ProductId
+GROUP BY  p.ProductName, p.Id)
+
+
+SELECT  ProductName, Id
+FROM temp1 WHERE Id not in(
+SELECT  Id
+FROM temp1
+WHERE TotalQuantity = (SELECT max(TotalQuantity) FROM temp1))
+AND  TotalQuantity >= ALL (SELECT   TotalQuantity
+FROM temp1 WHERE Id not in(
+SELECT  Id
+FROM temp1
+WHERE TotalQuantity = (SELECT max(TotalQuantity) FROM temp1)));
+
+4. Identify customers who have consistently increased their order frequency
+each year (2012, 2013, 2014) to identify our loyal customers. Order frequency
+is defined as the number of times they have ordered (independent of
+quantities).
+
+With temp as (
+SELECT CustomerId , year(OrderDate) as year, count(*) as freq
+FROM Orders
+GROUP BY  CustomerId, year)
+SELECT FirstName, LastName
+FROM Customers
+WHERE Id IN (
+SELECT  t1.CustomerId
+FROM temp as t1, temp as t2, temp as t3
+WHERE t1.CustomerId=t2.CustomerId
+AND t2.CustomerId=t3.CustomerId
+AND t1.year=2014
+AND t2.year=2013
+AND t3.year=2012
+AND t1.freq > t2.freq and t2.freq > t3.freq);
+
+5. 
+With temp as (
+SELECT p.
+FROM Products as p inner join OrderItem as o on p.Id=o.ProductId
+
+
+SELECT o1.ProductId, o2.ProductId, count(*) as freq
+FROM OrderItem as o1,  OrderItem as o2
+WHERE o1.OrderId = o2. OrderId
+AND o1. ProductId <> o2.ProductId
+GROUP BY  o1.ProductId, o2.ProductId
+ORDER BY freq DESC
+LIMIT 10;
+

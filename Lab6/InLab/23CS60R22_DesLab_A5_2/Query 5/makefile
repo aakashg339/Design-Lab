@@ -1,0 +1,2 @@
+run_result_seperate:
+	(cat ../event_1.txt | python3 mapper.py | sort | python3 combiner.py & cat ../event_2.txt | python3 mapper.py | sort | python3 combiner.py & cat ../event_3.txt | python3 mapper.py | sort | python3 combiner.py & cat ../event_4.txt | python3 mapper.py | sort | python3 combiner.py & cat ../event_5.txt | python3 mapper.py | sort | python3 combiner.py & cat ../event_6.txt | python3 mapper.py | sort | python3 combiner.py) | sort | python3 reducer.py>result_q5.txt

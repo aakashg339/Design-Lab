@@ -1,0 +1,5 @@
+https://www.scottklement.com/rpg/socktut/nonblocking.html
+https://www.tutorialspoint.com/unix_system_calls/_newselect.htm
+
+Blocking
+Pg 39 - 

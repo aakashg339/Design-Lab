@@ -1,0 +1,10 @@
+United States:1,39,41,33,113
+China:2,38,32,19,89
+Japan:3,27,14,17,58
+Great Britain:4,22,20,22,64
+ROC:5,20,28,23,71
+Australia:6,17,7,22,46
+Netherlands:7,10,12,14,36
+France:8,10,12,11,33
+Germany:9,10,11,16,37
+Italy:10,10,10,20,40

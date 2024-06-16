@@ -1,0 +1,499 @@
+Created by PLY version 3.11 (http://www.dabeaz.com/ply)
+
+Unused terminals:
+
+    CLOSEDIV
+    CLOSESPAN
+    CLOSESTYLE
+    CLOSETABLE
+    GARBAGE
+    OPENDIV
+    OPENSPAN
+    OPENSTYLE
+
+Grammar
+
+Rule 0     S' -> start
+Rule 1     start -> table
+Rule 2     skiptag -> CONTENT skiptag
+Rule 3     skiptag -> OPENHREF skiptag
+Rule 4     skiptag -> CLOSEHREF skiptag
+Rule 5     skiptag -> empty
+Rule 6     handleheader -> OPENHEADER CONTENT CLOSEHEADER handleheader
+Rule 7     handleheader -> empty
+Rule 8     dataCell -> OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+Rule 9     dataCell -> OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+Rule 10    dataCell -> OPENDATA CONTENT CLOSEDATA dataCell
+Rule 11    dataCell -> OPENDATA CLOSEDATA dataCell
+Rule 12    dataCell -> <empty>
+Rule 13    handlerow -> OPENROW handleheader CLOSEROW handlerow
+Rule 14    handlerow -> OPENROW dataCell CLOSEROW handlerow
+Rule 15    handlerow -> empty
+Rule 16    table -> BEGINTABLE skiptag OPENTABLE handlerow
+Rule 17    empty -> <empty>
+Rule 18    content -> CONTENT
+Rule 19    content -> empty
+
+Terminals, with rules where they appear
+
+BEGINTABLE           : 16
+CLOSEDATA            : 8 9 10 11
+CLOSEDIV             : 
+CLOSEHEADER          : 6
+CLOSEHREF            : 4 8 9
+CLOSEROW             : 13 14
+CLOSESPAN            : 
+CLOSESTYLE           : 
+CLOSETABLE           : 
+CONTENT              : 2 6 8 9 9 10 18
+GARBAGE              : 
+OPENDATA             : 8 9 10 11
+OPENDIV              : 
+OPENHEADER           : 6
+OPENHREF             : 3 8 9
+OPENROW              : 13 14
+OPENSPAN             : 
+OPENSTYLE            : 
+OPENTABLE            : 16
+error                : 
+
+Nonterminals, with rules where they appear
+
+content              : 
+dataCell             : 8 9 10 11 14
+empty                : 5 7 15 19
+handleheader         : 6 13
+handlerow            : 13 14 16
+skiptag              : 2 3 4 16
+start                : 0
+table                : 1
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . start
+    (1) start -> . table
+    (16) table -> . BEGINTABLE skiptag OPENTABLE handlerow
+
+    BEGINTABLE      shift and go to state 3
+
+    start                          shift and go to state 1
+    table                          shift and go to state 2
+
+state 1
+
+    (0) S' -> start .
+
+
+
+state 2
+
+    (1) start -> table .
+
+    $end            reduce using rule 1 (start -> table .)
+
+
+state 3
+
+    (16) table -> BEGINTABLE . skiptag OPENTABLE handlerow
+    (2) skiptag -> . CONTENT skiptag
+    (3) skiptag -> . OPENHREF skiptag
+    (4) skiptag -> . CLOSEHREF skiptag
+    (5) skiptag -> . empty
+    (17) empty -> .
+
+    CONTENT         shift and go to state 5
+    OPENHREF        shift and go to state 6
+    CLOSEHREF       shift and go to state 7
+    OPENTABLE       reduce using rule 17 (empty -> .)
+
+    skiptag                        shift and go to state 4
+    empty                          shift and go to state 8
+
+state 4
+
+    (16) table -> BEGINTABLE skiptag . OPENTABLE handlerow
+
+    OPENTABLE       shift and go to state 9
+
+
+state 5
+
+    (2) skiptag -> CONTENT . skiptag
+    (2) skiptag -> . CONTENT skiptag
+    (3) skiptag -> . OPENHREF skiptag
+    (4) skiptag -> . CLOSEHREF skiptag
+    (5) skiptag -> . empty
+    (17) empty -> .
+
+    CONTENT         shift and go to state 5
+    OPENHREF        shift and go to state 6
+    CLOSEHREF       shift and go to state 7
+    OPENTABLE       reduce using rule 17 (empty -> .)
+
+    skiptag                        shift and go to state 10
+    empty                          shift and go to state 8
+
+state 6
+
+    (3) skiptag -> OPENHREF . skiptag
+    (2) skiptag -> . CONTENT skiptag
+    (3) skiptag -> . OPENHREF skiptag
+    (4) skiptag -> . CLOSEHREF skiptag
+    (5) skiptag -> . empty
+    (17) empty -> .
+
+    CONTENT         shift and go to state 5
+    OPENHREF        shift and go to state 6
+    CLOSEHREF       shift and go to state 7
+    OPENTABLE       reduce using rule 17 (empty -> .)
+
+    skiptag                        shift and go to state 11
+    empty                          shift and go to state 8
+
+state 7
+
+    (4) skiptag -> CLOSEHREF . skiptag
+    (2) skiptag -> . CONTENT skiptag
+    (3) skiptag -> . OPENHREF skiptag
+    (4) skiptag -> . CLOSEHREF skiptag
+    (5) skiptag -> . empty
+    (17) empty -> .
+
+    CONTENT         shift and go to state 5
+    OPENHREF        shift and go to state 6
+    CLOSEHREF       shift and go to state 7
+    OPENTABLE       reduce using rule 17 (empty -> .)
+
+    skiptag                        shift and go to state 12
+    empty                          shift and go to state 8
+
+state 8
+
+    (5) skiptag -> empty .
+
+    OPENTABLE       reduce using rule 5 (skiptag -> empty .)
+
+
+state 9
+
+    (16) table -> BEGINTABLE skiptag OPENTABLE . handlerow
+    (13) handlerow -> . OPENROW handleheader CLOSEROW handlerow
+    (14) handlerow -> . OPENROW dataCell CLOSEROW handlerow
+    (15) handlerow -> . empty
+    (17) empty -> .
+
+    OPENROW         shift and go to state 14
+    $end            reduce using rule 17 (empty -> .)
+
+    handlerow                      shift and go to state 13
+    empty                          shift and go to state 15
+
+state 10
+
+    (2) skiptag -> CONTENT skiptag .
+
+    OPENTABLE       reduce using rule 2 (skiptag -> CONTENT skiptag .)
+
+
+state 11
+
+    (3) skiptag -> OPENHREF skiptag .
+
+    OPENTABLE       reduce using rule 3 (skiptag -> OPENHREF skiptag .)
+
+
+state 12
+
+    (4) skiptag -> CLOSEHREF skiptag .
+
+    OPENTABLE       reduce using rule 4 (skiptag -> CLOSEHREF skiptag .)
+
+
+state 13
+
+    (16) table -> BEGINTABLE skiptag OPENTABLE handlerow .
+
+    $end            reduce using rule 16 (table -> BEGINTABLE skiptag OPENTABLE handlerow .)
+
+
+state 14
+
+    (13) handlerow -> OPENROW . handleheader CLOSEROW handlerow
+    (14) handlerow -> OPENROW . dataCell CLOSEROW handlerow
+    (6) handleheader -> . OPENHEADER CONTENT CLOSEHEADER handleheader
+    (7) handleheader -> . empty
+    (8) dataCell -> . OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (9) dataCell -> . OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> . OPENDATA CONTENT CLOSEDATA dataCell
+    (11) dataCell -> . OPENDATA CLOSEDATA dataCell
+    (12) dataCell -> .
+    (17) empty -> .
+
+  ! reduce/reduce conflict for CLOSEROW resolved using rule 12 (dataCell -> .)
+    OPENHEADER      shift and go to state 18
+    OPENDATA        shift and go to state 20
+    CLOSEROW        reduce using rule 12 (dataCell -> .)
+
+  ! CLOSEROW        [ reduce using rule 17 (empty -> .) ]
+
+    handleheader                   shift and go to state 16
+    dataCell                       shift and go to state 17
+    empty                          shift and go to state 19
+
+state 15
+
+    (15) handlerow -> empty .
+
+    $end            reduce using rule 15 (handlerow -> empty .)
+
+
+state 16
+
+    (13) handlerow -> OPENROW handleheader . CLOSEROW handlerow
+
+    CLOSEROW        shift and go to state 21
+
+
+state 17
+
+    (14) handlerow -> OPENROW dataCell . CLOSEROW handlerow
+
+    CLOSEROW        shift and go to state 22
+
+
+state 18
+
+    (6) handleheader -> OPENHEADER . CONTENT CLOSEHEADER handleheader
+
+    CONTENT         shift and go to state 23
+
+
+state 19
+
+    (7) handleheader -> empty .
+
+    CLOSEROW        reduce using rule 7 (handleheader -> empty .)
+
+
+state 20
+
+    (8) dataCell -> OPENDATA . OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (9) dataCell -> OPENDATA . CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> OPENDATA . CONTENT CLOSEDATA dataCell
+    (11) dataCell -> OPENDATA . CLOSEDATA dataCell
+
+    OPENHREF        shift and go to state 24
+    CONTENT         shift and go to state 25
+    CLOSEDATA       shift and go to state 26
+
+
+state 21
+
+    (13) handlerow -> OPENROW handleheader CLOSEROW . handlerow
+    (13) handlerow -> . OPENROW handleheader CLOSEROW handlerow
+    (14) handlerow -> . OPENROW dataCell CLOSEROW handlerow
+    (15) handlerow -> . empty
+    (17) empty -> .
+
+    OPENROW         shift and go to state 14
+    $end            reduce using rule 17 (empty -> .)
+
+    handlerow                      shift and go to state 27
+    empty                          shift and go to state 15
+
+state 22
+
+    (14) handlerow -> OPENROW dataCell CLOSEROW . handlerow
+    (13) handlerow -> . OPENROW handleheader CLOSEROW handlerow
+    (14) handlerow -> . OPENROW dataCell CLOSEROW handlerow
+    (15) handlerow -> . empty
+    (17) empty -> .
+
+    OPENROW         shift and go to state 14
+    $end            reduce using rule 17 (empty -> .)
+
+    handlerow                      shift and go to state 28
+    empty                          shift and go to state 15
+
+state 23
+
+    (6) handleheader -> OPENHEADER CONTENT . CLOSEHEADER handleheader
+
+    CLOSEHEADER     shift and go to state 29
+
+
+state 24
+
+    (8) dataCell -> OPENDATA OPENHREF . CONTENT CLOSEHREF CLOSEDATA dataCell
+
+    CONTENT         shift and go to state 30
+
+
+state 25
+
+    (9) dataCell -> OPENDATA CONTENT . OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> OPENDATA CONTENT . CLOSEDATA dataCell
+
+    OPENHREF        shift and go to state 31
+    CLOSEDATA       shift and go to state 32
+
+
+state 26
+
+    (11) dataCell -> OPENDATA CLOSEDATA . dataCell
+    (8) dataCell -> . OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (9) dataCell -> . OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> . OPENDATA CONTENT CLOSEDATA dataCell
+    (11) dataCell -> . OPENDATA CLOSEDATA dataCell
+    (12) dataCell -> .
+
+    OPENDATA        shift and go to state 20
+    CLOSEROW        reduce using rule 12 (dataCell -> .)
+
+    dataCell                       shift and go to state 33
+
+state 27
+
+    (13) handlerow -> OPENROW handleheader CLOSEROW handlerow .
+
+    $end            reduce using rule 13 (handlerow -> OPENROW handleheader CLOSEROW handlerow .)
+
+
+state 28
+
+    (14) handlerow -> OPENROW dataCell CLOSEROW handlerow .
+
+    $end            reduce using rule 14 (handlerow -> OPENROW dataCell CLOSEROW handlerow .)
+
+
+state 29
+
+    (6) handleheader -> OPENHEADER CONTENT CLOSEHEADER . handleheader
+    (6) handleheader -> . OPENHEADER CONTENT CLOSEHEADER handleheader
+    (7) handleheader -> . empty
+    (17) empty -> .
+
+    OPENHEADER      shift and go to state 18
+    CLOSEROW        reduce using rule 17 (empty -> .)
+
+    handleheader                   shift and go to state 34
+    empty                          shift and go to state 19
+
+state 30
+
+    (8) dataCell -> OPENDATA OPENHREF CONTENT . CLOSEHREF CLOSEDATA dataCell
+
+    CLOSEHREF       shift and go to state 35
+
+
+state 31
+
+    (9) dataCell -> OPENDATA CONTENT OPENHREF . CONTENT CLOSEHREF CLOSEDATA dataCell
+
+    CONTENT         shift and go to state 36
+
+
+state 32
+
+    (10) dataCell -> OPENDATA CONTENT CLOSEDATA . dataCell
+    (8) dataCell -> . OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (9) dataCell -> . OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> . OPENDATA CONTENT CLOSEDATA dataCell
+    (11) dataCell -> . OPENDATA CLOSEDATA dataCell
+    (12) dataCell -> .
+
+    OPENDATA        shift and go to state 20
+    CLOSEROW        reduce using rule 12 (dataCell -> .)
+
+    dataCell                       shift and go to state 37
+
+state 33
+
+    (11) dataCell -> OPENDATA CLOSEDATA dataCell .
+
+    CLOSEROW        reduce using rule 11 (dataCell -> OPENDATA CLOSEDATA dataCell .)
+
+
+state 34
+
+    (6) handleheader -> OPENHEADER CONTENT CLOSEHEADER handleheader .
+
+    CLOSEROW        reduce using rule 6 (handleheader -> OPENHEADER CONTENT CLOSEHEADER handleheader .)
+
+
+state 35
+
+    (8) dataCell -> OPENDATA OPENHREF CONTENT CLOSEHREF . CLOSEDATA dataCell
+
+    CLOSEDATA       shift and go to state 38
+
+
+state 36
+
+    (9) dataCell -> OPENDATA CONTENT OPENHREF CONTENT . CLOSEHREF CLOSEDATA dataCell
+
+    CLOSEHREF       shift and go to state 39
+
+
+state 37
+
+    (10) dataCell -> OPENDATA CONTENT CLOSEDATA dataCell .
+
+    CLOSEROW        reduce using rule 10 (dataCell -> OPENDATA CONTENT CLOSEDATA dataCell .)
+
+
+state 38
+
+    (8) dataCell -> OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA . dataCell
+    (8) dataCell -> . OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (9) dataCell -> . OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> . OPENDATA CONTENT CLOSEDATA dataCell
+    (11) dataCell -> . OPENDATA CLOSEDATA dataCell
+    (12) dataCell -> .
+
+    OPENDATA        shift and go to state 20
+    CLOSEROW        reduce using rule 12 (dataCell -> .)
+
+    dataCell                       shift and go to state 40
+
+state 39
+
+    (9) dataCell -> OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF . CLOSEDATA dataCell
+
+    CLOSEDATA       shift and go to state 41
+
+
+state 40
+
+    (8) dataCell -> OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell .
+
+    CLOSEROW        reduce using rule 8 (dataCell -> OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell .)
+
+
+state 41
+
+    (9) dataCell -> OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA . dataCell
+    (8) dataCell -> . OPENDATA OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (9) dataCell -> . OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell
+    (10) dataCell -> . OPENDATA CONTENT CLOSEDATA dataCell
+    (11) dataCell -> . OPENDATA CLOSEDATA dataCell
+    (12) dataCell -> .
+
+    OPENDATA        shift and go to state 20
+    CLOSEROW        reduce using rule 12 (dataCell -> .)
+
+    dataCell                       shift and go to state 42
+
+state 42
+
+    (9) dataCell -> OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell .
+
+    CLOSEROW        reduce using rule 9 (dataCell -> OPENDATA CONTENT OPENHREF CONTENT CLOSEHREF CLOSEDATA dataCell .)
+
+WARNING: 
+WARNING: Conflicts:
+WARNING: 
+WARNING: reduce/reduce conflict in state 14 resolved using rule (dataCell -> <empty>)
+WARNING: rejected rule (empty -> <empty>) in state 14

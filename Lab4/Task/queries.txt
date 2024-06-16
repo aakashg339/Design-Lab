@@ -1,0 +1,133 @@
+1. SELECT * 
+FROM Suppliers;
+
+2. SELECT CompanyName 
+FROM Suppliers
+WHERE Country='USA';
+
+3. SELECT ContactName, Phone
+FROM Suppliers
+WHERE ID=11;
+
+4. SELECT TotalAmount, OrderDate
+FROM Orders
+WHERE ID=783;
+
+5. SELECT YEAR(OrderDate) as year, count(*)
+FROM Orders
+WHERE MONTH(OrderDate) = 12
+GROUP BY year;
+
+6. SELECT count(*)
+FROM Orders
+WHERE CustomerId='10';
+
+7. SELECT CompanyName, avg(UnitPrice)
+FROM Suppliers as s inner join Products as p on s.Id=p.SupplierId
+GROUP BY CompanyName;
+
+8. SELECT FirstName, LastName
+FROM Customers
+WHERE Id in (SELECT CustomerId FROM Orders);
+
+9. SELECT c.FirstName, c.LastName, count(*)
+FROM Customers as c inner join Orders as o on c.Id = o.CustomerId
+GROUP BY c.FirstName, c.LastName;
+
+10. SELECT ProductName, UnitPrice
+FROM Products
+WHERE UnitPrice > 50;
+
+
+Section B
+1. SELECT ProductName
+FROM Products
+ORDER BY UnitPrice DESC
+LIMIT 5;
+
+2. SELECT FirstName, LastName
+FROM Customers
+WHERE Id NOT IN (SELECT CustomerId FROM Orders WHERE YEAR(OrderDate) = 2014);
+
+3. SELECT sum(TotalAmount)
+FROM Orders
+WHERE MONTH(OrderDate)=10;
+
+4. SELECT ProductName
+FROM Products
+WHERE Id NOT IN (SELECT ProductId FROM OrderItem);
+
+5. WITH temp1 as (
+SELECT s.CompanyName as name, count(*) as freq
+FROM Suppliers as s inner join Products as p on s.Id=p.SupplierId
+GROUP BY name)
+SELECT name
+FROM temp1
+WHERE freq > 3;
+
+6. SELECT c.FirstName, c.LastName, avg(o.TotalAmount)
+FROM Customers as c inner join Orders as o on c.Id = o.CustomerId
+GROUP BY c.FirstName, c.LastName;
+
+7. with temp1 as (
+SELECT ProductId, sum(Quantity) as freq
+FROM OrderItem
+GROUP BY ProductId
+ORDER BY freq DESC
+LIMIT 1)
+SELECT ProductName
+FROM Products
+WHERE Id in (SELECT ProductId FROM temp1);
+
+8. SELECT c.FirstName, c.LastName, sum(o.TotalAmount) as amount
+FROM Customers as c inner join Orders as o on c.Id = o.CustomerId
+GROUP BY c.FirstName, c.LastName
+HAVING amount > 1000;
+
+9. SELECT ProductName, count(*) as freq
+FROM Products as p inner join Suppliers as s on p.SupplierId=s.Id
+GROUP BY ProductName
+HAVING freq > 1;
+
+10. SELECT c.Country, count(*) as freq
+FROM Customers as c inner join Orders as o on c.Id = o.CustomerId
+GROUP BY c.Country;
+
+
+
+SELECT ProductName, s.Id
+FROM Products as p inner join Suppliers as s on p.SupplierId=s.Id;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

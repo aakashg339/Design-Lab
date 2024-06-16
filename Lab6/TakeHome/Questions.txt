@@ -1,0 +1,9 @@
+For query1
+Should we consider the 
+1. Each day the node pair chatted atleast 10 times
+2. In 10 days together, the pair chatted atleast 10 times.
+
+For query2
+Lin1 - For ‬‭K ‬‭in ‬‭5 ‬‭to ‬‭20‬ ‭at increments‬ ‭of‬ ‭5
+By the above line does it mean that we dynamically randomly select k value to be 5, 10, 15 or 20 or we can select any value of k from 5,10,15,20 and hardcode it.
+

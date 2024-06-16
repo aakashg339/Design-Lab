@@ -1,0 +1,2 @@
+Number of Users with more than 20 friends = 413
+Budget to be allocated = 41300

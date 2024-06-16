@@ -1,0 +1,1000 @@
+B568C6641A3FEF50	electric_bike	2021-01-27 07:35:31	2021-01-27 07:39:49	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+178A94796DFAA37E	electric_bike	2021-01-21 07:34:29	2021-01-21 07:38:22	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+3227E5CC20DB9DE5	electric_bike	2021-01-18 07:38:15	2021-01-18 07:42:16	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+0E4327E78249863B	electric_bike	2021-01-20 07:29:40	2021-01-20 07:34:04	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+930D65FB209A2F0C	electric_bike	2021-01-28 07:38:33	2021-01-28 07:43:13	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+4341DD9DB91290A2	electric_bike	2021-01-25 07:46:49	2021-01-25 07:51:19	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+6DBF642D16987187	electric_bike	2021-01-15 07:29:40	2021-01-15 07:33:48	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+E2712F32E541DDD3	electric_bike	2021-01-04 07:25:05	2021-01-04 07:29:17	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+23117CAEAA5D604C	electric_bike	2021-01-19 07:36:46	2021-01-19 07:40:31	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+A6028E9E09CDD664	electric_bike	2021-01-12 07:37:47	2021-01-12 07:41:46	LaSalle Dr & Huron St	KP1705001026	Wabash Ave & Wacker Pl	TA1307000131	member
+30DDE28DF1F69443	classic_bike	2021-01-21 18:03:55	2021-01-21 18:13:33	State St & Pearson St	TA1307000061	Wells St & Concord Ln	TA1308000050	member
+6133C12AA06A9405	electric_bike	2021-01-11 06:51:48	2021-01-11 06:57:05	Michigan Ave & 8th St	623	Millennium Park	13008	member
+3BD79EE054E068B6	classic_bike	2021-01-06 09:25:53	2021-01-06 09:32:08	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+205725F7EB09C48C	classic_bike	2021-01-15 18:05:15	2021-01-15 18:20:19	Michigan Ave & 8th St	623	Wabash Ave & Wacker Pl	TA1307000131	casual
+97548BBD5B47538A	classic_bike	2021-01-23 11:58:58	2021-01-23 12:08:55	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+0B381D1E5018F98F	classic_bike	2021-01-08 11:08:06	2021-01-08 11:23:05	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+1B86F5DCE2524CEF	classic_bike	2021-01-23 11:58:16	2021-01-23 12:09:09	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+BB7CA71F17054CA9	classic_bike	2021-01-07 11:19:33	2021-01-07 11:26:52	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+ADE61BD8FE976F07	classic_bike	2021-01-08 11:00:01	2021-01-08 11:15:02	Rush St & Hubbard St	KA1503000044	Wells St & Concord Ln	TA1308000050	member
+C2F30A20B25E40EE	electric_bike	2021-01-13 19:31:51	2021-01-13 19:37:31	Damen Ave & Leland Ave	TA1307000158	Ravenswood Ave & Berteau Ave	TA1309000018	casual
+5EC1C96597FAD0AE	classic_bike	2021-01-09 12:52:35	2021-01-09 13:00:10	Rush St & Superior St	15530	Kingsbury St & Erie St	13265	member
+F0FBCAC4CA7DA69B	electric_bike	2021-01-13 08:55:11	2021-01-13 09:01:11	Rush St & Superior St	15530	Wells St & Hubbard St	TA1307000151	member
+3C98D0F0A5B7F793	electric_bike	2021-01-14 09:30:21	2021-01-14 09:38:05	Rush St & Superior St	15530	Wells St & Hubbard St	TA1307000151	member
+9D8499AD1E20DE35	classic_bike	2021-01-06 18:10:48	2021-01-06 18:18:47	Lincoln Park Conservatory	LP-	Clark St & Schiller St	TA1309000024	member
+E387170E27F58209	classic_bike	2021-01-20 17:30:37	2021-01-20 18:03:36	Damen Ave & Sunnyside Ave	TA1309000012	Clark St & Schiller St	TA1309000024	member
+354455F7102FD93A	classic_bike	2021-01-16 13:08:16	2021-01-16 13:20:30	Racine Ave & 15th St	13304	Peoria St & Jackson Blvd	13158	member
+F7B3241781D49559	classic_bike	2021-01-08 06:37:23	2021-01-08 06:44:22	Michigan Ave & 14th St	TA1307000124	Millennium Park	13008	member
+6BAEE246BD9BA2FE	classic_bike	2021-01-04 12:43:46	2021-01-04 13:10:26	University Ave & 57th St	KA1503000071	Ellis Ave & 58th St	TA1309000011	member
+DE667978D6EBDF30	classic_bike	2021-01-12 15:00:09	2021-01-12 15:03:04	University Ave & 57th St	KA1503000071	Ellis Ave & 58th St	TA1309000011	member
+53F7849C79C4D9C8	classic_bike	2021-01-20 15:34:47	2021-01-20 15:39:30	Federal St & Polk St	SL-008	LaSalle St & Adams St	KA1503000034	member
+FFDACD95B863E01E	classic_bike	2021-01-10 13:35:50	2021-01-10 13:40:16	Damen Ave & Sunnyside Ave	TA1309000012	Clark St & Montrose Ave	KA1503000022	member
+79FFC39A98895D40	classic_bike	2021-01-10 14:39:04	2021-01-10 14:42:24	Lincoln Park Conservatory	LP-	Stockton Dr & Wrightwood Ave	13276	member
+D0546A09FFFC8281	classic_bike	2021-01-15 13:37:12	2021-01-15 13:50:34	Oakley Ave & Irving Park Rd	KA1504000158	Clark St & Montrose Ave	KA1503000022	casual
+065D1BBBB78B0E91	electric_bike	2021-01-16 12:16:41	2021-01-16 12:20:09	Lincoln Park Conservatory	LP-	Stockton Dr & Wrightwood Ave	13276	casual
+3380CE697FFB09B7	classic_bike	2021-01-09 10:33:50	2021-01-09 10:38:27	Cityfront Plaza Dr & Pioneer Ct	13427	Millennium Park	13008	member
+81B3C4EF9242D633	classic_bike	2021-01-21 08:09:12	2021-01-21 08:14:38	Cityfront Plaza Dr & Pioneer Ct	13427	Millennium Park	13008	member
+318648903C2EF66B	classic_bike	2021-01-29 19:33:46	2021-01-29 19:51:08	Cityfront Plaza Dr & Pioneer Ct	13427	Wabash Ave & Wacker Pl	TA1307000131	member
+856AC0AAFF7AE98B	electric_bike	2021-01-03 18:31:33	2021-01-03 18:43:03	Ogden Ave & Chicago Ave	TA1305000020	Wells St & Concord Ln	TA1308000050	member
+A2137D89B2606257	electric_bike	2021-01-28 17:52:10	2021-01-28 18:04:06	Ogden Ave & Chicago Ave	TA1305000020	Wells St & Concord Ln	TA1308000050	member
+8AAD7A9A0CC25677	electric_bike	2021-01-10 16:03:52	2021-01-10 16:15:57	Ogden Ave & Chicago Ave	TA1305000020	Wells St & Concord Ln	TA1308000050	member
+332F0F26A47D7FC4	classic_bike	2021-01-22 08:46:32	2021-01-22 08:57:43	Ogden Ave & Chicago Ave	TA1305000020	Wabash Ave & Wacker Pl	TA1307000131	member
+8DFA44CB88C5E93C	electric_bike	2021-01-08 16:20:23	2021-01-08 16:28:11	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+E086BAA899CB295E	classic_bike	2021-01-08 10:16:18	2021-01-08 10:18:40	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	Ravenswood Ave & Berteau Ave	TA1309000018	member
+9D084D3AF6CF0DBD	classic_bike	2021-01-03 01:38:35	2021-01-03 01:54:12	Southport Ave & Wellington Ave	TA1307000006	Wells St & Concord Ln	TA1308000050	member
+D82BCAEFA34A824B	classic_bike	2021-01-26 19:24:22	2021-01-26 19:33:44	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+4C68FF6C975086A2	classic_bike	2021-01-21 19:15:55	2021-01-21 19:22:48	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+D9459B4D28BA003E	electric_bike	2021-01-16 11:43:10	2021-01-16 11:49:15	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+AFA8ADE0A0AFBD48	electric_bike	2021-01-23 13:27:33	2021-01-23 13:32:15	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+E738838436B3B027	electric_bike	2021-01-18 17:09:18	2021-01-18 17:15:44	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+ABE4F82F6DFEF293	electric_bike	2021-01-29 18:17:07	2021-01-29 18:23:29	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+3D1FD31C47157597	electric_bike	2021-01-05 21:39:01	2021-01-05 21:44:00	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+01AA809EF678187C	classic_bike	2021-01-28 19:29:02	2021-01-28 19:37:02	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+16B7BE9D571578D5	classic_bike	2021-01-12 19:25:00	2021-01-12 19:31:36	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+84FEBD45CF6A0243	classic_bike	2021-01-14 18:43:29	2021-01-14 18:51:01	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+7CDC661AE46E4FFC	classic_bike	2021-01-07 20:42:52	2021-01-07 20:48:42	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+FCCF902557F00A5C	classic_bike	2021-01-19 19:53:31	2021-01-19 20:00:05	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+0AC9044E8FDB2FA1	electric_bike	2021-01-11 19:18:47	2021-01-11 19:24:03	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+D72EED3BF922F9F6	classic_bike	2021-01-08 18:27:29	2021-01-08 18:35:12	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+344835A027ECC16F	classic_bike	2021-01-25 16:10:31	2021-01-25 16:17:27	Larrabee St & Division St	KA1504000079	Wells St & Concord Ln	TA1308000050	member
+B2FEE3EBE0248FD3	docked_bike	2021-01-18 11:46:19	2021-01-18 12:53:00	Franklin St & Jackson Blvd	TA1305000025	Wabash Ave & Wacker Pl	TA1307000131	casual
+0EE26E4999983F46	classic_bike	2021-01-22 07:26:37	2021-01-22 07:33:54	Indiana Ave & Roosevelt Rd	SL-005	Millennium Park	13008	member
+0A04100778CE3E9A	classic_bike	2021-01-08 08:12:23	2021-01-08 08:19:35	Indiana Ave & Roosevelt Rd	SL-005	Millennium Park	13008	member
+5A367B2E1A998569	classic_bike	2021-01-18 07:25:19	2021-01-18 07:32:33	Indiana Ave & Roosevelt Rd	SL-005	Millennium Park	13008	member
+7031D82F1D217D13	classic_bike	2021-01-08 18:34:19	2021-01-08 18:44:35	Indiana Ave & Roosevelt Rd	SL-005	Wabash Ave & Wacker Pl	TA1307000131	casual
+1A6D74EFC0BE4A8A	classic_bike	2021-01-18 15:40:55	2021-01-18 15:48:00	Indiana Ave & Roosevelt Rd	SL-005	Millennium Park	13008	member
+8FB48226E64FCCA5	classic_bike	2021-01-09 13:12:44	2021-01-09 14:34:29	Michigan Ave & Jackson Blvd	TA1309000002	Wabash Ave & Wacker Pl	TA1307000131	casual
+DF1916CE11E650AA	classic_bike	2021-01-27 15:15:38	2021-01-27 15:27:09	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+E96A5FD1E557370F	classic_bike	2021-01-01 11:54:22	2021-01-01 12:06:30	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+73BD49304BE90587	classic_bike	2021-01-08 16:28:08	2021-01-08 16:37:05	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+D85543DF90CE2083	classic_bike	2021-01-05 11:48:34	2021-01-05 11:59:04	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+1A4BECAACBDAB986	classic_bike	2021-01-12 12:10:27	2021-01-12 12:18:15	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+6903DBF3EFBBA8AC	classic_bike	2021-01-15 16:09:02	2021-01-15 16:17:30	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+8433892851FD3FC2	classic_bike	2021-01-11 12:40:36	2021-01-11 12:49:56	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+8326E57713D743E2	classic_bike	2021-01-15 17:56:24	2021-01-15 18:06:23	LaSalle Dr & Huron St	KP1705001026	Wells St & Concord Ln	TA1308000050	member
+9A3A300C6A200025	docked_bike	2021-01-07 11:38:24	2021-01-07 12:23:09	Clark St & Chicago Ave	13303	Wells St & Concord Ln	TA1308000050	casual
+599119F523F404CD	classic_bike	2021-01-16 19:49:05	2021-01-16 19:56:03	Lincoln Park Conservatory	LP-	Wells St & Concord Ln	TA1308000050	casual
+5282E14A1679AB02	classic_bike	2021-01-21 11:18:04	2021-01-21 11:27:50	Michigan Ave & 14th St	TA1307000124	Millennium Park	13008	member
+1BE9C8D57E2E0F1C	classic_bike	2021-01-22 12:44:15	2021-01-22 12:50:26	Halsted St & Clybourn Ave	331	Wells St & Concord Ln	TA1308000050	member
+2A0B9FA1BA4C8C66	electric_bike	2021-01-19 11:00:08	2021-01-19 11:04:45	Halsted St & Clybourn Ave	331	Wells St & Concord Ln	TA1308000050	member
+B4AF61F1A8D852BD	classic_bike	2021-01-26 20:28:33	2021-01-26 20:35:10	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+549DF8368FA044FA	classic_bike	2021-01-25 20:24:15	2021-01-25 20:31:10	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+BCA845878AA54485	classic_bike	2021-01-28 20:27:14	2021-01-28 20:33:47	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+E4E2974390CF3321	classic_bike	2021-01-07 19:31:08	2021-01-07 19:38:02	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+B8AC3C5CD43DDD58	classic_bike	2021-01-19 20:17:45	2021-01-19 20:23:54	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+76D5845C7B4F9280	classic_bike	2021-01-14 19:27:30	2021-01-14 19:33:44	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+9CE6568745A932DA	classic_bike	2021-01-18 17:36:39	2021-01-18 17:39:37	Rush St & Hubbard St	KA1503000044	LaSalle St & Illinois St	13430	member
+94375A271F188255	classic_bike	2021-01-19 10:02:21	2021-01-19 10:05:44	State St & Pearson St	TA1307000061	Michigan Ave & Pearson St	13034	casual
+F0BC6F5104074A7D	electric_bike	2021-01-09 17:49:02	2021-01-09 17:55:02	State St & Pearson St	TA1307000061	LaSalle St & Illinois St	13430	casual
+26BD3EFCC9423DED	classic_bike	2021-01-22 08:33:09	2021-01-22 08:35:30	Rush St & Superior St	15530	Michigan Ave & Pearson St	13034	member
+8CDCE40F419B09C0	classic_bike	2021-01-03 13:18:40	2021-01-03 14:28:47	Rush St & Superior St	15530	Michigan Ave & Pearson St	13034	casual
+8FB1754B99E1102B	classic_bike	2021-01-03 13:20:50	2021-01-03 14:28:32	Rush St & Superior St	15530	Michigan Ave & Pearson St	13034	casual
+06AA47E8F81222F8	docked_bike	2021-01-01 15:31:52	2021-01-01 16:03:34	Franklin St & Jackson Blvd	TA1305000025	LaSalle St & Illinois St	13430	casual
+9B7FC29B32ACF024	electric_bike	2021-01-11 16:12:06	2021-01-11 16:19:00	Damen Ave & Leland Ave	TA1307000158	Hoyne Ave & Balmoral Ave	655	member
+353F5229CF6C2E5A	classic_bike	2021-01-30 09:33:23	2021-01-30 09:55:05	Indiana Ave & Roosevelt Rd	SL-005	Canal St & Jackson Blvd	13138	member
+97DB08EDE9105F40	classic_bike	2021-01-01 10:44:29	2021-01-01 10:50:11	New St & Illinois St	TA1306000013	LaSalle St & Illinois St	13430	member
+DFD148C6DB0436F8	classic_bike	2021-01-22 15:29:42	2021-01-22 15:34:04	Clark St & Berwyn Ave	KA1504000146	Broadway & Argyle St	13108	member
+FB200A2C02276C2E	classic_bike	2021-01-13 15:08:46	2021-01-13 15:15:05	Clark St & Berwyn Ave	KA1504000146	Broadway & Argyle St	13108	member
+E6C2AB364874E054	classic_bike	2021-01-22 07:00:49	2021-01-22 07:17:43	Clark St & Armitage Ave	13146	Michigan Ave & Pearson St	13034	member
+54DB18BEB2506119	electric_bike	2021-01-21 06:59:41	2021-01-21 07:11:03	Clark St & Armitage Ave	13146	Michigan Ave & Pearson St	13034	member
+A83276C57C538695	electric_bike	2021-01-15 06:57:37	2021-01-15 07:11:28	Clark St & Armitage Ave	13146	Michigan Ave & Pearson St	13034	member
+2FEB5A3B47BD4979	electric_bike	2021-01-08 07:04:48	2021-01-08 07:16:08	Clark St & Armitage Ave	13146	Michigan Ave & Pearson St	13034	member
+48AAD728D04E8951	electric_bike	2021-01-19 07:02:15	2021-01-19 07:15:03	Clark St & Armitage Ave	13146	Michigan Ave & Pearson St	13034	member
+06D75D8F4929B15B	electric_bike	2021-01-13 07:05:32	2021-01-13 07:14:48	Clark St & Armitage Ave	13146	Michigan Ave & Pearson St	13034	member
+1187206D1BE95825	classic_bike	2021-01-23 17:16:38	2021-01-23 17:42:48	Clark St & Wrightwood Ave	TA1305000014	Broadway & Argyle St	13108	member
+ACB12E4CC7F02859	classic_bike	2021-01-17 17:46:46	2021-01-17 18:02:41	Ogden Ave & Chicago Ave	TA1305000020	Wells St & Concord Ln	TA1308000050	member
+77B204D86114F584	electric_bike	2021-01-22 15:23:45	2021-01-22 15:36:49	Ashland Ave & Wellington Ave	13269	Wells St & Concord Ln	TA1308000050	member
+374EAD17994D8C2B	electric_bike	2021-01-18 15:09:02	2021-01-18 15:22:38	Ashland Ave & Wellington Ave	13269	Wells St & Concord Ln	TA1308000050	member
+95749CC867453C04	electric_bike	2021-01-14 15:41:05	2021-01-14 15:54:59	Ashland Ave & Wellington Ave	13269	Wells St & Concord Ln	TA1308000050	member
+4554DB2C6C68C6CB	electric_bike	2021-01-18 19:58:02	2021-01-18 20:02:22	Rush St & Hubbard St	KA1503000044	State St & Van Buren St	TA1305000035	member
+37162A4309CC381E	classic_bike	2021-01-30 12:38:15	2021-01-30 13:05:10	Sedgwick St & North Ave	TA1307000038	Michigan Ave & Lake St	TA1305000011	member
+8EBE462F04084000	classic_bike	2021-01-26 17:36:10	2021-01-26 17:50:40	State St & Harrison St	SL-007	Michigan Ave & Lake St	TA1305000011	member
+BE23D5C56D2E6E8C	classic_bike	2021-01-09 15:42:22	2021-01-09 16:19:30	State St & Harrison St	SL-007	Michigan Ave & Lake St	TA1305000011	member
+F2D4D639B86C6DA7	docked_bike	2021-01-17 19:42:31	2021-01-17 20:10:51	Cityfront Plaza Dr & Pioneer Ct	13427	Michigan Ave & Lake St	TA1305000011	casual
+C134E0A6E70C71DF	electric_bike	2021-01-04 07:24:20	2021-01-04 07:32:41	Indiana Ave & Roosevelt Rd	SL-005	Michigan Ave & Lake St	TA1305000011	member
+11B916502A821DE6	classic_bike	2021-01-12 07:19:32	2021-01-12 07:27:45	Indiana Ave & Roosevelt Rd	SL-005	Michigan Ave & Lake St	TA1305000011	member
+49057D6671C68EDF	classic_bike	2021-01-14 07:37:35	2021-01-14 07:46:04	Indiana Ave & Roosevelt Rd	SL-005	Michigan Ave & Lake St	TA1305000011	member
+2B0D683B6C557F71	classic_bike	2021-01-13 07:30:03	2021-01-13 07:38:57	Indiana Ave & Roosevelt Rd	SL-005	Michigan Ave & Lake St	TA1305000011	member
+DDCA856E0DEF1A36	electric_bike	2021-01-30 15:09:22	2021-01-30 15:37:43	Damen Ave & Cortland St	13133	Damen Ave & Foster Ave	KA1504000149	member
+A07390DFAD3E90D9	electric_bike	2021-01-14 10:35:35	2021-01-14 10:44:19	Indiana Ave & Roosevelt Rd	SL-005	Michigan Ave & Lake St	TA1305000011	casual
+D12FCD0475342E32	electric_bike	2021-01-14 12:54:01	2021-01-14 13:02:38	Indiana Ave & Roosevelt Rd	SL-005	Michigan Ave & Lake St	TA1305000011	casual
+34EC54FE50C16DB3	docked_bike	2021-01-18 13:13:09	2021-01-18 13:59:05	St. Clair St & Erie St	13016	Michigan Ave & Lake St	TA1305000011	casual
+A5F79DBD056F05C4	classic_bike	2021-01-07 17:28:16	2021-01-07 17:52:47	Honore St & Division St	TA1305000034	Lincoln Ave & Belmont Ave	TA1309000042	member
+CD52078EDB872EC3	classic_bike	2021-01-16 14:22:11	2021-01-16 14:30:11	Honore St & Division St	TA1305000034	Milwaukee Ave & Grand Ave	13033	member
+2227B156062748B0	classic_bike	2021-01-09 07:13:18	2021-01-09 07:24:58	Damen Ave & Leland Ave	TA1307000158	Lincoln Ave & Belmont Ave	TA1309000042	member
+42A7B694834A5D5D	classic_bike	2021-01-03 11:02:50	2021-01-03 11:35:07	Sedgwick St & North Ave	TA1307000038	Lincoln Ave & Belmont Ave	TA1309000042	member
+45C7442A79A19445	classic_bike	2021-01-24 19:15:09	2021-01-24 19:38:06	Pulaski Rd & Eddy St (Temp)	KA1504000141	Broadway & Waveland Ave	13325	member
+1C1CBF8EF4582598	classic_bike	2021-01-23 16:23:47	2021-01-23 16:35:05	California Ave & Cortez St	17660	Damen Ave & Pierce Ave	TA1305000041	casual
+E164C9047A642039	classic_bike	2021-01-19 18:06:32	2021-01-19 18:15:58	California Ave & Cortez St	17660	Damen Ave & Pierce Ave	TA1305000041	casual
+71DCF667F47EBEA0	classic_bike	2021-01-25 17:22:16	2021-01-25 17:31:45	California Ave & Cortez St	17660	Damen Ave & Pierce Ave	TA1305000041	casual
+EDB0672A7F3E3217	electric_bike	2021-01-10 11:57:41	2021-01-10 12:30:20	Indiana Ave & Roosevelt Rd	SL-005	Lake Shore Dr & Wellington Ave	TA1307000041	member
+D8B1D6D1E563A1E6	classic_bike	2021-01-18 08:08:35	2021-01-18 08:18:04	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+80F79C34F0A9F06D	classic_bike	2021-01-20 08:02:18	2021-01-20 08:12:12	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+BB309C898400C1BE	classic_bike	2021-01-06 08:11:06	2021-01-06 08:21:18	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+0E65FB2BB788D6B4	classic_bike	2021-01-12 07:58:28	2021-01-12 08:08:23	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+AA733C6285A71286	classic_bike	2021-01-25 08:04:37	2021-01-25 08:14:10	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+B05F6987B89F80ED	classic_bike	2021-01-05 07:55:35	2021-01-05 08:05:22	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+4DDA04E6D933AB21	classic_bike	2021-01-07 10:13:45	2021-01-07 10:20:48	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	casual
+B730D67F109814E5	electric_bike	2021-01-08 18:43:40	2021-01-08 19:08:17	Campbell Ave & Montrose Ave	15623	California Ave & Byron St	15628	member
+98A2763356C847C7	classic_bike	2021-01-15 14:52:34	2021-01-15 15:02:05	Lincoln Park Conservatory	LP-	Wells St & Evergreen Ave	TA1308000049	member
+8EA9CCCB4A295D2B	classic_bike	2021-01-05 12:17:00	2021-01-05 12:21:54	Larrabee St & Division St	KA1504000079	Wells St & Evergreen Ave	TA1308000049	member
+0C53441DD8DD170A	classic_bike	2021-01-26 20:14:04	2021-01-26 20:27:54	Damen Ave & Walnut (Lake) St	KA17018054	Damen Ave & Pierce Ave	TA1305000041	member
+D67FF76C379CBA22	electric_bike	2021-01-15 11:39:15	2021-01-15 12:06:36	Larrabee St & Division St	KA1504000079	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+97CC8FB43EAD6EB8	docked_bike	2021-01-18 14:00:28	2021-01-18 14:35:10	Larrabee St & Division St	KA1504000079	Damen Ave & Pierce Ave	TA1305000041	casual
+F66ED3BE8A86254C	classic_bike	2021-01-24 13:29:34	2021-01-24 13:47:34	Kedzie Ave & Milwaukee Ave	13085	Damen Ave & Pierce Ave	TA1305000041	member
+DDEAC09CE39E4309	electric_bike	2021-01-26 14:54:59	2021-01-26 15:10:25	Ritchie Ct & Banks St	KA1504000134	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+8083BB0AA3E91374	classic_bike	2021-01-04 00:52:27	2021-01-04 01:04:59	Ritchie Ct & Banks St	KA1504000134	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+D7BCAC107782C095	electric_bike	2021-01-25 09:54:16	2021-01-25 09:58:00	Ritchie Ct & Banks St	KA1504000134	Wells St & Evergreen Ave	TA1308000049	member
+3CE9FCDD91D97931	classic_bike	2021-01-01 17:20:44	2021-01-01 17:39:56	Ritchie Ct & Banks St	KA1504000134	Wells St & Evergreen Ave	TA1308000049	member
+99AFC2376B4C7F05	classic_bike	2021-01-20 16:58:46	2021-01-20 17:10:36	Ritchie Ct & Banks St	KA1504000134	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+CB205B2DDFBD22A5	classic_bike	2021-01-15 17:22:41	2021-01-15 17:35:38	Ritchie Ct & Banks St	KA1504000134	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+EA9AED64814BFAD1	classic_bike	2021-01-05 18:12:35	2021-01-05 18:23:37	Ritchie Ct & Banks St	KA1504000134	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+8C6C37A0CE72F198	classic_bike	2021-01-07 17:14:13	2021-01-07 17:26:55	Ritchie Ct & Banks St	KA1504000134	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+A8B62F21C482D3A3	electric_bike	2021-01-02 19:27:41	2021-01-02 19:52:51	Ritchie Ct & Banks St	KA1504000134	Wells St & Evergreen Ave	TA1308000049	member
+2F764095454AF0E2	classic_bike	2021-01-16 09:24:49	2021-01-16 09:29:22	Ritchie Ct & Banks St	KA1504000134	Wells St & Evergreen Ave	TA1308000049	member
+0138C47EA3D05FF1	classic_bike	2021-01-13 12:01:21	2021-01-13 12:07:04	Ritchie Ct & Banks St	KA1504000134	Wells St & Evergreen Ave	TA1308000049	member
+B93275ED00A57E54	classic_bike	2021-01-02 11:46:04	2021-01-02 12:05:45	Damen Ave & Leland Ave	TA1307000158	California Ave & Byron St	15628	member
+425ADC9C2A38209E	classic_bike	2021-01-09 16:28:03	2021-01-09 16:32:58	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	casual
+3E7C5CEF66BF12D7	classic_bike	2021-01-09 16:27:40	2021-01-09 16:32:58	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	casual
+9912103D40D18CE7	classic_bike	2021-01-23 12:57:59	2021-01-23 13:21:06	Sedgwick St & North Ave	TA1307000038	Damen Ave & Pierce Ave	TA1305000041	member
+4DBF0AA312765D01	classic_bike	2021-01-07 12:31:44	2021-01-07 12:56:03	Sedgwick St & North Ave	TA1307000038	Damen Ave & Pierce Ave	TA1305000041	member
+C3CB0FF9BF613E18	classic_bike	2021-01-19 10:18:15	2021-01-19 10:21:45	Sedgwick St & North Ave	TA1307000038	Wells St & Evergreen Ave	TA1308000049	member
+AC6912DBE2CAB7B2	classic_bike	2021-01-10 13:36:50	2021-01-10 13:50:28	Sedgwick St & North Ave	TA1307000038	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+73BCE7190389548F	classic_bike	2021-01-24 15:09:56	2021-01-24 15:14:40	Sedgwick St & North Ave	TA1307000038	Wells St & Evergreen Ave	TA1308000049	member
+E78750248E32FE9A	classic_bike	2021-01-28 14:18:15	2021-01-28 14:28:10	California Ave & Francis Pl (Temp)	13259	Damen Ave & Pierce Ave	TA1305000041	casual
+68E0CF7DB65B6214	docked_bike	2021-01-21 18:31:32	2021-01-21 18:44:31	Sedgwick St & North Ave	TA1307000038	Lake Shore Dr & Wellington Ave	TA1307000041	casual
+31A90B16DBA7ADAC	electric_bike	2021-01-13 16:47:20	2021-01-13 16:51:50	Clark St & Armitage Ave	13146	Wells St & Evergreen Ave	TA1308000049	member
+EF80792DA85E72FD	classic_bike	2021-01-23 11:56:52	2021-01-23 12:05:10	Campbell Ave & Montrose Ave	15623	California Ave & Byron St	15628	member
+372A984FD4BDFD30	classic_bike	2021-01-07 21:18:02	2021-01-07 21:35:20	Rush St & Hubbard St	KA1503000044	Lakeview Ave & Fullerton Pkwy	TA1309000019	casual
+6C3B976D39517292	classic_bike	2021-01-18 23:20:11	2021-01-18 23:36:29	Rush St & Hubbard St	KA1503000044	Lakeview Ave & Fullerton Pkwy	TA1309000019	casual
+9FF4307E0E0B7777	classic_bike	2021-01-15 21:39:52	2021-01-15 21:57:31	Rush St & Hubbard St	KA1503000044	Lakeview Ave & Fullerton Pkwy	TA1309000019	casual
+26BD159C9F919EEA	electric_bike	2021-01-11 20:24:45	2021-01-11 20:40:39	Rush St & Hubbard St	KA1503000044	Lakeview Ave & Fullerton Pkwy	TA1309000019	casual
+1BFE68199641B41A	electric_bike	2021-01-24 23:20:28	2021-01-24 23:34:18	Rush St & Hubbard St	KA1503000044	Lakeview Ave & Fullerton Pkwy	TA1309000019	casual
+BC40C69A927FA921	electric_bike	2021-01-04 21:38:32	2021-01-04 21:53:18	Rush St & Hubbard St	KA1503000044	Lakeview Ave & Fullerton Pkwy	TA1309000019	casual
+4D89A8D90E12BA5C	classic_bike	2021-01-18 08:30:06	2021-01-18 08:41:35	Ashland Ave & Wellington Ave	13269	Lake Shore Dr & Wellington Ave	TA1307000041	member
+12616975D49B1AEC	electric_bike	2021-01-12 18:03:16	2021-01-12 18:14:26	Clark St & Wrightwood Ave	TA1305000014	Wells St & Evergreen Ave	TA1308000049	member
+03828E30FF2CBB41	electric_bike	2021-01-22 09:32:32	2021-01-22 09:35:36	Clark St & Wrightwood Ave	TA1305000014	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+10319D18CB77B59F	classic_bike	2021-01-27 09:53:23	2021-01-27 09:56:21	Clark St & Wrightwood Ave	TA1305000014	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+96D4861981C59CD0	classic_bike	2021-01-05 12:30:22	2021-01-05 12:38:54	Noble St & Milwaukee Ave	13290	Damen Ave & Pierce Ave	TA1305000041	casual
+465F5102C57CFB24	electric_bike	2021-01-13 09:30:14	2021-01-13 09:37:56	Noble St & Milwaukee Ave	13290	Damen Ave & Pierce Ave	TA1305000041	casual
+B8A40E702780F9A1	classic_bike	2021-01-15 23:06:19	2021-01-15 23:21:45	Ogden Ave & Chicago Ave	TA1305000020	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+785509BFC1381F17	classic_bike	2021-01-16 18:55:14	2021-01-16 19:03:38	Milwaukee Ave & Rockwell St	13242	Damen Ave & Pierce Ave	TA1305000041	member
+4F70B674A27FCA2A	electric_bike	2021-01-23 11:12:39	2021-01-23 11:24:33	Ritchie Ct & Banks St	KA1504000134	Lake Shore Dr & Wellington Ave	TA1307000041	casual
+A1C44F328998DE9B	classic_bike	2021-01-22 16:25:25	2021-01-22 16:29:48	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+EE0B0A8BC0A9BDA3	electric_bike	2021-01-09 16:27:22	2021-01-09 16:32:55	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+0D508096684592FE	classic_bike	2021-01-06 17:04:50	2021-01-06 17:13:07	Fairbanks St & Superior St	18003	Wells St & Evergreen Ave	TA1308000049	member
+BB471691A6698DE6	classic_bike	2021-01-05 15:21:10	2021-01-05 15:30:29	Fairbanks St & Superior St	18003	Wells St & Evergreen Ave	TA1308000049	member
+330B774B4F90BB4B	classic_bike	2021-01-29 17:18:59	2021-01-29 17:27:42	Fairbanks St & Superior St	18003	Wells St & Evergreen Ave	TA1308000049	member
+C0B7D4627D08085F	classic_bike	2021-01-22 20:58:17	2021-01-22 21:06:57	Fairbanks St & Superior St	18003	Wells St & Evergreen Ave	TA1308000049	member
+CA19A62EF29A79DC	classic_bike	2021-01-08 20:29:29	2021-01-08 20:37:37	Fairbanks St & Superior St	18003	Wells St & Evergreen Ave	TA1308000049	member
+5B3CC68074BC00D2	classic_bike	2021-01-06 13:45:39	2021-01-06 13:49:35	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+A8E3465AA2D8E9EF	classic_bike	2021-01-09 16:26:40	2021-01-09 16:32:49	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+B3B761947C4FCB37	electric_bike	2021-01-21 19:53:29	2021-01-21 19:57:17	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+1A0D26C35F7CA552	electric_bike	2021-01-21 19:53:41	2021-01-21 19:57:33	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+179F719815B8767D	classic_bike	2021-01-12 17:22:14	2021-01-12 17:25:32	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+DE38FBC56ECB83E6	classic_bike	2021-01-09 11:30:33	2021-01-09 11:48:47	Honore St & Division St	TA1305000034	Wells St & Evergreen Ave	TA1308000049	casual
+14B08A5D119E16EB	classic_bike	2021-01-04 14:59:22	2021-01-04 15:02:46	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+5AB2CC347956D266	classic_bike	2021-01-01 20:06:21	2021-01-01 20:14:30	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	member
+EE02D5C96D6D0563	classic_bike	2021-01-25 16:42:03	2021-01-25 16:52:15	California Ave & Cortez St	17660	Damen Ave & Pierce Ave	TA1305000041	member
+87A110CAB1D82210	classic_bike	2021-01-01 20:08:03	2021-01-01 20:14:53	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	casual
+F51A275BE9860F87	classic_bike	2021-01-09 16:27:21	2021-01-09 16:32:51	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	casual
+6CC933B68C8EAC65	electric_bike	2021-01-09 16:26:56	2021-01-09 16:32:56	Honore St & Division St	TA1305000034	Damen Ave & Pierce Ave	TA1305000041	casual
+A075A14FE431B7C1	classic_bike	2021-01-23 09:15:28	2021-01-23 09:27:40	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Wellington Ave	TA1307000041	member
+7D35EADA05FE04A9	classic_bike	2021-01-02 12:23:51	2021-01-02 12:35:05	California Ave & Cortez St	17660	Damen Ave & Pierce Ave	TA1305000041	member
+EB40A016039F1309	electric_bike	2021-01-12 16:19:39	2021-01-12 16:41:06	St. Clair St & Erie St	13016	Lake Shore Dr & Wellington Ave	TA1307000041	member
+22061C2B739015BD	classic_bike	2021-01-21 16:47:06	2021-01-21 17:12:37	St. Clair St & Erie St	13016	Lake Shore Dr & Wellington Ave	TA1307000041	member
+EC02608BB8BA09FE	electric_bike	2021-01-20 20:44:28	2021-01-20 20:56:07	Larrabee St & Division St	KA1504000079	Damen Ave & Pierce Ave	TA1305000041	member
+7BDFAF58A63ED225	electric_bike	2021-01-27 20:49:39	2021-01-27 21:02:12	Larrabee St & Division St	KA1504000079	Damen Ave & Pierce Ave	TA1305000041	member
+55358F07F46F56C3	electric_bike	2021-01-25 20:45:26	2021-01-25 20:57:43	Larrabee St & Division St	KA1504000079	Damen Ave & Pierce Ave	TA1305000041	member
+A7BBA82B19283F3D	classic_bike	2021-01-11 13:50:29	2021-01-11 13:57:55	Sheffield Ave & Fullerton Ave	TA1306000016	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+FE9207F79248FD3F	classic_bike	2021-01-08 17:46:04	2021-01-08 17:51:27	Sheffield Ave & Fullerton Ave	TA1306000016	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+3AD792B774AF1243	classic_bike	2021-01-19 07:58:13	2021-01-19 08:17:11	Dearborn Pkwy & Delaware Pl	TA1307000128	Lake Shore Dr & Wellington Ave	TA1307000041	casual
+0FC928C9B2F3CAC6	electric_bike	2021-01-16 15:45:11	2021-01-16 15:52:15	California Ave & North Ave	13258	Damen Ave & Pierce Ave	TA1305000041	casual
+D94BC4BBD1266EB7	classic_bike	2021-01-22 14:29:31	2021-01-22 14:44:20	Wood St & Augusta Blvd	657	Damen Ave & Pierce Ave	TA1305000041	casual
+B1D8B68A5C1B4B4F	classic_bike	2021-01-21 11:38:55	2021-01-21 11:51:47	Southport Ave & Roscoe St	13071	Lake Shore Dr & Wellington Ave	TA1307000041	casual
+AD7961E61C603837	classic_bike	2021-01-19 12:15:47	2021-01-19 12:58:49	Clark St & Elmdale Ave	KA1504000148	California Ave & Byron St	15628	member
+788668E43DA010C9	classic_bike	2021-01-20 16:39:34	2021-01-20 17:09:22	Clark St & Chicago Ave	13303	Damen Ave & Pierce Ave	TA1305000041	member
+D42EDBECEB32EE44	classic_bike	2021-01-27 07:57:16	2021-01-27 08:07:27	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+C1E3B8DA0E9A499E	classic_bike	2021-01-22 07:58:32	2021-01-22 08:08:27	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+29ACAFF71C72DFCA	classic_bike	2021-01-04 07:58:41	2021-01-04 08:07:30	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+206515F816574B58	classic_bike	2021-01-11 08:05:16	2021-01-11 08:15:29	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+88E889062BA3140E	classic_bike	2021-01-19 08:17:28	2021-01-19 08:27:38	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+31BBCD981B08A686	classic_bike	2021-01-14 08:04:39	2021-01-14 08:14:52	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+C29A559D2CB2B180	classic_bike	2021-01-15 08:11:25	2021-01-15 08:21:01	Wood St & Chicago Ave	637	Damen Ave & Pierce Ave	TA1305000041	member
+0782A6B1C7099BC8	electric_bike	2021-01-10 16:36:40	2021-01-10 16:51:40	Richmond St & Diversey Ave	15645	Damen Ave & Pierce Ave	TA1305000041	member
+7ADCFF010BD0EC91	classic_bike	2021-01-21 12:40:00	2021-01-21 13:33:31	Wood St & Chicago Ave	637	Lakeview Ave & Fullerton Pkwy	TA1309000019	member
+C9F1AA22CF55836D	classic_bike	2021-01-18 12:29:05	2021-01-18 12:49:31	Wood St & Chicago Ave	637	Wells St & Evergreen Ave	TA1308000049	casual
+660B7E12EDF2B045	classic_bike	2021-01-05 18:28:04	2021-01-05 18:32:11	Damen Ave & Cortland St	13133	Damen Ave & Pierce Ave	TA1305000041	member
+69E896756CEFF381	classic_bike	2021-01-16 18:20:21	2021-01-16 18:28:47	California Ave & Fletcher St	15642	California Ave & Byron St	15628	member
+AF264C00D93A7FCE	classic_bike	2021-01-21 09:31:29	2021-01-21 09:39:12	California Ave & Fletcher St	15642	California Ave & Byron St	15628	member
+A6366DE801E4DB62	classic_bike	2021-01-13 15:12:55	2021-01-13 15:40:35	Michigan Ave & Jackson Blvd	TA1309000002	Lake Shore Dr & Wellington Ave	TA1307000041	member
+F57ADA6D9C48C6DC	classic_bike	2021-01-04 14:52:28	2021-01-04 15:20:31	Damen Ave & Leland Ave	TA1307000158	Wells St & Evergreen Ave	TA1308000049	member
+E76D323CE73E3617	classic_bike	2021-01-15 12:03:40	2021-01-15 12:22:00	Michigan Ave & 8th St	623	Lake Shore Dr & Monroe St	13300	casual
+18DC77B2373141E3	electric_bike	2021-01-17 16:27:23	2021-01-17 16:46:54	California Ave & Cortez St	17660	Sedgwick St & Webster Ave	13191	member
+C5DAE407B3B42844	classic_bike	2021-01-21 13:03:04	2021-01-21 13:13:30	Indiana Ave & Roosevelt Rd	SL-005	Lake Shore Dr & Monroe St	13300	member
+E1C2E0917FA50F24	classic_bike	2021-01-09 12:37:30	2021-01-09 13:18:09	Ritchie Ct & Banks St	KA1504000134	Lakefront Trail & Bryn Mawr Ave	KA1504000152	member
+C632A195ECFBF93C	classic_bike	2021-01-09 12:41:50	2021-01-09 14:04:26	Lincoln Park Conservatory	LP-	Lake Shore Dr & Monroe St	13300	casual
+92278988A5620927	classic_bike	2021-01-09 12:44:33	2021-01-09 14:04:42	Lincoln Park Conservatory	LP-	Lake Shore Dr & Monroe St	13300	casual
+6008CFF249C66E4A	classic_bike	2021-01-10 16:24:21	2021-01-10 16:31:37	Sheffield Ave & Fullerton Ave	TA1306000016	Southport Ave & Clybourn Ave	TA1309000030	member
+CC625D8F6956BB25	classic_bike	2021-01-09 15:05:49	2021-01-09 15:51:39	Sheffield Ave & Fullerton Ave	TA1306000016	Lake Shore Dr & Monroe St	13300	casual
+9330782CD8960D6C	classic_bike	2021-01-09 10:42:08	2021-01-09 11:28:27	St. Clair St & Erie St	13016	Lakefront Trail & Bryn Mawr Ave	KA1504000152	member
+3F6E03922665AF6B	classic_bike	2021-01-10 13:19:48	2021-01-10 13:26:18	Southport Ave & Wellington Ave	TA1307000006	Southport Ave & Clybourn Ave	TA1309000030	member
+9EC96AD4631379E3	classic_bike	2021-01-24 11:57:08	2021-01-24 12:34:02	Dearborn Pkwy & Delaware Pl	TA1307000128	Lakefront Trail & Bryn Mawr Ave	KA1504000152	casual
+D4E2C0127EBDB8FD	classic_bike	2021-01-18 08:27:08	2021-01-18 08:36:39	Clark St & Wrightwood Ave	TA1305000014	Southport Ave & Clybourn Ave	TA1309000030	member
+A12560DAC8167C6E	classic_bike	2021-01-13 10:42:27	2021-01-13 11:13:11	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+2965D70D06887B34	classic_bike	2021-01-08 15:05:40	2021-01-08 15:36:31	Halsted St & Roscoe St	TA1309000025	Lakefront Trail & Bryn Mawr Ave	KA1504000152	member
+38FC9C9397C45CE6	classic_bike	2021-01-04 11:38:35	2021-01-04 12:12:43	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+14D586C59B040DAF	classic_bike	2021-01-11 15:18:36	2021-01-11 15:51:03	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+62F9F0F752BC3587	classic_bike	2021-01-19 14:42:02	2021-01-19 15:14:29	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+0B2A0FA1D7E03AC1	classic_bike	2021-01-07 15:05:21	2021-01-07 15:36:21	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+F2E2C4EC41F8C80A	classic_bike	2021-01-05 10:46:37	2021-01-05 11:18:56	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+907AF22FC7EB4270	classic_bike	2021-01-21 10:59:09	2021-01-21 11:29:22	Halsted St & Roscoe St	TA1309000025	Lake Shore Dr & Monroe St	13300	member
+130035EE49D190EF	classic_bike	2021-01-18 13:36:08	2021-01-18 13:45:58	Indiana Ave & Roosevelt Rd	SL-005	Lake Shore Dr & Monroe St	13300	member
+B25E4D1B07B93F02	electric_bike	2021-01-09 15:21:48	2021-01-09 15:29:33	Indiana Ave & Roosevelt Rd	SL-005	Lake Shore Dr & Monroe St	13300	casual
+CCC8B85FF008FC22	classic_bike	2021-01-05 19:23:20	2021-01-05 19:32:28	Calumet Ave & 35th St	13345	Wallace St & 35th St	TA1308000045	member
+9DBD6E0E8BA4874E	classic_bike	2021-01-04 19:07:21	2021-01-04 19:16:25	Calumet Ave & 35th St	13345	Wallace St & 35th St	TA1308000045	member
+4FEF25F07123921F	classic_bike	2021-01-22 16:16:31	2021-01-22 16:21:39	Sheffield Ave & Fullerton Ave	TA1306000016	Southport Ave & Clybourn Ave	TA1309000030	member
+58502272549675FD	classic_bike	2021-01-09 14:59:54	2021-01-09 15:51:58	Sheffield Ave & Fullerton Ave	TA1306000016	Lake Shore Dr & Monroe St	13300	casual
+2D5B228CFBE70D17	classic_bike	2021-01-06 13:52:05	2021-01-06 14:22:57	Clinton St & Jackson Blvd	638	Southport Ave & Clybourn Ave	TA1309000030	casual
+DD83B26F34A5CB88	classic_bike	2021-01-05 07:54:09	2021-01-05 08:26:27	Clinton St & Jackson Blvd	638	Southport Ave & Clybourn Ave	TA1309000030	casual
+CC9683C432787037	classic_bike	2021-01-07 16:21:07	2021-01-07 16:25:07	Greenview Ave & Fullerton Ave	TA1307000001	Southport Ave & Clybourn Ave	TA1309000030	member
+30E4A5165C9CE7EF	classic_bike	2021-01-21 13:51:47	2021-01-21 14:00:02	Clark St & Berwyn Ave	KA1504000146	Lakefront Trail & Bryn Mawr Ave	KA1504000152	member
+B999358A606D09CC	electric_bike	2021-01-13 12:14:37	2021-01-13 12:16:37	Halsted St & 35th St	TA1308000043	Wallace St & 35th St	TA1308000045	member
+63F384EDFC6D72C2	classic_bike	2021-01-12 06:20:14	2021-01-12 06:52:07	Michigan Ave & 8th St	623	Indiana Ave & Roosevelt Rd	SL-005	member
+6897AB6A81A9A706	classic_bike	2021-01-21 06:17:39	2021-01-21 06:46:53	Michigan Ave & 8th St	623	Indiana Ave & Roosevelt Rd	SL-005	member
+3F75517C7F7C4885	classic_bike	2021-01-29 06:19:09	2021-01-29 06:49:58	Michigan Ave & 8th St	623	Indiana Ave & Roosevelt Rd	SL-005	member
+3C4079A95B7D5F9A	classic_bike	2021-01-13 06:18:58	2021-01-13 06:49:27	Michigan Ave & 8th St	623	Indiana Ave & Roosevelt Rd	SL-005	member
+7BF187E1B306F897	classic_bike	2021-01-14 06:17:45	2021-01-14 06:46:48	Michigan Ave & 8th St	623	Indiana Ave & Roosevelt Rd	SL-005	member
+257F4DCB8DEDAA40	classic_bike	2021-01-15 06:18:33	2021-01-15 06:50:14	Michigan Ave & 8th St	623	Indiana Ave & Roosevelt Rd	SL-005	member
+605395F432FF8901	electric_bike	2021-01-13 21:10:21	2021-01-13 21:25:00	Michigan Ave & 8th St	623	Wabash Ave & Roosevelt Rd	TA1305000002	member
+0225A1411134B3E0	electric_bike	2021-01-13 14:57:40	2021-01-13 17:07:31	Rush St & Hubbard St	KA1503000044	Wabash Ave & Grand Ave	TA1307000117	casual
+305BF701499589E5	classic_bike	2021-01-13 19:56:53	2021-01-13 20:12:35	Rush St & Hubbard St	KA1503000044	Damen Ave & Chicago Ave	13132	member
+85459957AB0F6553	electric_bike	2021-01-20 20:55:21	2021-01-20 21:05:53	Michigan Ave & 8th St	623	Wabash Ave & Grand Ave	TA1307000117	casual
+E8A9DB91F71C59F8	classic_bike	2021-01-07 06:50:49	2021-01-07 07:35:01	Rush St & Hubbard St	KA1503000044	Wabash Ave & Grand Ave	TA1307000117	casual
+5F83F8988805F025	classic_bike	2021-01-04 22:02:25	2021-01-04 22:15:26	Shields Ave & 31st St	KA1503000038	Wabash Ave & Cermak Rd	TA1305000001	casual
+3620360042790B95	classic_bike	2021-01-08 08:09:58	2021-01-08 08:18:03	Campbell Ave & Montrose Ave	15623	Damen Ave & Leland Ave	TA1307000158	member
+A6E9F673C9B7C435	electric_bike	2021-01-29 18:03:29	2021-01-29 18:08:43	Racine Ave & Congress Pkwy	TA1306000025	Halsted St & Polk St	TA1307000121	member
+0F38198D982986CC	classic_bike	2021-01-20 10:12:37	2021-01-20 10:25:35	Damen Ave & Walnut (Lake) St	KA17018054	Morgan St & Polk St	TA1307000130	member
+E7AFFDD838A6FCCC	electric_bike	2021-01-29 12:02:44	2021-01-29 12:13:57	Damen Ave & Walnut (Lake) St	KA17018054	Morgan St & Polk St	TA1307000130	member
+1A4AFEBA4D3E16BC	classic_bike	2021-01-24 07:40:36	2021-01-24 08:05:28	Racine Ave & 15th St	13304	Halsted St & Polk St	TA1307000121	member
+3392100A96B9851D	classic_bike	2021-01-11 17:55:29	2021-01-11 18:00:25	Racine Ave & 13th St	13165	Halsted St & Polk St	TA1307000121	member
+D6E4FDE73C2C9131	classic_bike	2021-01-07 16:19:02	2021-01-07 16:25:49	Racine Ave & 13th St	13165	Halsted St & Polk St	TA1307000121	member
+968F1F85045EED12	classic_bike	2021-01-10 11:23:59	2021-01-10 11:30:16	Racine Ave & 13th St	13165	Halsted St & Polk St	TA1307000121	member
+46993B58DF0FDB4E	classic_bike	2021-01-05 16:08:57	2021-01-05 16:15:35	Racine Ave & 13th St	13165	Halsted St & Polk St	TA1307000121	member
+005CC419BD1269E8	classic_bike	2021-01-11 16:02:03	2021-01-11 16:06:32	Indiana Ave & 26th St	TA1307000005	Wabash Ave & Cermak Rd	TA1305000001	member
+07693D7709E898DA	classic_bike	2021-01-29 16:02:17	2021-01-29 16:06:55	Indiana Ave & 26th St	TA1307000005	Wabash Ave & Cermak Rd	TA1305000001	member
+C73E6B6B1815A9DA	classic_bike	2021-01-28 16:07:00	2021-01-28 16:11:22	Indiana Ave & 26th St	TA1307000005	Wabash Ave & Cermak Rd	TA1305000001	member
+0967721A9C76093C	classic_bike	2021-01-18 10:13:54	2021-01-18 10:21:07	Clinton St & Jackson Blvd	638	Morgan St & Polk St	TA1307000130	casual
+5B110F8AC52FB353	electric_bike	2021-01-14 10:57:06	2021-01-14 11:13:07	Shields Ave & 31st St	KA1503000038	900 W Harrison St	13028	member
+630C95ECBC9C74A5	classic_bike	2021-01-05 08:19:22	2021-01-05 08:47:20	Calumet Ave & 33rd St	13217	Halsted St & Polk St	TA1307000121	member
+E730EF1F72099CFF	classic_bike	2021-01-21 16:11:56	2021-01-21 16:20:55	Federal St & Polk St	SL-008	900 W Harrison St	13028	member
+D954864B3568A7F8	classic_bike	2021-01-14 19:04:58	2021-01-14 19:27:16	Wells St & Polk St	SL-011	Wabash Ave & Cermak Rd	TA1305000001	member
+78AB7B4B063DE521	electric_bike	2021-01-19 16:48:01	2021-01-19 17:01:55	Indiana Ave & 26th St	TA1307000005	Wabash Ave & Cermak Rd	TA1305000001	member
+311DD5CB447CEE9E	classic_bike	2021-01-15 08:04:44	2021-01-15 08:09:15	Indiana Ave & 26th St	TA1307000005	Wabash Ave & Cermak Rd	TA1305000001	member
+2002DDF9E3F4A461	electric_bike	2021-01-15 09:34:15	2021-01-15 09:37:46	Indiana Ave & 26th St	TA1307000005	Wabash Ave & Cermak Rd	TA1305000001	member
+7EEC45F049AC6A7E	electric_bike	2021-01-16 11:17:51	2021-01-16 11:22:53	Halsted St & Maxwell St	TA1309000001	Halsted St & Polk St	TA1307000121	member
+D87BF399FE27B13F	classic_bike	2021-01-14 22:11:14	2021-01-14 22:14:36	Halsted St & Maxwell St	TA1309000001	Halsted St & Polk St	TA1307000121	member
+665986411086739D	electric_bike	2021-01-18 20:39:52	2021-01-18 20:49:07	Franklin St & Jackson Blvd	TA1305000025	Wabash Ave & Cermak Rd	TA1305000001	member
+E92928D8726F1374	electric_bike	2021-01-12 05:24:23	2021-01-12 05:27:57	Michigan Ave & 8th St	623	Michigan Ave & Madison St	13036	member
+424AA7306A3E0FAE	electric_bike	2021-01-20 05:20:43	2021-01-20 05:24:40	Michigan Ave & 8th St	623	Michigan Ave & Madison St	13036	member
+F88F2AFD25AC4F08	electric_bike	2021-01-13 13:56:32	2021-01-13 14:01:45	Halsted St & 35th St	TA1308000043	Emerald Ave & 31st St	TA1309000055	member
+D627BD474B3C7F20	classic_bike	2021-01-20 19:30:02	2021-01-20 19:37:08	Racine Ave & 13th St	13165	Aberdeen St & Monroe St	13156	member
+D98E089419520CB6	classic_bike	2021-01-06 11:03:44	2021-01-06 11:16:02	Wood St & Chicago Ave	637	Aberdeen St & Monroe St	13156	casual
+C2D63388D807F646	classic_bike	2021-01-17 12:46:30	2021-01-17 12:53:13	Desplaines St & Jackson Blvd	15539	Aberdeen St & Monroe St	13156	member
+DC6BA58DDD95ABBA	electric_bike	2021-01-28 17:33:58	2021-01-28 17:38:35	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+F4DEDDBC300C12E4	classic_bike	2021-01-20 08:15:47	2021-01-20 08:22:28	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+888514631D67CC80	classic_bike	2021-01-19 07:45:37	2021-01-19 07:51:16	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+8367AAE3F69740F5	classic_bike	2021-01-12 08:27:04	2021-01-12 08:32:31	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+B4823F4E26BB6236	classic_bike	2021-01-13 08:17:52	2021-01-13 08:24:13	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+96713324EB1897B3	classic_bike	2021-01-25 07:40:20	2021-01-25 07:45:26	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+A64591D8FDB360C8	classic_bike	2021-01-22 08:09:42	2021-01-22 08:15:39	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+696F69C06D78FDC3	classic_bike	2021-01-26 08:30:48	2021-01-26 08:37:19	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+EDBA53B6C55D474D	electric_bike	2021-01-29 10:01:09	2021-01-29 10:05:51	Clinton St & Jackson Blvd	638	Aberdeen St & Monroe St	13156	member
+89443C7F2EE817C9	classic_bike	2021-01-14 11:45:25	2021-01-14 11:52:44	Desplaines St & Jackson Blvd	15539	Aberdeen St & Monroe St	13156	member
+17220CCEDCCFFD6C	classic_bike	2021-01-14 14:20:58	2021-01-14 14:25:57	Desplaines St & Jackson Blvd	15539	Aberdeen St & Monroe St	13156	member
+67626A3E875FB7F9	electric_bike	2021-01-05 09:33:31	2021-01-05 09:42:05	Wentworth Ave & 24th St (Temp)	TA1308000026	Emerald Ave & 31st St	TA1309000055	member
+BF8E1EF6AD125CB7	electric_bike	2021-01-02 10:25:39	2021-01-02 10:33:23	Wells St & Polk St	SL-011	Aberdeen St & Monroe St	13156	member
+339C6142C9387811	docked_bike	2021-01-11 09:38:26	2021-01-11 09:53:06	Calumet Ave & 33rd St	13217	Emerald Ave & 31st St	TA1309000055	casual
+1CD0367199C671A5	classic_bike	2021-01-28 16:57:40	2021-01-28 17:06:46	Orleans St & Hubbard St	636	Aberdeen St & Monroe St	13156	member
+8A893B79A1D3CA37	classic_bike	2021-01-28 16:44:00	2021-01-28 17:01:00	Halsted St & Maxwell St	TA1309000001	Emerald Ave & 31st St	TA1309000055	member
+0D9755D262AE46C6	classic_bike	2021-01-21 16:47:33	2021-01-21 17:00:41	Halsted St & Maxwell St	TA1309000001	Emerald Ave & 31st St	TA1309000055	member
+AC71DC0B1A374605	classic_bike	2021-01-09 15:07:09	2021-01-09 15:39:59	Pine Grove Ave & Irving Park Rd	TA1308000022	Aberdeen St & Monroe St	13156	member
+CBC79F10D7CA8641	classic_bike	2021-01-20 16:29:05	2021-01-20 16:46:53	St. Clair St & Erie St	13016	Aberdeen St & Monroe St	13156	member
+F7A65090B4B95875	classic_bike	2021-01-08 16:29:33	2021-01-08 16:46:16	St. Clair St & Erie St	13016	Aberdeen St & Monroe St	13156	member
+2F4F2D1F8DBD13EE	classic_bike	2021-01-02 14:10:38	2021-01-02 14:27:56	St. Clair St & Erie St	13016	Aberdeen St & Monroe St	13156	member
+EEA7218AB1D0B99B	classic_bike	2021-01-04 09:17:16	2021-01-04 09:29:50	Wells St & Huron St	TA1306000012	Aberdeen St & Monroe St	13156	member
+B26D66954447EEF3	classic_bike	2021-01-25 08:15:40	2021-01-25 08:27:20	Wells St & Huron St	TA1306000012	Aberdeen St & Monroe St	13156	member
+1E15780F8FE4EA90	classic_bike	2021-01-14 10:42:50	2021-01-14 11:24:47	Fort Dearborn Dr & 31st St	TA1307000048	Aberdeen St & Monroe St	13156	member
+31821F803759740C	classic_bike	2021-01-13 09:44:15	2021-01-13 09:49:18	Paulina St & Howard St	515	Ridge Blvd & Howard St	514	member
+0914C24AF7467FF2	classic_bike	2021-01-18 15:23:16	2021-01-18 15:30:54	Cityfront Plaza Dr & Pioneer Ct	13427	LaSalle St & Jackson Blvd	TA1309000004	member
+DF6CE519D1102D86	electric_bike	2021-01-14 15:24:09	2021-01-14 15:30:03	Cityfront Plaza Dr & Pioneer Ct	13427	LaSalle St & Jackson Blvd	TA1309000004	member
+8C2E6F4A01057509	electric_bike	2021-01-30 14:17:12	2021-01-30 14:23:30	Paulina St & Howard St	515	Ridge Blvd & Howard St	514	casual
+AEBCAFDB8E0D0E6E	electric_bike	2021-01-29 15:38:58	2021-01-29 15:42:43	Paulina St & Howard St	515	Ridge Blvd & Howard St	514	casual
+6EBE2E7421B65CE7	classic_bike	2021-01-21 07:15:15	2021-01-21 07:27:16	Michigan Ave & 14th St	TA1307000124	LaSalle St & Jackson Blvd	TA1309000004	member
+7FD241F89BBEB0FC	classic_bike	2021-01-19 17:01:24	2021-01-19 17:05:46	Clinton St & Jackson Blvd	638	LaSalle St & Jackson Blvd	TA1309000004	member
+187C5441E50EC11E	classic_bike	2021-01-08 08:01:30	2021-01-08 08:08:20	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+B1FD71999F63C884	classic_bike	2021-01-04 07:52:18	2021-01-04 07:59:27	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+CF5AFB98E8049CD8	classic_bike	2021-01-12 08:13:42	2021-01-12 08:20:05	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+E68BB8A904974EAA	classic_bike	2021-01-20 07:53:36	2021-01-20 08:00:59	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+1D892A81A1563EFF	classic_bike	2021-01-21 07:48:28	2021-01-21 07:54:41	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+1AFAFF8CA42B6D1E	classic_bike	2021-01-11 08:18:04	2021-01-11 08:24:41	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+8E8D4EFB152F6143	classic_bike	2021-01-13 07:58:30	2021-01-13 08:04:36	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+2DEBA20A4D962ACA	classic_bike	2021-01-15 08:06:34	2021-01-15 08:13:07	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+20F50A88D367EEC6	classic_bike	2021-01-28 11:07:43	2021-01-28 11:54:01	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+52938BC85D1DD177	electric_bike	2021-01-05 07:56:34	2021-01-05 08:04:29	Fairbanks St & Superior St	18003	LaSalle St & Jackson Blvd	TA1309000004	casual
+5FA4EA2D8D6799DD	classic_bike	2021-01-11 07:05:34	2021-01-11 07:36:33	Kedzie Ave & Milwaukee Ave	13085	LaSalle St & Jackson Blvd	TA1309000004	member
+EEA1CB6D4A66B45A	classic_bike	2021-01-21 08:27:37	2021-01-21 08:32:14	Federal St & Polk St	SL-008	LaSalle St & Jackson Blvd	TA1309000004	member
+6F3D48D6D554928E	classic_bike	2021-01-11 06:57:22	2021-01-11 06:59:53	Franklin St & Monroe St	TA1309000007	LaSalle St & Jackson Blvd	TA1309000004	member
+3A48C3636154A7FA	classic_bike	2021-01-20 06:57:59	2021-01-20 07:01:13	Franklin St & Monroe St	TA1309000007	LaSalle St & Jackson Blvd	TA1309000004	member
+4565B60EF27C349A	classic_bike	2021-01-28 07:03:43	2021-01-28 07:06:46	Franklin St & Monroe St	TA1309000007	LaSalle St & Jackson Blvd	TA1309000004	member
+E0074E042F6AA594	classic_bike	2021-01-13 06:57:10	2021-01-13 06:59:59	Franklin St & Monroe St	TA1309000007	LaSalle St & Jackson Blvd	TA1309000004	member
+65A6272FCE5EBB0D	classic_bike	2021-01-15 06:57:52	2021-01-15 07:01:15	Franklin St & Monroe St	TA1309000007	LaSalle St & Jackson Blvd	TA1309000004	member
+43BE17264A70102E	classic_bike	2021-01-08 05:24:39	2021-01-08 05:56:43	Central Park Ave & Elbridge Ave	15644	LaSalle St & Jackson Blvd	TA1309000004	member
+D6AD6A0706658643	classic_bike	2021-01-06 06:08:45	2021-01-06 06:43:53	Central Park Ave & Elbridge Ave	15644	LaSalle St & Jackson Blvd	TA1309000004	member
+96E83C1000A8BB19	classic_bike	2021-01-07 05:48:40	2021-01-07 06:23:45	Central Park Ave & Elbridge Ave	15644	LaSalle St & Jackson Blvd	TA1309000004	member
+091EDD307ADB54BD	classic_bike	2021-01-15 06:31:21	2021-01-15 07:04:54	Central Park Ave & Elbridge Ave	15644	LaSalle St & Jackson Blvd	TA1309000004	member
+22F498114B043FF2	classic_bike	2021-01-18 15:23:12	2021-01-18 15:30:56	Cityfront Plaza Dr & Pioneer Ct	13427	LaSalle St & Jackson Blvd	TA1309000004	member
+FAE1496A437AF78B	classic_bike	2021-01-18 09:19:56	2021-01-18 09:32:08	Cityfront Plaza Dr & Pioneer Ct	13427	LaSalle St & Jackson Blvd	TA1309000004	member
+2160F9F10E69E84E	classic_bike	2021-01-27 10:53:56	2021-01-27 10:58:21	Desplaines St & Jackson Blvd	15539	LaSalle St & Jackson Blvd	TA1309000004	member
+2B1AA49C0727084A	classic_bike	2021-01-24 12:01:30	2021-01-24 12:16:09	Wells St & Evergreen Ave	TA1308000049	LaSalle St & Jackson Blvd	TA1309000004	member
+708881C488094222	classic_bike	2021-01-22 08:13:14	2021-01-22 08:20:14	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+8CB1F19147D577AF	classic_bike	2021-01-19 08:11:43	2021-01-19 08:18:11	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+C19F985278EC35C0	classic_bike	2021-01-14 07:53:15	2021-01-14 08:00:00	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+ECF9CEB2B05FE006	classic_bike	2021-01-29 13:30:59	2021-01-29 13:42:06	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Jackson Blvd	TA1309000004	member
+991EC803E6C6EC44	classic_bike	2021-01-25 16:31:18	2021-01-25 16:56:49	Lakeview Ave & Fullerton Pkwy	TA1309000019	LaSalle St & Jackson Blvd	TA1309000004	member
+C293ED4E7D9009A7	classic_bike	2021-01-24 09:17:11	2021-01-24 09:20:49	Kilbourn Ave & Irving Park Rd	590	Avondale Ave & Irving Park Rd	15624	member
+1246C90D6D707DF7	classic_bike	2021-01-11 16:27:53	2021-01-11 16:31:47	Kilbourn Ave & Irving Park Rd	590	Avondale Ave & Irving Park Rd	15624	member
+50BFF938348A4FAA	classic_bike	2021-01-06 07:29:41	2021-01-06 07:34:27	Michigan Ave & 8th St	623	Millennium Park	13008	member
+94537447434D76E2	docked_bike	2021-01-08 15:37:32	2021-01-08 16:19:59	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+7114E9A3967C84EC	classic_bike	2021-01-14 08:57:17	2021-01-14 09:06:24	Michigan Ave & 8th St	623	Millennium Park	13008	member
+4795DEF6EC789A58	classic_bike	2021-01-19 08:23:17	2021-01-19 08:28:58	Michigan Ave & 8th St	623	Millennium Park	13008	member
+33D5DFAF24AC2282	classic_bike	2021-01-23 11:58:59	2021-01-23 12:09:16	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+AEA2CBD9830D0C6C	classic_bike	2021-01-15 18:05:49	2021-01-15 18:20:26	Michigan Ave & 8th St	623	Wabash Ave & Wacker Pl	TA1307000131	casual
+94E7AA0F6146132F	classic_bike	2021-01-08 11:07:42	2021-01-08 11:23:17	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+95BCB304FC5D02A1	docked_bike	2021-01-05 13:40:14	2021-01-05 13:46:20	Michigan Ave & 8th St	623	Millennium Park	13008	casual
+69CD3BB50312D9F1	classic_bike	2021-01-13 11:19:17	2021-01-13 11:23:20	Michigan Ave & 8th St	623	Millennium Park	13008	member
+1AA91AFDF3578F5C	classic_bike	2021-01-16 14:49:03	2021-01-16 14:55:13	Clarendon Ave & Junior Ter	13389	Winthrop Ave & Lawrence Ave	TA1308000021	member
+43E9408734E7A624	classic_bike	2021-01-21 13:18:35	2021-01-21 13:25:37	Clarendon Ave & Junior Ter	13389	Winthrop Ave & Lawrence Ave	TA1308000021	member
+C100E4B5123DB29D	classic_bike	2021-01-14 16:58:08	2021-01-14 17:01:44	Sedgwick St & North Ave	TA1307000038	Halsted St & Willow St	TA1307000166	member
+23025FF9D6C59FB3	electric_bike	2021-01-04 16:37:12	2021-01-04 16:49:18	Rush St & Superior St	15530	Halsted St & Willow St	TA1307000166	casual
+5E4B575EDA40B44D	classic_bike	2021-01-16 17:11:53	2021-01-16 17:56:14	Rush St & Superior St	15530	Clark St & Lake St	KA1503000012	member
+34197615480A79ED	docked_bike	2021-01-24 16:11:22	2021-01-24 16:22:37	Honore St & Division St	TA1305000034	Halsted St & Willow St	TA1307000166	casual
+DFC2EE9B95690F2C	classic_bike	2021-01-07 15:18:48	2021-01-07 15:29:49	Ritchie Ct & Banks St	KA1504000134	Halsted St & Willow St	TA1307000166	member
+251E9B0F1BADC189	electric_bike	2021-01-21 16:43:09	2021-01-21 17:00:59	Rush St & Hubbard St	KA1503000044	Clark St & Lake St	KA1503000012	casual
+C710B86701315838	classic_bike	2021-01-11 06:52:05	2021-01-11 07:01:17	Michigan Ave & 8th St	623	Clark St & Lake St	KA1503000012	casual
+FAA0AFD5988F740C	classic_bike	2021-01-21 10:24:54	2021-01-21 10:33:17	St. Clair St & Erie St	13016	Clark St & Lake St	KA1503000012	member
+1AC4FFF59C4F1E5D	electric_bike	2021-01-24 10:06:10	2021-01-24 10:14:12	Clark St & Wrightwood Ave	TA1305000014	Halsted St & Willow St	TA1307000166	casual
+E4997B8974F880B8	classic_bike	2021-01-22 17:18:09	2021-01-22 19:16:41	Noble St & Milwaukee Ave	13290	Clark St & Lake St	KA1503000012	casual
+9FF9D8431A32CA51	classic_bike	2021-01-08 16:20:44	2021-01-08 16:32:02	State St & Pearson St	TA1307000061	Clark St & Lake St	KA1503000012	member
+C478E745F4B9DEA9	classic_bike	2021-01-06 08:20:53	2021-01-06 08:30:12	Michigan Ave & 8th St	623	Clark St & Lake St	KA1503000012	member
+405B5B7B1BF0029C	classic_bike	2021-01-07 20:37:30	2021-01-07 20:50:17	LaSalle Dr & Huron St	KP1705001026	Clark St & Lake St	KA1503000012	member
+1FFBAE4783E8864A	electric_bike	2021-01-13 13:31:42	2021-01-13 13:39:26	Fairbanks St & Superior St	18003	Clark St & Lake St	KA1503000012	casual
+F14C4DD3CD7C1BE3	classic_bike	2021-01-25 13:18:07	2021-01-25 13:41:17	State St & Pearson St	TA1307000061	Western Ave & Winnebago Ave	13068	member
+1758762FF4459607	classic_bike	2021-01-05 08:32:59	2021-01-05 08:37:09	Michigan Ave & 8th St	623	Wabash Ave & Adams St	KA1503000015	member
+4C3FD0D14FF2B2D9	classic_bike	2021-01-07 10:22:07	2021-01-07 10:27:02	Michigan Ave & 8th St	623	Wabash Ave & Adams St	KA1503000015	member
+F1D799C630617D9E	electric_bike	2021-01-21 19:53:05	2021-01-21 19:56:59	Rush St & Hubbard St	KA1503000044	Wabash Ave & Adams St	KA1503000015	member
+77BB720F1CD121C3	classic_bike	2021-01-29 21:59:18	2021-01-29 22:05:04	Rush St & Hubbard St	KA1503000044	Wabash Ave & Adams St	KA1503000015	member
+5CE1B80A6CC98F4A	classic_bike	2021-01-22 14:06:48	2021-01-22 14:10:37	Ritchie Ct & Banks St	KA1504000134	Rush St & Cedar St	KA1504000133	member
+0776B7BBEBF375C6	classic_bike	2021-01-12 08:54:06	2021-01-12 09:03:38	Michigan Ave & 14th St	TA1307000124	Wabash Ave & Adams St	KA1503000015	member
+9B5EBB2405F40343	classic_bike	2021-01-13 09:10:30	2021-01-13 09:20:57	Michigan Ave & 14th St	TA1307000124	Wabash Ave & Adams St	KA1503000015	member
+6EB7CC5863C49252	classic_bike	2021-01-25 09:51:53	2021-01-25 10:02:11	Michigan Ave & 14th St	TA1307000124	Wabash Ave & Adams St	KA1503000015	member
+A7487A8ECB31E382	electric_bike	2021-01-07 08:18:27	2021-01-07 08:23:58	Larrabee St & Division St	KA1504000079	Rush St & Cedar St	KA1504000133	member
+1EFAFD511BEF2F67	classic_bike	2021-01-12 18:41:01	2021-01-12 19:07:12	Logan Blvd & Elston Ave	TA1308000031	Pine Grove Ave & Waveland Ave	TA1307000150	member
+99204CF0FE55FABE	classic_bike	2021-01-09 11:43:32	2021-01-09 12:10:25	Logan Blvd & Elston Ave	TA1308000031	Pine Grove Ave & Waveland Ave	TA1307000150	member
+5936308B9E92869E	electric_bike	2021-01-29 08:03:35	2021-01-29 08:11:33	Clark St & Wrightwood Ave	TA1305000014	Pine Grove Ave & Waveland Ave	TA1307000150	casual
+1B900638447A634C	electric_bike	2021-01-25 07:40:06	2021-01-25 07:47:37	Clark St & Wrightwood Ave	TA1305000014	Pine Grove Ave & Waveland Ave	TA1307000150	casual
+1F733989787DE3A9	electric_bike	2021-01-02 10:14:03	2021-01-02 10:21:25	Clark St & Wrightwood Ave	TA1305000014	Pine Grove Ave & Waveland Ave	TA1307000150	casual
+AF869DF8D52D92F0	classic_bike	2021-01-09 12:17:44	2021-01-09 12:33:49	Clark St & Wrightwood Ave	TA1305000014	Rush St & Cedar St	KA1504000133	casual
+49DACA7A4E570A19	electric_bike	2021-01-14 07:56:45	2021-01-14 08:04:25	Clark St & Wrightwood Ave	TA1305000014	Pine Grove Ave & Waveland Ave	TA1307000150	casual
+800FF323309B696C	classic_bike	2021-01-27 06:47:11	2021-01-27 06:58:43	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+AB98B59997B1C2E7	classic_bike	2021-01-08 06:42:45	2021-01-08 06:53:55	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+A7CE0D6AB082ACA0	classic_bike	2021-01-21 06:47:43	2021-01-21 06:57:40	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+15577D4476D1AC03	classic_bike	2021-01-03 06:42:25	2021-01-03 06:53:32	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+1334B016311C30B7	classic_bike	2021-01-06 06:42:00	2021-01-06 06:52:38	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+643B525A7E58FD38	classic_bike	2021-01-26 06:41:36	2021-01-26 06:52:41	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+D0B7A77D2489853F	classic_bike	2021-01-11 06:42:29	2021-01-11 06:54:13	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+19CEF4A393F5F6FF	classic_bike	2021-01-02 06:42:01	2021-01-02 06:52:25	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+C205F37990855317	classic_bike	2021-01-28 06:50:57	2021-01-28 07:02:22	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+B49518742B1E8D65	classic_bike	2021-01-07 06:44:22	2021-01-07 06:55:09	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+268CBD0FD74A3145	classic_bike	2021-01-29 06:44:53	2021-01-29 06:55:36	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+5E23645C3CEB36B2	classic_bike	2021-01-12 06:44:20	2021-01-12 06:54:31	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+D7D0B38C3F42594A	classic_bike	2021-01-13 06:46:24	2021-01-13 06:56:11	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+62E2D5AD3F14497A	classic_bike	2021-01-17 06:39:45	2021-01-17 06:50:28	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+A8A710FF612DC9BF	classic_bike	2021-01-05 10:00:43	2021-01-05 10:11:56	Glenwood Ave & Touhy Ave	525	Elmwood Ave & Austin St	598	member
+0A34DD08B59157A4	classic_bike	2021-01-23 15:57:39	2021-01-23 16:25:20	State St & Pearson St	TA1307000061	Clark St & 9th St (AMLI)	SL-009	casual
+0710013C954AB776	electric_bike	2021-01-16 14:48:02	2021-01-16 14:54:58	California Ave & Cortez St	17660	Campbell Ave & North Ave	13257	member
+76167354E464E2E1	electric_bike	2021-01-13 01:09:15	2021-01-13 01:17:42	California Ave & Cortez St	17660	Stave St & Armitage Ave	13266	member
+67270757593B5871	electric_bike	2021-01-09 15:03:44	2021-01-09 15:12:35	California Ave & Cortez St	17660	Smith Park	643	member
+2A4FCD8AAE32F068	electric_bike	2021-01-22 15:44:09	2021-01-22 16:15:42	Michigan Ave & Jackson Blvd	TA1309000002	Broadway & Barry Ave	13137	member
+DBD15C8FE6F5FC11	classic_bike	2021-01-02 11:34:05	2021-01-02 11:50:56	Damen Ave & Cortland St	13133	Lincoln Ave & Roscoe St	TA1307000138	member
+D48A52C573596CAA	electric_bike	2021-01-11 16:42:47	2021-01-11 16:54:47	Richmond St & Diversey Ave	15645	Lincoln Ave & Roscoe St	TA1307000138	member
+BF3A4AAE4635D3E1	electric_bike	2021-01-16 22:28:20	2021-01-16 22:46:30	Damen Ave & Cortland St	13133	Broadway & Barry Ave	13137	casual
+7243AEECE397219B	classic_bike	2021-01-03 13:13:32	2021-01-03 13:15:57	Orleans St & Hubbard St	636	LaSalle St & Illinois St	13430	member
+AA3A4764A1421B23	classic_bike	2021-01-17 10:28:56	2021-01-17 10:31:12	Orleans St & Hubbard St	636	LaSalle St & Illinois St	13430	member
+32B312837056F469	electric_bike	2021-01-17 13:56:11	2021-01-17 14:03:07	Franklin St & Monroe St	TA1309000007	LaSalle St & Illinois St	13430	member
+47FDF51E637BB793	docked_bike	2021-01-16 14:28:31	2021-01-16 14:56:03	Clark St & Berwyn Ave	KA1504000146	Broadway & Wilson Ave	13074	casual
+6B7AF2BE76F474CA	classic_bike	2021-01-23 15:03:36	2021-01-23 15:14:45	Clark St & Berwyn Ave	KA1504000146	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+1365CEC47ECB8D03	classic_bike	2021-01-09 14:35:56	2021-01-09 14:44:50	Clark St & Berwyn Ave	KA1504000146	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+81B4EDBF2D51BFBA	docked_bike	2021-01-16 14:28:48	2021-01-16 14:56:08	Clark St & Berwyn Ave	KA1504000146	Broadway & Wilson Ave	13074	casual
+6F36CC640EB6D0A7	classic_bike	2021-01-23 13:04:32	2021-01-23 13:34:40	Clark St & Berwyn Ave	KA1504000146	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+06E55B75211A6A1F	electric_bike	2021-01-30 08:55:00	2021-01-30 09:00:16	Clark St & Berwyn Ave	KA1504000146	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+4EECCD35C246D18C	classic_bike	2021-01-01 13:45:08	2021-01-01 13:54:28	Clark St & Berwyn Ave	KA1504000146	Broadway & Wilson Ave	13074	member
+0CCB26AB83A88DF2	classic_bike	2021-01-04 18:28:37	2021-01-04 18:36:00	Clark St & Berwyn Ave	KA1504000146	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+244A3221D6B46962	docked_bike	2021-01-23 14:49:31	2021-01-23 15:16:36	State St & Pearson St	TA1307000061	Millennium Park	13008	casual
+30F301E8CFE55438	docked_bike	2021-01-23 14:49:47	2021-01-23 15:16:24	State St & Pearson St	TA1307000061	Millennium Park	13008	casual
+08A670563BD030CD	classic_bike	2021-01-22 17:35:02	2021-01-22 17:42:45	State St & Pearson St	TA1307000061	Wabash Ave & Wacker Pl	TA1307000131	member
+9A6EB24A30A646C3	electric_bike	2021-01-03 22:34:43	2021-01-03 22:42:31	Southport Ave & Wrightwood Ave	TA1307000113	Broadway & Barry Ave	13137	member
+7F7D9E4462C8E898	electric_bike	2021-01-29 13:24:35	2021-01-29 13:35:17	Campbell Ave & Montrose Ave	15623	Lincoln Ave & Roscoe St	TA1307000138	member
+BAEAF29D9C6BE52D	electric_bike	2021-01-30 05:48:36	2021-01-30 05:56:02	Campbell Ave & Montrose Ave	15623	Ravenswood Ave & Lawrence Ave	TA1309000066	casual
+12E8752B28B3CE54	electric_bike	2021-01-17 05:34:18	2021-01-17 05:44:07	Campbell Ave & Montrose Ave	15623	Ravenswood Ave & Lawrence Ave	TA1309000066	casual
+A45BBA13B6E2CD04	electric_bike	2021-01-04 12:48:44	2021-01-04 13:08:04	Lincoln Park Conservatory	LP-	Broadway & Wilson Ave	13074	member
+207F7925A4520B88	classic_bike	2021-01-12 15:49:16	2021-01-12 15:53:16	Damen Ave & Sunnyside Ave	TA1309000012	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+E33B54459EFF2B08	classic_bike	2021-01-25 12:57:47	2021-01-25 13:02:51	Damen Ave & Sunnyside Ave	TA1309000012	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+25336ABA7675D42C	electric_bike	2021-01-30 13:27:43	2021-01-30 13:31:02	Paulina St & Montrose Ave	TA1309000021	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+B5FD903812155EB4	classic_bike	2021-01-18 12:46:06	2021-01-18 12:52:51	Damen Ave & Leland Ave	TA1307000158	Broadway & Wilson Ave	13074	member
+0251D82D4EA68163	classic_bike	2021-01-18 16:24:55	2021-01-18 16:27:03	Damen Ave & Leland Ave	TA1307000158	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+F0171175A8327C6E	classic_bike	2021-01-04 17:42:16	2021-01-04 17:45:03	Damen Ave & Leland Ave	TA1307000158	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+96B062BC57F746DD	classic_bike	2021-01-25 16:44:04	2021-01-25 16:47:11	Damen Ave & Leland Ave	TA1307000158	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+80F5628CC2BCE9B4	classic_bike	2021-01-30 08:48:30	2021-01-30 12:01:21	Greenview Ave & Fullerton Ave	TA1307000001	Broadway & Barry Ave	13137	member
+49376C5F32CBE357	classic_bike	2021-01-16 13:06:44	2021-01-16 13:22:09	Greenview Ave & Fullerton Ave	TA1307000001	Broadway & Barry Ave	13137	casual
+55674DE4A793DBAE	classic_bike	2021-01-02 09:40:37	2021-01-02 09:52:40	Clark St & Armitage Ave	13146	Broadway & Barry Ave	13137	member
+E5DFAE91B9F08927	classic_bike	2021-01-09 09:33:43	2021-01-09 09:44:51	Clark St & Armitage Ave	13146	Broadway & Barry Ave	13137	member
+B179A0B77E5D6215	classic_bike	2021-01-07 05:54:42	2021-01-07 06:01:39	Clark St & Armitage Ave	13146	Broadway & Barry Ave	13137	member
+DF123D005C05475C	electric_bike	2021-01-04 20:17:06	2021-01-04 20:46:52	Clark St & Armitage Ave	13146	Lincoln Ave & Roscoe St	TA1307000138	member
+28A253696134B43C	classic_bike	2021-01-29 19:24:23	2021-01-29 19:40:07	Washtenaw Ave & Lawrence Ave	KA1504000080	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+E33DA0D4DA9EF6CB	classic_bike	2021-01-23 19:45:30	2021-01-23 20:16:42	Fairbanks St & Superior St	18003	Broadway & Barry Ave	13137	member
+5FE4CECF735AFBB8	classic_bike	2021-01-28 09:28:03	2021-01-28 09:57:23	St. Louis Ave & Balmoral Ave	KA1504000161	Lincoln Ave & Roscoe St	TA1307000138	member
+C15446DF5C47789E	classic_bike	2021-01-08 07:33:06	2021-01-08 07:42:22	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	Lincoln Ave & Roscoe St	TA1307000138	member
+4CE33D5A560960BE	classic_bike	2021-01-14 13:03:40	2021-01-14 13:11:57	Southport Ave & Wellington Ave	TA1307000006	Broadway & Barry Ave	13137	member
+8942166AB658B729	classic_bike	2021-01-24 10:26:38	2021-01-24 10:37:36	Broadway & Belmont Ave	13277	Lincoln Ave & Roscoe St	TA1307000138	member
+51C0E6AEA055B4A0	classic_bike	2021-01-24 14:07:01	2021-01-24 14:11:04	Clark St & Wrightwood Ave	TA1305000014	Broadway & Barry Ave	13137	member
+AB22B257AD0F09F2	electric_bike	2021-01-29 20:51:21	2021-01-29 21:07:46	Marine Dr & Ainslie St	KA1504000171	Sheridan Rd & Columbia Ave	660	member
+B7C6A8EE923BFE8F	electric_bike	2021-01-20 20:15:25	2021-01-20 20:29:15	Marine Dr & Ainslie St	KA1504000171	Sheridan Rd & Columbia Ave	660	member
+E502D35A7358A796	classic_bike	2021-01-16 22:54:00	2021-01-16 23:09:55	Marine Dr & Ainslie St	KA1504000171	Sheridan Rd & Columbia Ave	660	member
+0304690C3F15220B	electric_bike	2021-01-28 16:34:48	2021-01-28 16:41:01	Pine Grove Ave & Irving Park Rd	TA1308000022	Broadway & Barry Ave	13137	member
+20A2B16CBBEC82C0	classic_bike	2021-01-17 17:30:12	2021-01-17 17:41:55	Logan Blvd & Elston Ave	TA1308000031	Lincoln Ave & Roscoe St	TA1307000138	member
+587EBD19662F6B1F	classic_bike	2021-01-29 10:50:56	2021-01-29 10:55:25	Lincoln Ave & Waveland Ave	13253	Lincoln Ave & Roscoe St	TA1307000138	member
+4B2772280ED5CFD4	classic_bike	2021-01-12 07:25:18	2021-01-12 07:28:36	Lincoln Ave & Waveland Ave	13253	Lincoln Ave & Roscoe St	TA1307000138	member
+8BF03AB9527C3A41	classic_bike	2021-01-21 14:26:22	2021-01-21 14:42:25	Lincoln Ave & Waveland Ave	13253	Broadway & Wilson Ave	13074	member
+A1EB73B35A1EF3CE	classic_bike	2021-01-05 14:54:58	2021-01-05 15:12:45	Lincoln Ave & Waveland Ave	13253	Broadway & Wilson Ave	13074	member
+02C2AB15C1A362DD	classic_bike	2021-01-06 16:42:38	2021-01-06 17:01:30	Lincoln Ave & Waveland Ave	13253	Broadway & Barry Ave	13137	casual
+AEAE175DA78B5EF6	classic_bike	2021-01-18 12:23:29	2021-01-18 12:32:50	Lincoln Ave & Waveland Ave	13253	Lincoln Ave & Roscoe St	TA1307000138	casual
+F58D68CFA3C0433E	electric_bike	2021-01-24 18:56:08	2021-01-24 19:14:24	Lincoln Ave & Waveland Ave	13253	Broadway & Wilson Ave	13074	casual
+A6D826302872815D	electric_bike	2021-01-22 15:43:58	2021-01-22 16:15:43	Michigan Ave & Jackson Blvd	TA1309000002	Broadway & Barry Ave	13137	member
+F89B6BB4530B4F7D	classic_bike	2021-01-30 07:56:09	2021-01-30 08:00:17	Clarendon Ave & Junior Ter	13389	Broadway & Wilson - Truman College Vaccination Site	13074	member
+CAA95523ACB01FE0	electric_bike	2021-01-04 08:18:36	2021-01-04 08:21:26	Clarendon Ave & Junior Ter	13389	Broadway & Wilson Ave	13074	member
+5E1157EF94603A6C	electric_bike	2021-01-11 08:19:04	2021-01-11 08:21:54	Clarendon Ave & Junior Ter	13389	Broadway & Wilson Ave	13074	member
+3A0E86CFE81CAA79	classic_bike	2021-01-28 08:19:50	2021-01-28 08:23:38	Clarendon Ave & Junior Ter	13389	Broadway & Wilson - Truman College Vaccination Site	13074	member
+07615465CDC3ED01	classic_bike	2021-01-13 08:18:21	2021-01-13 08:23:05	Clarendon Ave & Junior Ter	13389	Broadway & Wilson Ave	13074	member
+4F6336185565321D	classic_bike	2021-01-29 08:18:37	2021-01-29 08:22:24	Clarendon Ave & Junior Ter	13389	Broadway & Wilson - Truman College Vaccination Site	13074	member
+BC838A62C0D81C13	electric_bike	2021-01-14 08:19:35	2021-01-14 08:22:31	Clarendon Ave & Junior Ter	13389	Broadway & Wilson Ave	13074	member
+3C548CBCEE485C41	classic_bike	2021-01-05 16:11:00	2021-01-05 16:14:50	Clarendon Ave & Junior Ter	13389	Broadway & Wilson Ave	13074	member
+EB0D7C989D604659	classic_bike	2021-01-21 08:20:17	2021-01-21 08:23:17	Clarendon Ave & Junior Ter	13389	Broadway & Wilson Ave	13074	member
+24222C8CD2521DAB	electric_bike	2021-01-10 16:21:08	2021-01-10 16:41:42	Orleans St & Hubbard St	636	Broadway & Barry Ave	13137	member
+B7B7FAD3C64C7B39	classic_bike	2021-01-27 16:12:12	2021-01-27 16:16:46	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+0087D7AD936A37DB	classic_bike	2021-01-03 21:21:24	2021-01-03 21:27:49	Southport Ave & Wellington Ave	TA1307000006	Broadway & Barry Ave	13137	member
+38414C0A5FD5892D	electric_bike	2021-01-07 20:24:53	2021-01-07 20:28:18	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	Ravenswood Ave & Lawrence Ave	TA1309000066	member
+28F4715ABCAFAB40	classic_bike	2021-01-27 18:34:25	2021-01-27 18:56:11	Lincoln Ave & Winona St	KA1504000078	Lincoln Ave & Roscoe St	TA1307000138	member
+F382C49FC5635A51	classic_bike	2021-01-30 13:09:57	2021-01-30 13:30:38	Lincoln Ave & Winona St	KA1504000078	Lincoln Ave & Roscoe St	TA1307000138	member
+BA6226F0FCD17951	classic_bike	2021-01-21 16:34:28	2021-01-21 16:52:53	Lincoln Ave & Winona St	KA1504000078	Lincoln Ave & Roscoe St	TA1307000138	member
+C719E19039924D70	classic_bike	2021-01-24 17:35:21	2021-01-24 17:52:31	Lincoln Ave & Winona St	KA1504000078	Lincoln Ave & Roscoe St	TA1307000138	member
+9CB15390DCCCA89A	classic_bike	2021-01-19 16:20:12	2021-01-19 16:38:52	Lincoln Ave & Winona St	KA1504000078	Lincoln Ave & Roscoe St	TA1307000138	member
+67A4E3AF7667E086	classic_bike	2021-01-22 12:16:13	2021-01-22 12:20:15	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+FAAC8EABC217DDD7	classic_bike	2021-01-04 16:59:38	2021-01-04 17:03:29	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+E41801D5430A8DE7	classic_bike	2021-01-07 09:15:05	2021-01-07 09:18:19	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+9951A21EC9E03032	classic_bike	2021-01-24 18:17:30	2021-01-24 18:20:50	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+26B120FFCA2FF3FE	classic_bike	2021-01-06 14:11:04	2021-01-06 14:14:56	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+9D50E8C056979640	classic_bike	2021-01-04 10:19:45	2021-01-04 10:25:12	Wilton Ave & Diversey Pkwy	TA1306000014	Broadway & Barry Ave	13137	member
+A1C670B0226C54C9	classic_bike	2021-01-05 06:46:25	2021-01-05 06:50:52	Wilton Ave & Diversey Pkwy	TA1306000014	Broadway & Barry Ave	13137	member
+E0B7C74215745E2B	classic_bike	2021-01-08 21:44:01	2021-01-08 22:02:58	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+6056FD41FE7C901A	classic_bike	2021-01-09 15:16:32	2021-01-09 15:19:52	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+CD60639F7DCA7B7B	classic_bike	2021-01-15 15:34:15	2021-01-15 15:37:03	Clark St & Drummond Pl	TA1307000142	Broadway & Barry Ave	13137	member
+B4BBE7DD0E518C6A	classic_bike	2021-01-17 19:50:29	2021-01-17 20:02:36	Rush St & Hubbard St	KA1503000044	Rush St & Hubbard St	KA1503000044	member
+86764570E4F76AC0	docked_bike	2021-01-14 12:44:31	2021-01-14 13:01:08	Michigan Ave & 8th St	623	Michigan Ave & 8th St	623	casual
+00587890D6023805	electric_bike	2021-01-14 15:10:28	2021-01-14 15:23:34	Lincoln Park Conservatory	LP-	Rush St & Cedar St	KA1504000133	member
+D11E3F8DBB671816	electric_bike	2021-01-09 16:19:18	2021-01-09 16:32:51	Damen Ave & Leland Ave	TA1307000158	Clark St & Newport St	632	member
+5C67B3ED001F80BE	electric_bike	2021-01-21 13:36:25	2021-01-21 13:45:53	Lincoln Ave & Waveland Ave	13253	Clark St & Newport St	632	member
+61B8E1409ECB1DF8	classic_bike	2021-01-19 12:09:41	2021-01-19 12:27:52	Michigan Ave & 8th St	623	Laflin St & Cullerton St	13307	member
+B01002708D564C98	classic_bike	2021-01-02 19:02:42	2021-01-02 19:14:57	Clarendon Ave & Junior Ter	13389	Clark St & Newport St	632	member
+287481A18CA7AA08	classic_bike	2021-01-22 17:15:28	2021-01-22 17:27:55	Clark St & Wrightwood Ave	TA1305000014	Clark St & Newport St	632	casual
+E64B8E83DCCE7268	classic_bike	2021-01-23 10:55:45	2021-01-23 11:07:44	Ashland Ave & Wellington Ave	13269	Clark St & Newport St	632	member
+44FEA1539F72EF96	electric_bike	2021-01-08 18:10:01	2021-01-08 18:21:08	Clark St & Armitage Ave	13146	Clark St & Newport St	632	member
+9181E0CAE5AE66E0	classic_bike	2021-01-15 17:18:37	2021-01-15 17:29:13	Sheffield Ave & Fullerton Ave	TA1306000016	Clark St & Newport St	632	member
+662F0A647FC0EAA3	classic_bike	2021-01-13 18:12:42	2021-01-13 18:34:59	Honore St & Division St	TA1305000034	Clark St & Newport St	632	member
+BEF21887D346D9AF	classic_bike	2021-01-04 12:52:37	2021-01-04 12:56:40	Halsted St & Roscoe St	TA1309000025	Clark St & Newport St	632	member
+6D504BF302B1612E	classic_bike	2021-01-09 17:32:23	2021-01-09 17:35:43	Halsted St & Roscoe St	TA1309000025	Clark St & Newport St	632	member
+5E6A1B0F0F5443C5	classic_bike	2021-01-02 11:04:50	2021-01-02 11:08:39	May St & Cullerton St	13331	Laflin St & Cullerton St	13307	member
+2A4BB0D637E4DF34	classic_bike	2021-01-06 15:28:42	2021-01-06 15:32:00	May St & Cullerton St	13331	Laflin St & Cullerton St	13307	member
+ED1D3978ABCDCA80	classic_bike	2021-01-08 08:40:29	2021-01-08 08:52:42	Southport Ave & Wellington Ave	TA1307000006	Clark St & Newport St	632	member
+78134F56828714B5	classic_bike	2021-01-15 06:48:14	2021-01-15 06:58:10	Southport Ave & Wellington Ave	TA1307000006	Clark St & Newport St	632	member
+01441A86E266EFA5	classic_bike	2021-01-18 14:39:02	2021-01-18 15:04:58	Fairbanks St & Superior St	18003	Clark St & Newport St	632	member
+17833B61BE7457FB	classic_bike	2021-01-12 20:07:02	2021-01-12 20:19:15	Lincoln Park Conservatory	LP-	Rush St & Cedar St	KA1504000133	member
+F0371DB9DDF35756	electric_bike	2021-01-24 13:28:19	2021-01-24 13:46:16	Ritchie Ct & Banks St	KA1504000134	Clark St & Newport St	632	casual
+E5DFAED90D1800CD	classic_bike	2021-01-25 09:58:27	2021-01-25 10:13:43	Racine Ave & 15th St	13304	Laflin St & Cullerton St	13307	member
+5FA19661B5347829	electric_bike	2021-01-23 15:44:53	2021-01-23 15:53:21	Clinton St & 18th St	TA1307000044	Laflin St & Cullerton St	13307	casual
+1C81B4368BE5187F	electric_bike	2021-01-22 16:56:45	2021-01-22 17:19:08	Fairbanks St & Superior St	18003	Clark St & Newport St	632	member
+20784DC9E77CE2E7	electric_bike	2021-01-07 16:31:46	2021-01-07 16:54:30	Fairbanks St & Superior St	18003	Clark St & Newport St	632	member
+5E57F409B22365CC	classic_bike	2021-01-09 11:16:25	2021-01-09 11:39:00	Washtenaw Ave & Lawrence Ave	KA1504000080	Clark St & Newport St	632	member
+3A176229F02AD7A6	classic_bike	2021-01-29 17:31:56	2021-01-29 17:43:21	Halsted St & Maxwell St	TA1309000001	Laflin St & Cullerton St	13307	member
+DE3859E1EB6CADB2	classic_bike	2021-01-11 17:17:59	2021-01-11 17:27:26	Clarendon Ave & Junior Ter	13389	Clark St & Newport St	632	casual
+1D918366A92F7D17	classic_bike	2021-01-06 16:07:00	2021-01-06 16:15:55	Sheffield Ave & Fullerton Ave	TA1306000016	Clark St & Newport St	632	member
+B7A210715FD0A2F0	classic_bike	2021-01-06 18:51:41	2021-01-06 19:05:18	Southport Ave & Wellington Ave	TA1307000006	Clark St & Newport St	632	member
+0C4603780E4F4A82	electric_bike	2021-01-21 19:20:01	2021-01-21 19:48:36	Damen Ave & Walnut (Lake) St	KA17018054	Clark St & Newport St	632	member
+B90C530563AA7412	electric_bike	2021-01-14 19:09:34	2021-01-14 19:37:12	Damen Ave & Walnut (Lake) St	KA17018054	Clark St & Newport St	632	member
+46E549296E669959	electric_bike	2021-01-18 19:23:48	2021-01-18 19:50:14	Damen Ave & Walnut (Lake) St	KA17018054	Clark St & Newport St	632	member
+41B98AB53C297A6B	classic_bike	2021-01-15 21:41:37	2021-01-15 22:05:08	Wells St & Evergreen Ave	TA1308000049	Clark St & Newport St	632	casual
+1E70D23AF6DBD9CE	classic_bike	2021-01-07 20:37:29	2021-01-07 20:59:06	Wells St & Evergreen Ave	TA1308000049	Clark St & Newport St	632	casual
+788A37D987F9DFB4	classic_bike	2021-01-03 15:51:37	2021-01-03 16:10:41	Lakeview Ave & Fullerton Pkwy	TA1309000019	Clark St & Newport St	632	casual
+6A64F4CCAA22194B	docked_bike	2021-01-09 13:37:56	2021-01-09 13:44:55	Wilton Ave & Diversey Pkwy	TA1306000014	Clark St & Newport St	632	casual
+3C752042157B57CA	classic_bike	2021-01-12 18:41:01	2021-01-12 18:48:26	Wilton Ave & Diversey Pkwy	TA1306000014	Clark St & Newport St	632	member
+CAF3965969ACC64D	classic_bike	2021-01-11 18:58:38	2021-01-11 19:06:36	Wilton Ave & Diversey Pkwy	TA1306000014	Clark St & Newport St	632	member
+D62F06EE2851BCFA	classic_bike	2021-01-16 19:17:14	2021-01-16 19:26:10	Lake Shore Dr & Belmont Ave	TA1309000049	Clark St & Newport St	632	member
+36778E82DEE44846	classic_bike	2021-01-11 18:17:41	2021-01-11 18:23:55	Greenwood Ave & 47th St	TA1308000002	MLK Jr Dr & 47th St	TA1308000007	member
+28AF3CBC03A3C99C	classic_bike	2021-01-30 10:19:14	2021-01-30 10:26:15	Greenwood Ave & 47th St	TA1308000002	MLK Jr Dr & 47th St	TA1308000007	member
+B56EF64BD84E36C4	classic_bike	2021-01-14 17:17:31	2021-01-14 17:23:05	Broadway & Belmont Ave	13277	Clark St & Newport St	632	member
+74617A1639E79D12	classic_bike	2021-01-10 11:45:17	2021-01-10 11:50:44	Broadway & Belmont Ave	13277	Clark St & Newport St	632	member
+1329F67E00A61F6F	classic_bike	2021-01-23 13:49:43	2021-01-23 13:54:00	Broadway & Belmont Ave	13277	Clark St & Newport St	632	member
+29B60A0924F3518C	classic_bike	2021-01-06 17:11:08	2021-01-06 17:17:19	Broadway & Belmont Ave	13277	Clark St & Newport St	632	member
+D82E82C10E9A6A0B	classic_bike	2021-01-11 18:12:33	2021-01-11 18:17:09	Broadway & Belmont Ave	13277	Clark St & Newport St	632	member
+BA0FEA145E75EA90	docked_bike	2021-01-10 03:23:22	2021-01-10 03:33:11	Western Ave & 24th St	TA1309000003	Laflin St & Cullerton St	13307	casual
+98573AEAC6418521	classic_bike	2021-01-17 13:43:36	2021-01-17 13:56:58	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+844B596E32A9FCCF	classic_bike	2021-01-12 22:55:06	2021-01-12 23:04:47	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+B5517C2E297EA41D	classic_bike	2021-01-03 17:42:39	2021-01-03 17:52:26	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+F91356800AF8D74B	classic_bike	2021-01-25 19:49:23	2021-01-25 20:01:42	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+C959A7C25E62F51C	classic_bike	2021-01-06 23:51:12	2021-01-07 00:00:49	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+3C0A97B439B63D39	classic_bike	2021-01-24 17:07:26	2021-01-24 17:17:00	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+412019B2A1A1738C	classic_bike	2021-01-19 15:51:28	2021-01-19 16:01:44	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+F6332CF1B957840F	classic_bike	2021-01-18 19:51:00	2021-01-18 19:59:51	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+C199EAC275D45D76	classic_bike	2021-01-11 20:18:50	2021-01-11 20:28:45	Lincoln Ave & Fullerton Ave	TA1309000058	Clark St & Newport St	632	member
+8D94E766FE87110B	classic_bike	2021-01-09 17:47:29	2021-01-09 17:50:35	Wilton Ave & Belmont Ave	TA1307000134	Clark St & Newport St	632	member
+367770C136992F10	classic_bike	2021-01-06 16:12:49	2021-01-06 16:15:51	Wilton Ave & Belmont Ave	TA1307000134	Clark St & Newport St	632	member
+0E115DEB5977235C	classic_bike	2021-01-22 16:10:29	2021-01-22 16:13:31	Wilton Ave & Belmont Ave	TA1307000134	Clark St & Newport St	632	member
+499B954766EF6845	classic_bike	2021-01-14 18:48:46	2021-01-14 18:51:26	Wilton Ave & Belmont Ave	TA1307000134	Clark St & Newport St	632	member
+1799B6FA6316E5FC	classic_bike	2021-01-06 18:57:57	2021-01-06 19:02:51	Broadway & Sheridan Rd	13323	Clark St & Newport St	632	member
+3911FE9ADDA0C536	classic_bike	2021-01-09 16:09:23	2021-01-09 16:16:05	Broadway & Sheridan Rd	13323	Clark St & Newport St	632	member
+6D61139CFD11E844	classic_bike	2021-01-09 13:32:18	2021-01-09 13:39:12	Benson Ave & Church St	596	Dodge Ave & Church St	600	member
+DEEF58C5BBC60C1A	classic_bike	2021-01-21 16:21:51	2021-01-21 16:33:53	Clark St & Wrightwood Ave	TA1305000014	Clark St & Newport St	632	casual
+D6F9B6E9AE65E41F	electric_bike	2021-01-17 11:26:12	2021-01-17 11:33:03	Clark St & Wrightwood Ave	TA1305000014	Clark St & Newport St	632	casual
+7E01D5D64D4F723C	electric_bike	2021-01-05 12:13:10	2021-01-05 12:32:59	Clark St & Wrightwood Ave	TA1305000014	Clark St & Newport St	632	casual
+B4CACAE66F7D8657	classic_bike	2021-01-10 21:28:59	2021-01-10 21:35:00	Southport Ave & Wellington Ave	TA1307000006	Broadway & Barry Ave	13137	member
+90240ACB063FABB3	classic_bike	2021-01-15 16:49:18	2021-01-15 16:59:46	Desplaines St & Jackson Blvd	15539	Clark St & Lake St	KA1503000012	member
+FF32D1561D4D59DD	classic_bike	2021-01-11 17:01:19	2021-01-11 17:13:29	Desplaines St & Jackson Blvd	15539	Clark St & Lake St	KA1503000012	casual
+F26092C1D7B4B964	classic_bike	2021-01-06 17:55:44	2021-01-06 18:02:15	Clinton St & Jackson Blvd	638	Clark St & Lake St	KA1503000012	member
+F0D3E9AD84AD8D41	electric_bike	2021-01-11 17:00:37	2021-01-11 17:13:58	Desplaines St & Jackson Blvd	15539	Clark St & Lake St	KA1503000012	member
+5FCD754443E0EA33	electric_bike	2021-01-19 16:55:13	2021-01-19 17:03:38	Clinton St & Jackson Blvd	638	Clark St & Lake St	KA1503000012	member
+39622B4DE0A47397	electric_bike	2021-01-29 16:43:35	2021-01-29 16:51:11	Clinton St & Jackson Blvd	638	Clark St & Lake St	KA1503000012	member
+3D3A9DAC16060C8F	electric_bike	2021-01-12 16:16:05	2021-01-12 16:23:23	Clinton St & Jackson Blvd	638	Clark St & Lake St	KA1503000012	member
+8CFA5C37954B1CA8	electric_bike	2021-01-23 10:21:14	2021-01-23 10:35:27	State St & Pearson St	TA1307000061	Aberdeen St & Randolph St	18062	casual
+03DBF22ED7179871	docked_bike	2021-01-09 11:16:34	2021-01-09 11:38:58	Washtenaw Ave & Lawrence Ave	KA1504000080	Clark St & Newport St	632	casual
+DE92BDAF3A48A588	classic_bike	2021-01-30 17:26:42	2021-01-30 17:36:15	Sheffield Ave & Fullerton Ave	TA1306000016	Clark St & Newport St	632	member
+4375D20C100AAC74	electric_bike	2021-01-24 13:18:46	2021-01-24 13:43:13	Lincoln Park Conservatory	LP-	Field Blvd & South Water St	15534	member
+E18B4499C5EA24F5	electric_bike	2021-01-17 13:32:22	2021-01-17 13:54:52	Lincoln Park Conservatory	LP-	Field Blvd & South Water St	15534	member
+E01E2CC11AD74C79	classic_bike	2021-01-21 14:10:28	2021-01-21 14:27:29	Emerald Ave & 28th St	TA1307000153	Laflin St & Cullerton St	13307	member
+860A65B0DF7B7F88	electric_bike	2021-01-03 15:50:21	2021-01-03 15:55:06	Southport Ave & Roscoe St	13071	Clark St & Newport St	632	casual
+8B17BE54357C2855	classic_bike	2021-01-18 10:31:56	2021-01-18 11:12:15	Michigan Ave & 14th St	TA1307000124	Delano Ct & Roosevelt Rd	KA1706005007	casual
+169F9D36F6092AAE	classic_bike	2021-01-30 11:19:07	2021-01-30 11:33:03	Wells St & Elm St	KA1504000135	Clark St & Lake St	KA1503000012	casual
+201BA0D8DFDAF0D4	classic_bike	2021-01-23 17:27:59	2021-01-23 17:53:15	Orleans St & Hubbard St	636	Ashland Ave & Chicago Ave	13247	member
+120382A6418D8F2C	classic_bike	2021-01-20 09:01:01	2021-01-20 09:06:47	Sedgwick St & North Ave	TA1307000038	Halsted St & Willow St	TA1307000166	member
+1C73E52D702F0C52	classic_bike	2021-01-11 17:12:29	2021-01-11 17:17:37	Sedgwick St & North Ave	TA1307000038	Halsted St & Willow St	TA1307000166	member
+E6D8F33143CB7BE8	classic_bike	2021-01-05 08:49:58	2021-01-05 08:55:25	Sedgwick St & North Ave	TA1307000038	Halsted St & Willow St	TA1307000166	member
+568460EBA75215D5	classic_bike	2021-01-04 09:51:54	2021-01-04 09:58:58	Michigan Ave & 14th St	TA1307000124	Delano Ct & Roosevelt Rd	KA1706005007	member
+43AC1E15A91AA4E7	classic_bike	2021-01-10 16:24:48	2021-01-10 16:49:03	Clark St & Wrightwood Ave	TA1305000014	Ashland Ave & Chicago Ave	13247	casual
+DEBB01E018EAB7D5	classic_bike	2021-01-05 22:12:01	2021-01-05 22:18:18	Franklin St & Jackson Blvd	TA1305000025	Delano Ct & Roosevelt Rd	KA1706005007	member
+5810ACAE3E0FEDB1	classic_bike	2021-01-27 18:33:21	2021-01-27 18:39:02	Franklin St & Jackson Blvd	TA1305000025	Delano Ct & Roosevelt Rd	KA1706005007	member
+53E1A25F0EF0EA72	classic_bike	2021-01-15 23:29:40	2021-01-15 23:36:39	Franklin St & Jackson Blvd	TA1305000025	Delano Ct & Roosevelt Rd	KA1706005007	member
+681B50BAECB82427	classic_bike	2021-01-14 17:50:10	2021-01-14 17:57:18	Franklin St & Jackson Blvd	TA1305000025	Delano Ct & Roosevelt Rd	KA1706005007	member
+F95EFB6207E87659	classic_bike	2021-01-11 11:27:18	2021-01-11 11:34:02	State St & Harrison St	SL-007	Delano Ct & Roosevelt Rd	KA1706005007	member
+5470BBC22412874D	electric_bike	2021-01-25 08:58:35	2021-01-25 09:13:39	State St & Harrison St	SL-007	Field Blvd & South Water St	15534	member
+28F93187AAE65F17	classic_bike	2021-01-17 10:56:26	2021-01-17 11:03:31	Michigan Ave & 8th St	623	Delano Ct & Roosevelt Rd	KA1706005007	member
+31B95D937D96992B	classic_bike	2021-01-02 18:27:51	2021-01-02 18:37:00	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+812A2120D91E11D3	classic_bike	2021-01-12 18:30:40	2021-01-12 18:40:09	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+A5517A139248C7FA	classic_bike	2021-01-04 19:13:57	2021-01-04 19:23:03	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+0FADE2F08D3625B5	classic_bike	2021-01-13 18:51:19	2021-01-13 19:00:54	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+49D59ED9040A618C	classic_bike	2021-01-03 18:56:43	2021-01-03 19:05:34	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+82826E5473B7BD95	classic_bike	2021-01-05 19:07:03	2021-01-05 19:14:50	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+118B444BFF0AFA9D	classic_bike	2021-01-12 11:18:06	2021-01-12 11:25:31	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+0ECBD95ED63EA28B	classic_bike	2021-01-24 21:32:03	2021-01-24 21:42:27	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+1032807190FA444D	classic_bike	2021-01-03 11:54:58	2021-01-03 12:00:14	New St & Illinois St	TA1306000013	Clark St & Lake St	KA1503000012	member
+8B0802D2DD8B92D4	electric_bike	2021-01-11 14:52:36	2021-01-11 14:56:59	Ogden Ave & Chicago Ave	TA1305000020	Ashland Ave & Chicago Ave	13247	member
+FBB8C39FFF6D8A38	classic_bike	2021-01-06 12:21:20	2021-01-06 12:32:21	Michigan Ave & Jackson Blvd	TA1309000002	Field Blvd & South Water St	15534	member
+EEB9ED0869960D84	electric_bike	2021-01-07 12:15:59	2021-01-07 12:52:53	Campbell Ave & Montrose Ave	15623	Talman Ave & Addison St	15632	member
+790ED398B3D353E3	electric_bike	2021-01-12 17:03:11	2021-01-12 17:11:23	Rush St & Hubbard St	KA1503000044	Canal St & Monroe St	13056	casual
+3767CE8685EC95AF	electric_bike	2021-01-17 13:39:05	2021-01-17 14:07:03	Milwaukee Ave & Rockwell St	13242	Western Ave & Roscoe St	15634	member
+B3B43849B56564F3	electric_bike	2021-01-10 13:04:33	2021-01-10 13:24:39	Ogden Ave & Chicago Ave	TA1305000020	Field Blvd & South Water St	15534	member
+EE6BB8F729FA28FF	classic_bike	2021-01-02 10:31:20	2021-01-02 10:35:29	Ogden Ave & Chicago Ave	TA1305000020	Ashland Ave & Chicago Ave	13247	member
+C75280CF6F3C5FBB	electric_bike	2021-01-24 18:35:05	2021-01-24 18:44:59	Halsted St & Willow St	TA1307000166	Broadway & Barry Ave	13137	member
+71FF659AB8A323D2	electric_bike	2021-01-15 19:39:57	2021-01-15 19:49:35	Halsted St & Willow St	TA1307000166	Broadway & Barry Ave	13137	member
+481F8B18A3236E2F	electric_bike	2021-01-17 19:25:46	2021-01-17 19:34:37	Halsted St & Willow St	TA1307000166	Broadway & Barry Ave	13137	member
+337C9C86BAD8B58D	electric_bike	2021-01-23 19:29:56	2021-01-23 19:40:31	Halsted St & Willow St	TA1307000166	Broadway & Barry Ave	13137	member
+3535DE7F1F7338E5	electric_bike	2021-01-16 19:30:42	2021-01-16 19:40:53	Halsted St & Willow St	TA1307000166	Broadway & Barry Ave	13137	member
+0B870D2C187CE5F6	classic_bike	2021-01-19 10:15:29	2021-01-19 10:32:32	Indiana Ave & Roosevelt Rd	SL-005	Field Blvd & South Water St	15534	member
+AD8DE39CAB61A1F4	classic_bike	2021-01-18 08:11:36	2021-01-18 08:13:04	Wood St & Chicago Ave	637	Ashland Ave & Chicago Ave	13247	member
+F7AECDB074FEE3FC	classic_bike	2021-01-13 17:28:32	2021-01-13 17:30:08	Wood St & Chicago Ave	637	Ashland Ave & Chicago Ave	13247	member
+11DD597267407AE9	classic_bike	2021-01-03 15:48:40	2021-01-03 15:54:11	Indiana Ave & Roosevelt Rd	SL-005	Delano Ct & Roosevelt Rd	KA1706005007	member
+1FC6226C7BF02517	classic_bike	2021-01-12 18:12:34	2021-01-12 18:15:48	Franklin St & Jackson Blvd	TA1305000025	Canal St & Monroe St	13056	member
+4ED1130E6AE14D5F	electric_bike	2021-01-25 18:24:53	2021-01-25 18:28:55	Federal St & Polk St	SL-008	Delano Ct & Roosevelt Rd	KA1706005007	member
+1F9981C3157B5ED3	electric_bike	2021-01-05 20:23:48	2021-01-05 20:31:42	Clinton St & Polk St	15542	Aberdeen St & Randolph St	18062	member
+E2EFC132A3DCBDD7	classic_bike	2021-01-04 16:54:36	2021-01-04 17:37:59	St. Clair St & Erie St	13016	Field Blvd & South Water St	15534	member
+63F5C964E059391C	classic_bike	2021-01-17 02:27:41	2021-01-17 03:23:57	St. Clair St & Erie St	13016	Field Blvd & South Water St	15534	member
+2B083D87DF92ED9E	classic_bike	2021-01-09 15:37:59	2021-01-09 16:30:17	Wells St & Polk St	SL-011	Delano Ct & Roosevelt Rd	KA1706005007	casual
+D0D04AC14ACEDF4F	electric_bike	2021-01-16 13:36:09	2021-01-16 13:46:52	Clark St & Chicago Ave	13303	Ashland Ave & Chicago Ave	13247	casual
+37A9577807855272	docked_bike	2021-01-30 10:24:17	2021-01-30 10:38:47	Clinton St & Jackson Blvd	638	Delano Ct & Roosevelt Rd	KA1706005007	casual
+916FE36DE51734E7	docked_bike	2021-01-30 10:24:41	2021-01-30 10:38:59	Clinton St & Jackson Blvd	638	Delano Ct & Roosevelt Rd	KA1706005007	casual
+684ED16E3ED2C288	classic_bike	2021-01-10 11:33:58	2021-01-10 12:03:37	Shedd Aquarium	15544	Field Blvd & South Water St	15534	member
+39D367142270F342	classic_bike	2021-01-09 13:25:29	2021-01-09 13:34:32	Cityfront Plaza Dr & Pioneer Ct	13427	Field Blvd & South Water St	15534	member
+745087AA3AE5E739	electric_bike	2021-01-28 17:45:48	2021-01-28 17:56:29	Michigan Ave & 8th St	623	Field Blvd & South Water St	15534	member
+88A6516D4F8250A1	classic_bike	2021-01-22 19:10:35	2021-01-22 19:33:06	State St & Pearson St	TA1307000061	Delano Ct & Roosevelt Rd	KA1706005007	member
+5CAA16A5842FAD2E	electric_bike	2021-01-22 19:35:06	2021-01-22 19:47:37	State St & Pearson St	TA1307000061	Ashland Ave & Chicago Ave	13247	member
+E22016D5402AF8C2	electric_bike	2021-01-07 15:57:00	2021-01-07 16:00:01	Wabash Ave & 9th St	TA1309000010	Delano Ct & Roosevelt Rd	KA1706005007	member
+5B3116265A79808F	classic_bike	2021-01-08 09:27:34	2021-01-08 09:41:30	Indiana Ave & Roosevelt Rd	SL-005	Field Blvd & South Water St	15534	member
+065F94DFBC6AAAD7	classic_bike	2021-01-30 19:26:27	2021-01-30 20:01:18	Indiana Ave & Roosevelt Rd	SL-005	Field Blvd & South Water St	15534	member
+9558CD12AE1098CB	electric_bike	2021-01-28 12:38:21	2021-01-28 12:46:06	Lincoln Ave & Waveland Ave	13253	Talman Ave & Addison St	15632	member
+9F414B5FB6DF8570	electric_bike	2021-01-14 12:37:50	2021-01-14 12:44:18	Lincoln Ave & Waveland Ave	13253	Talman Ave & Addison St	15632	member
+4F36A8EC57B988B0	classic_bike	2021-01-11 17:08:01	2021-01-11 17:23:06	Damen Ave & Cortland St	13133	Ashland Ave & Chicago Ave	13247	member
+B7F829B6A145F12C	classic_bike	2021-01-15 20:53:45	2021-01-15 21:13:01	Indiana Ave & Roosevelt Rd	SL-005	Aberdeen St & Randolph St	18062	casual
+91B6D3F971876726	electric_bike	2021-01-13 08:00:02	2021-01-13 08:24:07	Indiana Ave & Roosevelt Rd	SL-005	Aberdeen St & Randolph St	18062	casual
+29586CBA82758F76	classic_bike	2021-01-04 07:45:01	2021-01-04 07:58:13	Paulina St & Flournoy St	KA1504000104	Ashland Ave & Chicago Ave	13247	member
+971D32E436F26096	classic_bike	2021-01-02 07:54:24	2021-01-02 08:05:47	Paulina St & Flournoy St	KA1504000104	Ashland Ave & Chicago Ave	13247	member
+D21A4E5E34DC8143	classic_bike	2021-01-12 08:12:49	2021-01-12 08:25:12	Paulina St & Flournoy St	KA1504000104	Ashland Ave & Chicago Ave	13247	member
+40699993884CC7A4	classic_bike	2021-01-13 08:39:39	2021-01-13 09:00:02	Paulina St & Flournoy St	KA1504000104	Ashland Ave & Chicago Ave	13247	member
+177909D2212AA8B9	electric_bike	2021-01-19 19:42:52	2021-01-19 19:44:46	Sheffield Ave & Fullerton Ave	TA1306000016	Racine Ave & Fullerton Ave	TA1306000026	member
+C6CF29DC87403CBF	classic_bike	2021-01-09 20:18:45	2021-01-09 20:29:51	Southport Ave & Wellington Ave	TA1307000006	Southport Ave & Waveland Ave	13235	member
+4FF1F193A9CC64B4	classic_bike	2021-01-19 08:34:16	2021-01-19 08:51:12	State St & Pearson St	TA1307000061	Racine Ave & Fullerton Ave	TA1306000026	member
+1AC95084803534A5	classic_bike	2021-01-12 08:22:23	2021-01-12 08:39:42	State St & Pearson St	TA1307000061	Racine Ave & Fullerton Ave	TA1306000026	member
+1E69CA35923ECD01	classic_bike	2021-01-08 10:45:36	2021-01-08 10:52:40	Clark St & Wrightwood Ave	TA1305000014	Racine Ave & Fullerton Ave	TA1306000026	member
+84966A42BCC76AC3	classic_bike	2021-01-24 14:09:52	2021-01-24 14:18:01	Shields Ave & 31st St	KA1503000038	MLK Jr Dr & 29th St	TA1307000139	member
+1C9E232EB46DE934	classic_bike	2021-01-06 06:13:25	2021-01-06 06:21:39	Shields Ave & 31st St	KA1503000038	MLK Jr Dr & 29th St	TA1307000139	member
+1595A43CA89D5000	classic_bike	2021-01-29 13:44:49	2021-01-29 13:52:54	Ashland Ave & Wellington Ave	13269	Racine Ave & Fullerton Ave	TA1306000026	member
+79D048722B381F54	classic_bike	2021-01-29 15:28:23	2021-01-29 15:41:53	Clark St & Wrightwood Ave	TA1305000014	Southport Ave & Waveland Ave	13235	member
+5E34A618844E1BEE	electric_bike	2021-01-21 17:18:11	2021-01-21 17:34:19	Clark St & Wrightwood Ave	TA1305000014	Southport Ave & Waveland Ave	13235	casual
+7B6B1C35577FB64C	classic_bike	2021-01-25 09:37:28	2021-01-25 09:48:46	Clark St & Wrightwood Ave	TA1305000014	Racine Ave & Fullerton Ave	TA1306000026	member
+93098EABBB9B93B7	classic_bike	2021-01-14 16:31:47	2021-01-14 16:48:08	Clark St & Wrightwood Ave	TA1305000014	Southport Ave & Waveland Ave	13235	casual
+E8B5F8B12F834055	classic_bike	2021-01-14 08:28:35	2021-01-14 08:35:14	Clark St & Wrightwood Ave	TA1305000014	Racine Ave & Fullerton Ave	TA1306000026	member
+5A2C81DB3CCB4EE5	classic_bike	2021-01-23 20:36:30	2021-01-23 20:57:15	Wells St & Polk St	SL-011	MLK Jr Dr & 29th St	TA1307000139	member
+A5BF2CC7E73C0522	classic_bike	2021-01-12 19:30:47	2021-01-12 19:52:20	Wells St & Polk St	SL-011	MLK Jr Dr & 29th St	TA1307000139	member
+0D4A2DF8AF98C529	classic_bike	2021-01-05 18:36:15	2021-01-05 18:45:39	Lincoln Ave & Addison St	TA1309000050	Racine Ave & Fullerton Ave	TA1306000026	member
+3F8AB6186DBFD25B	electric_bike	2021-01-08 06:59:03	2021-01-08 07:16:40	Halsted St & 35th St	TA1308000043	MLK Jr Dr & 29th St	TA1307000139	member
+610CC5A32E47D6B8	electric_bike	2021-01-02 19:19:48	2021-01-02 19:25:26	Glenwood Ave & Touhy Ave	525	Sheridan Rd & Loyola Ave	RP-009	member
+9A66CA0ED590004D	classic_bike	2021-01-19 17:12:05	2021-01-19 17:40:22	Glenwood Ave & Touhy Ave	525	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	member
+AC66AA71D28C0FFD	classic_bike	2021-01-17 09:13:39	2021-01-17 09:42:07	Glenwood Ave & Touhy Ave	525	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	member
+33270E5DFC8BACE7	classic_bike	2021-01-24 09:09:58	2021-01-24 09:38:05	Glenwood Ave & Touhy Ave	525	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	member
+F46B33774E650502	electric_bike	2021-01-26 07:56:01	2021-01-26 08:16:57	Washtenaw Ave & Lawrence Ave	KA1504000080	Sheridan Rd & Loyola Ave	RP-009	casual
+2391052D7B4EF7D5	classic_bike	2021-01-05 18:06:44	2021-01-05 18:15:50	Orleans St & Hubbard St	636	Fairbanks Ct & Grand Ave	TA1305000003	member
+7E69D150B3EBFEE4	classic_bike	2021-01-09 12:58:23	2021-01-09 13:09:46	State St & Harrison St	SL-007	Wentworth Ave & Cermak Rd	13075	member
+6B326ABDC71C9342	classic_bike	2021-01-13 12:59:30	2021-01-13 13:07:09	Rush St & Hubbard St	KA1503000044	Fairbanks Ct & Grand Ave	TA1305000003	member
+9EE6891E6EB88E70	classic_bike	2021-01-08 19:26:47	2021-01-08 19:53:04	Michigan Ave & 8th St	623	Fairbanks Ct & Grand Ave	TA1305000003	member
+49E504E9FECD6FF1	classic_bike	2021-01-15 12:03:35	2021-01-15 12:56:40	Michigan Ave & 8th St	623	Fairbanks Ct & Grand Ave	TA1305000003	casual
+02F3A92A800DAA65	classic_bike	2021-01-16 19:16:08	2021-01-16 19:34:42	Michigan Ave & 8th St	623	Wentworth Ave & Cermak Rd	13075	casual
+73CAC5B1C80DF8EC	classic_bike	2021-01-28 12:16:35	2021-01-28 12:20:54	Rush St & Hubbard St	KA1503000044	Fairbanks Ct & Grand Ave	TA1305000003	member
+1C24FE7D25084298	electric_bike	2021-01-03 12:59:34	2021-01-03 14:10:29	Michigan Ave & 8th St	623	Fairbanks Ct & Grand Ave	TA1305000003	casual
+23B3878A1571F391	classic_bike	2021-01-16 19:16:20	2021-01-16 19:34:35	Michigan Ave & 8th St	623	Wentworth Ave & Cermak Rd	13075	casual
+7AA22A6D9C3C8AE9	classic_bike	2021-01-03 13:10:45	2021-01-03 14:10:42	Michigan Ave & 8th St	623	Fairbanks Ct & Grand Ave	TA1305000003	casual
+C4AB17838FC22FA7	electric_bike	2021-01-18 15:13:19	2021-01-18 15:17:05	Halsted St & Archer Ave	TA1308000013	Halsted St & 18th St	13099	member
+92ADB40E712047D4	electric_bike	2021-01-12 17:16:20	2021-01-12 17:20:05	Halsted St & Archer Ave	TA1308000013	Halsted St & 18th St	13099	member
+146F7BA33010D521	electric_bike	2021-01-27 18:22:14	2021-01-27 18:34:03	Franklin St & Jackson Blvd	TA1305000025	Fairbanks Ct & Grand Ave	TA1305000003	casual
+CDDDFF3A6DE0472F	electric_bike	2021-01-28 18:33:30	2021-01-28 18:44:47	Franklin St & Jackson Blvd	TA1305000025	Fairbanks Ct & Grand Ave	TA1305000003	casual
+A0A9AB228ECAC16D	electric_bike	2021-01-07 15:20:48	2021-01-07 15:40:03	Franklin St & Jackson Blvd	TA1305000025	Fairbanks Ct & Grand Ave	TA1305000003	casual
+C4602CB2139BFF63	classic_bike	2021-01-23 15:26:57	2021-01-23 15:32:14	Franklin St & Jackson Blvd	TA1305000025	Clinton St & Tilden St	13037	casual
+FDCC11C86D91C177	electric_bike	2021-01-05 17:33:21	2021-01-05 17:45:17	Franklin St & Jackson Blvd	TA1305000025	Fairbanks Ct & Grand Ave	TA1305000003	casual
+E3960225997BE418	classic_bike	2021-01-24 03:36:45	2021-01-24 03:40:07	Clark St & Wrightwood Ave	TA1305000014	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+0F1ACA80E21B440C	classic_bike	2021-01-10 20:47:45	2021-01-10 20:52:46	Clark St & Wrightwood Ave	TA1305000014	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+9600E389F393617F	classic_bike	2021-01-24 13:46:05	2021-01-24 14:09:12	Benson Ave & Church St	596	Warren Park East	RP-002	member
+3640F773F858DD7F	electric_bike	2021-01-19 15:54:12	2021-01-19 15:57:16	Clark St & Wrightwood Ave	TA1305000014	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+E85671E31DA83C90	classic_bike	2021-01-12 10:27:24	2021-01-12 10:29:46	Wentworth Ave & 24th St (Temp)	TA1308000026	Wentworth Ave & Cermak Rd	13075	member
+9630CB5CB7A0D13B	classic_bike	2021-01-12 16:49:29	2021-01-12 16:55:42	Glenwood Ave & Touhy Ave	525	Sheridan Rd & Loyola Ave	RP-009	casual
+213EF4EE2CA5BBDE	classic_bike	2021-01-22 18:54:06	2021-01-22 19:14:17	Halsted St & North Branch St	KA1504000117	Fairbanks Ct & Grand Ave	TA1305000003	casual
+3E8C754F6316F53D	classic_bike	2021-01-02 13:35:08	2021-01-02 13:44:01	St. Clair St & Erie St	13016	Fairbanks Ct & Grand Ave	TA1305000003	casual
+9FF8796CAB2CFE55	classic_bike	2021-01-22 21:22:48	2021-01-22 21:40:20	Ritchie Ct & Banks St	KA1504000134	Fairbanks Ct & Grand Ave	TA1305000003	member
+501193574C0DA995	classic_bike	2021-01-23 19:17:51	2021-01-23 19:27:59	Clark St & Armitage Ave	13146	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+2319E54089E12D80	classic_bike	2021-01-02 14:07:31	2021-01-02 14:39:19	State St & Pearson St	TA1307000061	Wentworth Ave & Cermak Rd	13075	member
+60EAB2DA0B18AF36	classic_bike	2021-01-14 11:17:55	2021-01-14 11:24:46	State St & Pearson St	TA1307000061	Fairbanks Ct & Grand Ave	TA1305000003	member
+1D48E4CEA318A9A2	classic_bike	2021-01-29 17:24:18	2021-01-29 17:32:06	LaSalle Dr & Huron St	KP1705001026	Fairbanks Ct & Grand Ave	TA1305000003	member
+123DA26088FE226A	classic_bike	2021-01-29 17:24:15	2021-01-29 17:32:28	LaSalle Dr & Huron St	KP1705001026	Fairbanks Ct & Grand Ave	TA1305000003	member
+36DE2FA05ECED853	classic_bike	2021-01-24 13:52:19	2021-01-24 14:10:34	LaSalle Dr & Huron St	KP1705001026	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+005F3673E23F9E84	classic_bike	2021-01-23 18:50:37	2021-01-23 18:58:23	Halsted St & Roscoe St	TA1309000025	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+FC96199E10D6CCC0	classic_bike	2021-01-15 13:45:24	2021-01-15 13:47:04	Sheffield Ave & Fullerton Ave	TA1306000016	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+0B1E158F7B8C66A1	classic_bike	2021-01-12 12:31:34	2021-01-12 12:42:00	Michigan Ave & 14th St	TA1307000124	Wentworth Ave & Cermak Rd	13075	member
+F53BA609323A1F5B	classic_bike	2021-01-27 23:30:43	2021-01-27 23:32:28	Sheffield Ave & Fullerton Ave	TA1306000016	Sheffield Ave & Wrightwood Ave	TA1309000023	casual
+665AEAAA11F3F0B8	docked_bike	2021-01-12 16:49:52	2021-01-12 17:06:00	Sheffield Ave & Fullerton Ave	TA1306000016	Sheffield Ave & Wrightwood Ave	TA1309000023	casual
+476C0C6F081A8F33	classic_bike	2021-01-18 12:36:57	2021-01-18 12:51:25	Michigan Ave & 14th St	TA1307000124	Halsted St & 18th St	13099	member
+A1C85248B249F546	classic_bike	2021-01-01 12:21:08	2021-01-01 12:22:31	Sheffield Ave & Fullerton Ave	TA1306000016	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+2C318FD831639AD2	classic_bike	2021-01-07 11:48:27	2021-01-07 11:51:04	New St & Illinois St	TA1306000013	Fairbanks Ct & Grand Ave	TA1305000003	member
+5279C01DAC1F0A18	classic_bike	2021-01-27 09:26:29	2021-01-27 09:29:00	Clinton St & Polk St	15542	Clinton St & Tilden St	13037	member
+D8145E76C63C4198	classic_bike	2021-01-28 12:23:41	2021-01-28 12:50:01	Racine Ave & 35th St	15446	Wentworth Ave & Cermak Rd	13075	member
+516CAD5E88D00D51	classic_bike	2021-01-12 17:04:04	2021-01-12 17:29:52	Clark St & Wrightwood Ave	TA1305000014	Fairbanks Ct & Grand Ave	TA1305000003	member
+A4F9061FFF041508	docked_bike	2021-01-06 14:05:34	2021-01-06 16:58:08	Noble St & Milwaukee Ave	13290	Fairbanks Ct & Grand Ave	TA1305000003	casual
+FAB0E712C715454E	classic_bike	2021-01-03 09:12:34	2021-01-03 09:16:45	Normal Ave & Archer Ave	TA1308000014	Wentworth Ave & Cermak Rd	13075	member
+CA0D1E70CC167BE1	classic_bike	2021-01-02 12:25:13	2021-01-02 12:50:41	Franklin St & Jackson Blvd	TA1305000025	Wentworth Ave & Cermak Rd	13075	member
+D026817A66FF8115	electric_bike	2021-01-25 08:05:11	2021-01-25 08:14:29	Indiana Ave & Roosevelt Rd	SL-005	Fairbanks Ct & Grand Ave	TA1305000003	member
+B0F23F9D2961F32F	classic_bike	2021-01-07 05:32:08	2021-01-07 05:35:37	Normal Ave & Archer Ave	TA1308000014	Wentworth Ave & Cermak Rd	13075	member
+52F6A8EFA9143B6C	classic_bike	2021-01-16 15:28:40	2021-01-16 15:36:46	Indiana Ave & 26th St	TA1307000005	Wentworth Ave & Cermak Rd	13075	member
+9ED73172649F3AE4	classic_bike	2021-01-09 15:24:15	2021-01-09 15:40:50	Clark St & Chicago Ave	13303	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+2B5DF5938C45DBB3	classic_bike	2021-01-12 13:29:53	2021-01-12 13:46:37	Indiana Ave & 26th St	TA1307000005	Wentworth Ave & Cermak Rd	13075	member
+155A2CEB353687B9	classic_bike	2021-01-16 17:05:28	2021-01-16 17:42:16	Clark St & Chicago Ave	13303	Fairbanks Ct & Grand Ave	TA1305000003	member
+F6AF44643BA2149C	classic_bike	2021-01-29 12:40:03	2021-01-29 13:19:16	Clark St & Chicago Ave	13303	Fairbanks Ct & Grand Ave	TA1305000003	member
+2E5D7EF81EB523A7	classic_bike	2021-01-11 12:55:52	2021-01-11 12:58:14	Sheffield Ave & Fullerton Ave	TA1306000016	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+0F3CA554A73F7CF5	classic_bike	2021-01-12 12:41:52	2021-01-12 12:43:47	Sheffield Ave & Fullerton Ave	TA1306000016	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+427830E7BBBF0C91	classic_bike	2021-01-10 09:27:47	2021-01-10 09:33:06	Clark St & Columbia Ave	RP-008	Sheridan Rd & Loyola Ave	RP-009	member
+87C63F93CB4404E1	classic_bike	2021-01-18 14:41:04	2021-01-18 14:46:31	Clark St & Columbia Ave	RP-008	Sheridan Rd & Loyola Ave	RP-009	member
+127AD348A6469017	classic_bike	2021-01-13 08:59:15	2021-01-13 09:04:55	Clark St & Columbia Ave	RP-008	Sheridan Rd & Loyola Ave	RP-009	member
+09636BB758573331	classic_bike	2021-01-05 09:05:45	2021-01-05 09:12:01	Clark St & Columbia Ave	RP-008	Sheridan Rd & Loyola Ave	RP-009	member
+BC3D442558252EFF	electric_bike	2021-01-04 17:56:26	2021-01-04 18:15:17	Rush St & Hubbard St	KA1503000044	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+C9E29A857E0E5CFD	classic_bike	2021-01-15 16:14:01	2021-01-15 16:31:35	Halsted St & Maxwell St	TA1309000001	Clinton St & Tilden St	13037	member
+645936882126CAE6	electric_bike	2021-01-27 16:38:40	2021-01-27 16:49:11	Fairbanks St & Superior St	18003	Field Blvd & South Water St	15534	casual
+8450D67F52BEDCED	electric_bike	2021-01-08 16:28:33	2021-01-08 16:36:02	Fairbanks St & Superior St	18003	Field Blvd & South Water St	15534	casual
+70BB41244E0E83AC	electric_bike	2021-01-04 16:46:31	2021-01-04 16:55:19	Fairbanks St & Superior St	18003	Field Blvd & South Water St	15534	casual
+F57CFFD40A3293F6	electric_bike	2021-01-26 16:39:29	2021-01-26 16:50:50	Fairbanks St & Superior St	18003	Field Blvd & South Water St	15534	casual
+1B4B1ADD49D4F3E9	electric_bike	2021-01-06 16:35:54	2021-01-06 16:44:57	Fairbanks St & Superior St	18003	Field Blvd & South Water St	15534	casual
+C96D0A3388375938	electric_bike	2021-01-27 18:35:30	2021-01-27 18:50:08	LaSalle Dr & Huron St	KP1705001026	Field Blvd & South Water St	15534	member
+0341EA9788045838	electric_bike	2021-01-24 10:51:01	2021-01-24 11:01:26	Larrabee St & Menomonee St	TA1306000007	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+0E311D8C5ADD59FB	classic_bike	2021-01-19 08:58:41	2021-01-19 09:02:05	Desplaines St & Jackson Blvd	15539	Clinton St & Tilden St	13037	member
+71614035644516C4	classic_bike	2021-01-12 08:41:59	2021-01-12 08:44:46	Desplaines St & Jackson Blvd	15539	Clinton St & Tilden St	13037	member
+5E0FDF1309F59DD1	classic_bike	2021-01-28 08:20:41	2021-01-28 08:23:32	Desplaines St & Jackson Blvd	15539	Clinton St & Tilden St	13037	member
+E8A768276101AD99	classic_bike	2021-01-13 09:33:24	2021-01-13 09:36:09	Desplaines St & Jackson Blvd	15539	Clinton St & Tilden St	13037	member
+8B968F1C5EF3916B	classic_bike	2021-01-14 09:03:39	2021-01-14 09:06:19	Desplaines St & Jackson Blvd	15539	Clinton St & Tilden St	13037	member
+54A0884ED2FE024D	classic_bike	2021-01-04 05:35:59	2021-01-04 05:39:58	Normal Ave & Archer Ave	TA1308000014	Wentworth Ave & Cermak Rd	13075	member
+E2EFED6E353250EB	classic_bike	2021-01-28 10:30:11	2021-01-28 10:35:59	LaSalle Dr & Huron St	KP1705001026	Fairbanks Ct & Grand Ave	TA1305000003	member
+C79B630519C1C130	classic_bike	2021-01-08 21:05:47	2021-01-08 21:30:13	LaSalle Dr & Huron St	KP1705001026	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+327EE36F863BF94D	classic_bike	2021-01-04 16:19:29	2021-01-04 16:48:11	Fairbanks St & Superior St	18003	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+A0ABA42BCDC41670	electric_bike	2021-01-02 14:01:30	2021-01-02 14:10:06	LaSalle Dr & Huron St	KP1705001026	Fairbanks Ct & Grand Ave	TA1305000003	member
+5C74D126F7C51DDD	classic_bike	2021-01-17 13:52:20	2021-01-17 14:22:42	St. Clair St & Erie St	13016	Stockton Dr & Wrightwood Ave	13276	member
+FCD5ADC90CDC7647	classic_bike	2021-01-21 08:23:49	2021-01-21 08:28:48	Normal Ave & Archer Ave	TA1308000014	Wentworth Ave & Cermak Rd	13075	member
+48BB8230365D5A2F	classic_bike	2021-01-09 12:25:55	2021-01-09 12:56:44	Clark St & Wrightwood Ave	TA1305000014	Stockton Dr & Wrightwood Ave	13276	member
+A52B6AFE731EDB49	classic_bike	2021-01-21 08:52:19	2021-01-21 09:22:43	Clark St & Lake St	KA1503000012	Fairbanks Ct & Grand Ave	TA1305000003	member
+E7B90332D9F6F537	electric_bike	2021-01-08 17:29:50	2021-01-08 17:35:47	Halsted St & Willow St	TA1307000166	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+DC21F9605919710E	classic_bike	2021-01-09 14:36:14	2021-01-09 15:04:05	Clark St & Lake St	KA1503000012	Fairbanks Ct & Grand Ave	TA1305000003	member
+3BD789B5047B37BA	classic_bike	2021-01-06 12:37:32	2021-01-06 12:42:05	Damen Ave & Clybourn Ave	13271	Winchester Ave & Elston Ave	KA1504000140	member
+2EBB7C6DA8957456	electric_bike	2021-01-08 07:43:28	2021-01-08 08:07:17	Sheffield Ave & Webster Ave	TA1309000033	LaSalle St & Adams St	KA1503000034	member
+7DD156B52F9FF435	classic_bike	2021-01-07 18:21:36	2021-01-07 18:37:59	Franklin St & Jackson Blvd	TA1305000025	Halsted St & 18th St	13099	member
+CF739B860352B811	classic_bike	2021-01-12 13:12:22	2021-01-12 13:26:51	Franklin St & Jackson Blvd	TA1305000025	Fairbanks Ct & Grand Ave	TA1305000003	member
+AF8D931D0608644B	electric_bike	2021-01-29 18:34:58	2021-01-29 18:49:00	Larrabee St & Oak St	KA1504000116	Stockton Dr & Wrightwood Ave	13276	member
+A7B9F511BC1D95C1	electric_bike	2021-01-28 19:55:17	2021-01-28 20:10:24	Larrabee St & Oak St	KA1504000116	Stockton Dr & Wrightwood Ave	13276	member
+57ECCB088E767320	electric_bike	2021-01-08 18:31:59	2021-01-08 18:52:53	Larrabee St & Oak St	KA1504000116	Stockton Dr & Wrightwood Ave	13276	member
+B44AE5D6A6A929DD	classic_bike	2021-01-08 18:31:47	2021-01-08 18:52:43	Larrabee St & Oak St	KA1504000116	Stockton Dr & Wrightwood Ave	13276	member
+D27BA013E99E9569	classic_bike	2021-01-25 14:51:55	2021-01-25 14:57:20	New St & Illinois St	TA1306000013	Field Blvd & South Water St	15534	member
+3D59FF0F2F83FBDE	classic_bike	2021-01-25 13:26:50	2021-01-25 13:42:18	Theater on the Lake	TA1308000001	Winchester Ave & Elston Ave	KA1504000140	member
+F24642F0DFA079ED	classic_bike	2021-01-04 14:07:59	2021-01-04 14:14:23	Theater on the Lake	TA1308000001	Stockton Dr & Wrightwood Ave	13276	member
+536D9A634573892F	classic_bike	2021-01-12 17:01:12	2021-01-12 17:15:36	Wilton Ave & Belmont Ave	TA1307000134	Winchester Ave & Elston Ave	KA1504000140	member
+007CB01F9584CE82	classic_bike	2021-01-28 09:08:32	2021-01-28 09:33:21	California Ave & Lake St	15666	LaSalle St & Washington St	13006	member
+52124113A5EF69CB	classic_bike	2021-01-19 21:27:38	2021-01-19 21:34:28	Logan Blvd & Elston Ave	TA1308000031	Winchester Ave & Elston Ave	KA1504000140	member
+429E11A4AD2BE0DB	classic_bike	2021-01-21 14:03:46	2021-01-21 14:07:20	Franklin St & Jackson Blvd	TA1305000025	LaSalle St & Washington St	13006	member
+E9189EF25BB2A5EA	electric_bike	2021-01-16 06:09:11	2021-01-16 06:58:06	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+07F8CED9AC1381AA	classic_bike	2021-01-21 06:28:33	2021-01-21 07:11:19	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+A9EC38ACA3EF462A	classic_bike	2021-01-04 11:28:50	2021-01-04 12:14:37	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+412C42EA5B1D98C4	classic_bike	2021-01-13 05:53:52	2021-01-13 06:38:15	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+05F077FCF807DAD2	classic_bike	2021-01-15 06:00:24	2021-01-15 06:47:44	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+5A75AC1E660E4D11	classic_bike	2021-01-18 05:36:29	2021-01-18 06:18:55	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+F8E407F4C7973232	classic_bike	2021-01-12 06:08:04	2021-01-12 06:50:15	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+62E00917178D1085	classic_bike	2021-01-17 06:00:09	2021-01-17 06:50:24	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+E12D3B3FA6F5A397	classic_bike	2021-01-22 06:30:22	2021-01-22 07:13:05	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+74EB63BC6D367C86	classic_bike	2021-01-10 06:06:13	2021-01-10 06:50:51	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+F4C14D2DF792F008	classic_bike	2021-01-30 06:28:23	2021-01-30 07:17:21	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+9A6F2691936D2A92	classic_bike	2021-01-06 05:37:49	2021-01-06 06:19:11	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+0E24D2C1AA3F6E51	classic_bike	2021-01-07 06:00:13	2021-01-07 06:41:38	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+55AAD055BF7D0FB3	classic_bike	2021-01-23 06:31:18	2021-01-23 07:19:42	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+0866871D6D12B29E	classic_bike	2021-01-08 06:04:53	2021-01-08 06:47:29	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+FB4D7DC1DE74F480	classic_bike	2021-01-25 06:20:39	2021-01-25 07:05:49	Michigan Ave & 14th St	TA1307000124	Ellis Ave & 55th St	KA1504000076	member
+1F290CC8D700D17B	classic_bike	2021-01-15 11:01:13	2021-01-15 11:11:05	Michigan Ave & 14th St	TA1307000124	LaSalle St & Washington St	13006	member
+127416475F07CA83	classic_bike	2021-01-15 07:45:08	2021-01-15 07:53:46	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Washington St	13006	member
+9DCDCCDD527D050B	classic_bike	2021-01-14 07:41:11	2021-01-14 07:49:54	Indiana Ave & Roosevelt Rd	SL-005	LaSalle St & Washington St	13006	member
+E42FA8D4D3E6A92E	classic_bike	2021-01-21 07:30:12	2021-01-21 07:38:23	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	casual
+F15A78C6583E1F95	classic_bike	2021-01-14 06:54:24	2021-01-14 07:02:57	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	casual
+6C0608F48257FDD8	classic_bike	2021-01-05 16:12:38	2021-01-05 16:23:53	St. Clair St & Erie St	13016	LaSalle St & Washington St	13006	member
+C6D430F7F947A9BE	classic_bike	2021-01-09 16:00:25	2021-01-09 16:11:26	Dorchester Ave & 49th St	KA1503000069	Harper Ave & 59th St	KA1503000070	member
+9484883D7CC7260F	classic_bike	2021-01-23 10:43:25	2021-01-23 11:03:45	Dorchester Ave & 49th St	KA1503000069	Harper Ave & 59th St	KA1503000070	member
+D1AAF9AF3D9358F3	classic_bike	2021-01-26 12:50:59	2021-01-26 12:59:45	Calumet Ave & 33rd St	13217	State St & 35th St	TA1307000129	member
+72137512A075E78C	classic_bike	2021-01-28 13:19:46	2021-01-28 13:25:28	Calumet Ave & 33rd St	13217	State St & 35th St	TA1307000129	member
+44B7270EB03CD968	classic_bike	2021-01-10 15:15:13	2021-01-10 15:24:06	Indiana Ave & 26th St	TA1307000005	State St & 35th St	TA1307000129	member
+F3486A2DE25AD252	electric_bike	2021-01-04 09:25:34	2021-01-04 09:30:59	Desplaines St & Jackson Blvd	15539	LaSalle St & Washington St	13006	member
+1C6C03A19009A9F0	electric_bike	2021-01-25 08:36:24	2021-01-25 08:41:34	Desplaines St & Jackson Blvd	15539	LaSalle St & Washington St	13006	member
+EC0178B2E22AC3C6	classic_bike	2021-01-07 07:33:58	2021-01-07 08:01:54	Smith Park	643	LaSalle St & Washington St	13006	member
+B94F1666C77EBCEB	classic_bike	2021-01-15 07:32:35	2021-01-15 07:52:02	Larrabee St & Menomonee St	TA1306000007	LaSalle St & Washington St	13006	member
+03B94CF0DC4ADA59	classic_bike	2021-01-22 16:06:08	2021-01-22 16:09:52	University Ave & 57th St	KA1503000071	Ellis Ave & 55th St	KA1504000076	member
+B4E115DA1B7FC75B	classic_bike	2021-01-21 13:11:13	2021-01-21 13:14:28	University Ave & 57th St	KA1503000071	Ellis Ave & 55th St	KA1504000076	member
+702B629A750AAA44	classic_bike	2021-01-22 11:58:42	2021-01-22 12:01:00	Woodlawn Ave & 55th St	TA1307000164	Ellis Ave & 55th St	KA1504000076	member
+4076D6F72622EF19	classic_bike	2021-01-02 07:21:23	2021-01-02 07:36:08	Michigan Ave & 14th St	TA1307000124	LaSalle St & Washington St	13006	member
+526334A199FFB25F	electric_bike	2021-01-22 14:42:07	2021-01-22 14:50:55	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	member
+6CF4BA2F47F46815	classic_bike	2021-01-11 09:25:50	2021-01-11 09:31:40	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	casual
+A795224EA99F466F	electric_bike	2021-01-12 06:52:19	2021-01-12 06:58:49	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	casual
+224C9DEC9F48437C	classic_bike	2021-01-05 06:51:49	2021-01-05 06:59:13	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	casual
+3ED388D35AE05C6F	classic_bike	2021-01-07 06:55:48	2021-01-07 07:03:37	Michigan Ave & 8th St	623	LaSalle St & Washington St	13006	casual
+1C641D6869DBF2AB	classic_bike	2021-01-27 10:49:36	2021-01-27 11:18:05	Smith Park	643	LaSalle St & Washington St	13006	casual
+0BF49469DDBE5D7E	classic_bike	2021-01-11 08:47:05	2021-01-11 08:55:36	Sangamon St & Washington Blvd	13409	LaSalle St & Washington St	13006	member
+5E0E25A9B93B7994	classic_bike	2021-01-06 09:07:27	2021-01-06 09:13:45	Sangamon St & Washington Blvd	13409	LaSalle St & Washington St	13006	member
+BA95255E56434F2C	classic_bike	2021-01-07 09:09:21	2021-01-07 09:15:40	Sangamon St & Washington Blvd	13409	LaSalle St & Washington St	13006	member
+5E9B02814CFA8063	classic_bike	2021-01-14 09:11:17	2021-01-14 09:17:55	Sangamon St & Washington Blvd	13409	LaSalle St & Washington St	13006	member
+FE4C5E38FA9CDE08	classic_bike	2021-01-21 10:49:23	2021-01-21 11:01:25	St. Clair St & Erie St	13016	Field Blvd & South Water St	15534	member
+680642C6D105C3FF	classic_bike	2021-01-13 14:11:15	2021-01-13 14:27:55	Wolcott (Ravenswood) Ave & Montrose Ave	TA1307000144	Talman Ave & Addison St	15632	member
+A6427D2D816870D3	classic_bike	2021-01-24 19:16:37	2021-01-24 19:39:53	Clark St & Wrightwood Ave	TA1305000014	California Ave & Altgeld St	15646	casual
+5AFC74443069267E	classic_bike	2021-01-21 07:17:10	2021-01-21 07:23:27	2112 W Peterson Ave	KA1504000155	Maplewood Ave & Peterson Ave	KA1504000130	member
+2A1E1D792B3F8BC2	electric_bike	2021-01-11 07:16:07	2021-01-11 07:19:41	2112 W Peterson Ave	KA1504000155	Maplewood Ave & Peterson Ave	KA1504000130	member
+6EF9A3F2E70446B8	classic_bike	2021-01-02 07:27:53	2021-01-02 07:33:33	2112 W Peterson Ave	KA1504000155	Maplewood Ave & Peterson Ave	KA1504000130	member
+4E8AE24BAF438DD8	classic_bike	2021-01-13 18:01:53	2021-01-13 18:15:39	Keystone Ave & Fullerton Ave	16010	California Ave & Altgeld St	15646	member
+FF466EA942889D92	electric_bike	2021-01-10 16:02:13	2021-01-10 16:24:58	Halsted St & Roscoe St	TA1309000025	Clark St & Bryn Mawr Ave	KA1504000151	member
+C5249D03568479A3	electric_bike	2021-01-03 17:19:10	2021-01-03 17:40:49	Christiana Ave & Lawrence Ave	15615	California Ave & Altgeld St	15646	member
+10CB83C05361E8AF	classic_bike	2021-01-13 19:16:49	2021-01-13 20:00:00	State St & Harrison St	SL-007	Clinton St & Madison St	TA1305000032	member
+13A5B3BC0C822449	electric_bike	2021-01-29 18:05:57	2021-01-29 18:25:57	Ogden Ave & Chicago Ave	TA1305000020	California Ave & Altgeld St	15646	member
+6ABEF7906A73FB45	electric_bike	2021-01-18 19:21:55	2021-01-18 19:40:52	Ogden Ave & Chicago Ave	TA1305000020	California Ave & Altgeld St	15646	member
+43E8D06071D1E56F	electric_bike	2021-01-22 21:59:22	2021-01-22 22:02:14	Milwaukee Ave & Rockwell St	13242	California Ave & Altgeld St	15646	member
+378AE5176798DBE2	electric_bike	2021-01-22 16:22:48	2021-01-22 16:27:53	Milwaukee Ave & Rockwell St	13242	California Ave & Altgeld St	15646	member
+51C44B4CDCD19337	classic_bike	2021-01-30 08:39:00	2021-01-30 08:43:31	Calumet Ave & 33rd St	13217	Indiana Ave & 31st St	TA1308000036	member
+FFB83DE030C27B4B	classic_bike	2021-01-01 22:18:17	2021-01-01 22:21:37	Calumet Ave & 33rd St	13217	Indiana Ave & 31st St	TA1308000036	member
+244577B6DD9957DF	classic_bike	2021-01-16 19:19:21	2021-01-16 19:22:24	Clark St & Berwyn Ave	KA1504000146	Clark St & Bryn Mawr Ave	KA1504000151	member
+6EBDA3CE7BC0DF0B	classic_bike	2021-01-06 15:43:07	2021-01-06 16:12:22	Clark St & Berwyn Ave	KA1504000146	Clark St & Bryn Mawr Ave	KA1504000151	member
+0C73A2062FCF4B65	classic_bike	2021-01-05 15:14:46	2021-01-05 15:57:12	University Ave & 57th St	KA1503000071	Indiana Ave & 31st St	TA1308000036	member
+01C0CBA34BAB079B	classic_bike	2021-01-17 17:00:24	2021-01-17 17:10:51	Marine Dr & Ainslie St	KA1504000171	Clark St & Bryn Mawr Ave	KA1504000151	member
+95122A0494B65F4B	electric_bike	2021-01-16 18:27:35	2021-01-16 19:01:02	Kildare Ave & Montrose Ave	KA1706005015	Clark St & Bryn Mawr Ave	KA1504000151	member
+665B1EFDB10D4D5E	classic_bike	2021-01-12 15:11:45	2021-01-12 15:31:58	Indiana Ave & Roosevelt Rd	SL-005	Indiana Ave & 31st St	TA1308000036	member
+1D12BD19F002A36A	classic_bike	2021-01-13 17:46:55	2021-01-13 17:57:45	Damen Ave & Leland Ave	TA1307000158	Clark St & Bryn Mawr Ave	KA1504000151	member
+2E55340B40325777	classic_bike	2021-01-21 21:34:22	2021-01-21 21:55:35	2112 W Peterson Ave	KA1504000155	Maplewood Ave & Peterson Ave	KA1504000130	member
+B263FFE85EFA416C	classic_bike	2021-01-13 17:48:40	2021-01-13 18:13:41	2112 W Peterson Ave	KA1504000155	Maplewood Ave & Peterson Ave	KA1504000130	member
+86C0862063B2508B	docked_bike	2021-01-29 15:46:06	2021-01-29 16:23:29	Clark St & Wrightwood Ave	TA1305000014	Milwaukee Ave & Wabansia Ave	13243	casual
+8D23B914EA1E7323	classic_bike	2021-01-22 15:06:04	2021-01-22 15:26:50	Ashland Ave & Wellington Ave	13269	Franklin St & Chicago Ave	13017	member
+08418571322A6ED5	classic_bike	2021-01-30 12:22:39	2021-01-30 12:37:03	Glenwood Ave & Touhy Ave	525	Clark St & Bryn Mawr Ave	KA1504000151	member
+A998DE184653A0B3	classic_bike	2021-01-09 08:10:54	2021-01-09 08:18:14	Cityfront Plaza Dr & Pioneer Ct	13427	Streeter Dr & Grand Ave	13022	casual
+69A75B1A6C530348	electric_bike	2021-01-16 18:55:23	2021-01-16 19:00:53	Milwaukee Ave & Rockwell St	13242	Milwaukee Ave & Wabansia Ave	13243	casual
+B19B4CC70F40B8F5	classic_bike	2021-01-23 17:16:17	2021-01-23 17:22:27	Wells St & Evergreen Ave	TA1308000049	Franklin St & Chicago Ave	13017	member
+2593A6305CB88E1D	classic_bike	2021-01-05 01:42:04	2021-01-05 02:10:58	Lake Shore Dr & Wellington Ave	TA1307000041	Franklin St & Chicago Ave	13017	member
+27A79098C7324455	classic_bike	2021-01-24 00:39:32	2021-01-24 01:10:50	Lake Shore Dr & Wellington Ave	TA1307000041	Franklin St & Chicago Ave	13017	member
+5F345F2E432D7250	classic_bike	2021-01-14 01:31:22	2021-01-14 01:56:21	Lake Shore Dr & Wellington Ave	TA1307000041	Franklin St & Chicago Ave	13017	member
+D0AB3ABA64EC579B	classic_bike	2021-01-15 18:35:43	2021-01-15 18:41:22	Wells St & Evergreen Ave	TA1308000049	Franklin St & Chicago Ave	13017	member
+BAD079BDAA748509	classic_bike	2021-01-06 13:04:29	2021-01-06 13:08:50	Orleans St & Hubbard St	636	Franklin St & Chicago Ave	13017	member
+77B612E46275053A	classic_bike	2021-01-17 13:31:17	2021-01-17 13:35:20	Orleans St & Hubbard St	636	Franklin St & Chicago Ave	13017	member
+01CDE8876F395D36	classic_bike	2021-01-25 06:51:59	2021-01-25 06:55:31	Clark St & Elm St	TA1307000039	Franklin St & Chicago Ave	13017	member
+FA8C9362C7FD6149	classic_bike	2021-01-27 06:51:15	2021-01-27 06:56:59	Clark St & Elm St	TA1307000039	Franklin St & Chicago Ave	13017	member
+13DC6EC37FB624AD	classic_bike	2021-01-21 06:52:01	2021-01-21 06:56:15	Clark St & Elm St	TA1307000039	Franklin St & Chicago Ave	13017	member
+0329AEEE3BC5E9FF	classic_bike	2021-01-20 06:48:44	2021-01-20 06:53:59	Clark St & Elm St	TA1307000039	Franklin St & Chicago Ave	13017	member
+7BD1DC2ABFF2490E	classic_bike	2021-01-19 06:47:41	2021-01-19 06:51:51	Clark St & Elm St	TA1307000039	Franklin St & Chicago Ave	13017	member
+08DE4F2DB98A3DD7	classic_bike	2021-01-14 06:45:26	2021-01-14 06:50:39	Clark St & Elm St	TA1307000039	Franklin St & Chicago Ave	13017	member
+6272E73DDC467A91	docked_bike	2021-01-05 15:15:19	2021-01-05 16:07:08	Lake Shore Dr & Belmont Ave	TA1309000049	Streeter Dr & Grand Ave	13022	casual
+43AB1C1968309EAC	classic_bike	2021-01-14 16:38:15	2021-01-14 16:48:11	Clark St & Elm St	TA1307000039	Streeter Dr & Grand Ave	13022	member
+775A7CE416DC9CB9	docked_bike	2021-01-05 14:13:56	2021-01-05 14:44:52	Shedd Aquarium	15544	Streeter Dr & Grand Ave	13022	casual
+FA7C7FBD63694A60	electric_bike	2021-01-12 18:12:23	2021-01-12 18:20:25	Clark St & Lake St	KA1503000012	Streeter Dr & Grand Ave	13022	member
+3062892A81C0BB15	classic_bike	2021-01-26 17:21:10	2021-01-26 17:30:52	Clark St & Lake St	KA1503000012	Streeter Dr & Grand Ave	13022	member
+15F908A138A962E3	classic_bike	2021-01-10 09:30:41	2021-01-10 10:06:39	Wilton Ave & Belmont Ave	TA1307000134	Western Ave & Granville Ave	KA1504000129	member
+D17089A3E313EDB5	classic_bike	2021-01-28 07:36:03	2021-01-28 07:38:27	Wells St & Huron St	TA1306000012	Franklin St & Chicago Ave	13017	member
+247773A1FDA0BFF9	classic_bike	2021-01-10 09:30:30	2021-01-10 10:06:35	Wilton Ave & Belmont Ave	TA1307000134	Western Ave & Granville Ave	KA1504000129	member
+C031BD2780A21C95	classic_bike	2021-01-28 10:26:39	2021-01-28 10:49:10	Wells St & Huron St	TA1306000012	Streeter Dr & Grand Ave	13022	member
+B95F50CC7C58E0D9	classic_bike	2021-01-07 12:59:47	2021-01-07 13:14:20	Princeton Ave & 47th St	KA1503000009	Halsted St & 37th St	TA1307000161	casual
+9014FF0AAC584114	classic_bike	2021-01-20 14:48:53	2021-01-20 15:40:14	Wilton Ave & Belmont Ave	TA1307000134	Streeter Dr & Grand Ave	13022	casual
+691E2F60B389E4B7	classic_bike	2021-01-24 20:56:28	2021-01-24 20:58:43	Wells St & Huron St	TA1306000012	Franklin St & Chicago Ave	13017	member
+21B5F4BA9CC4DA3D	electric_bike	2021-01-20 19:58:16	2021-01-20 20:00:25	Wells St & Huron St	TA1306000012	Franklin St & Chicago Ave	13017	member
+EC0CCC491E833531	classic_bike	2021-01-24 10:44:43	2021-01-24 11:14:56	New St & Illinois St	TA1306000013	Streeter Dr & Grand Ave	13022	member
+F5B92E5F6B442E0A	classic_bike	2021-01-25 14:26:11	2021-01-25 14:38:08	Greenview Ave & Fullerton Ave	TA1307000001	Milwaukee Ave & Wabansia Ave	13243	member
+FA4703E669C9486B	classic_bike	2021-01-12 19:03:03	2021-01-12 19:19:37	Sheffield Ave & Willow St	TA1306000032	Milwaukee Ave & Wabansia Ave	13243	member
+EE6FC077162FFAC9	docked_bike	2021-01-18 16:21:38	2021-01-18 16:39:15	Elston Ave & Wabansia Ave	TA1309000032	Franklin St & Chicago Ave	13017	casual
+AE06C67D85276CB0	classic_bike	2021-01-10 12:39:04	2021-01-10 13:56:26	California Ave & Fletcher St	15642	Clark St & Montrose Ave	KA1503000022	member
+8630836639BAA30F	classic_bike	2021-01-14 16:34:56	2021-01-14 16:58:43	Damen Ave & Leland Ave	TA1307000158	Milwaukee Ave & Wabansia Ave	13243	casual
+CA087A10A8273780	electric_bike	2021-01-20 22:28:02	2021-01-20 22:40:41	Washtenaw Ave & Lawrence Ave	KA1504000080	Western Ave & Granville Ave	KA1504000129	member
+D25CF53C91521602	classic_bike	2021-01-30 10:07:11	2021-01-30 10:14:56	Michigan Ave & Lake St	TA1305000011	Streeter Dr & Grand Ave	13022	member
+7579267AAD57458C	classic_bike	2021-01-12 16:52:21	2021-01-12 16:56:00	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+AF183D44A44E614B	docked_bike	2021-01-15 17:18:00	2021-01-15 20:10:19	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	casual
+57510D807937FF17	electric_bike	2021-01-26 19:56:25	2021-01-26 20:05:55	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+47B8D52673F00E11	electric_bike	2021-01-21 20:06:19	2021-01-21 20:10:58	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+24B6C159496E67C4	electric_bike	2021-01-15 20:07:57	2021-01-15 20:12:06	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+8504CB4689306E03	electric_bike	2021-01-22 19:58:27	2021-01-22 20:04:39	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+E44ABA96A1657081	electric_bike	2021-01-18 16:25:30	2021-01-18 16:29:35	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+8E282DE61F8CC4AF	electric_bike	2021-01-03 15:43:58	2021-01-03 15:48:55	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+A6CC8A2724B35666	electric_bike	2021-01-20 11:36:13	2021-01-20 11:40:54	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+6BF7A0B28501E5EE	electric_bike	2021-01-27 20:09:33	2021-01-27 20:14:03	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+69929D022612C434	electric_bike	2021-01-11 20:16:04	2021-01-11 20:20:51	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+992F0762C1E3DF3C	classic_bike	2021-01-12 20:11:56	2021-01-12 20:16:02	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+53098BDEC0BC926E	classic_bike	2021-01-08 20:13:47	2021-01-08 20:18:41	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+975BE70D07DBF3BF	classic_bike	2021-01-07 15:25:20	2021-01-07 15:28:34	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+391D708FC3D76708	classic_bike	2021-01-13 20:35:41	2021-01-13 20:53:15	Washtenaw Ave & Lawrence Ave	KA1504000080	Western Ave & Granville Ave	KA1504000129	member
+3F63779475DEB2FA	classic_bike	2021-01-18 17:41:47	2021-01-18 18:00:10	Desplaines St & Jackson Blvd	15539	Fairbanks Ct & Grand Ave	TA1305000003	member
+5D560BCAF00B3765	classic_bike	2021-01-30 09:37:18	2021-01-30 09:57:09	Desplaines St & Jackson Blvd	15539	Fairbanks Ct & Grand Ave	TA1305000003	member
+7A01CB56ABEBCD08	classic_bike	2021-01-19 15:56:52	2021-01-19 16:13:27	Desplaines St & Jackson Blvd	15539	Fairbanks Ct & Grand Ave	TA1305000003	member
+F95FDD878D2C87C6	classic_bike	2021-01-30 14:59:18	2021-01-30 15:17:18	Desplaines St & Jackson Blvd	15539	Fairbanks Ct & Grand Ave	TA1305000003	member
+0D96115DB1BE61E5	classic_bike	2021-01-03 13:22:46	2021-01-03 13:53:56	Lincoln Ave & Fullerton Ave	TA1309000058	Streeter Dr & Grand Ave	13022	member
+962BD44ACC713F98	classic_bike	2021-01-14 20:45:03	2021-01-14 20:51:23	Mies van der Rohe Way & Chicago Ave	13338	Streeter Dr & Grand Ave	13022	member
+424458345FA074B9	classic_bike	2021-01-20 11:36:27	2021-01-20 11:52:15	Spaulding Ave & Division St	15654	Milwaukee Ave & Wabansia Ave	13243	casual
+3909A5C29FF65C0A	classic_bike	2021-01-08 16:17:29	2021-01-08 16:22:53	Greenview Ave & Fullerton Ave	TA1307000001	Sheffield Ave & Wrightwood Ave	TA1309000023	member
+8147ED185191BBA9	docked_bike	2021-01-08 18:35:02	2021-01-08 18:40:19	May St & Cullerton St	13331	Halsted St & 18th St	13099	casual
+6051B6AF8A21341C	classic_bike	2021-01-20 09:40:18	2021-01-20 10:27:28	Desplaines St & Jackson Blvd	15539	Fairbanks Ct & Grand Ave	TA1305000003	casual
+2E9F095EF0588D96	electric_bike	2021-01-13 16:29:45	2021-01-13 16:34:01	Wells St & Hubbard St	TA1307000151	Franklin St & Chicago Ave	13017	member
+476597E6B85315CA	electric_bike	2021-01-21 10:43:11	2021-01-21 10:50:15	Clark St & Schiller St	TA1309000024	Franklin St & Chicago Ave	13017	member
+64D42EF30F522469	classic_bike	2021-01-10 16:23:17	2021-01-10 16:27:51	Kingsbury St & Erie St	13265	Franklin St & Chicago Ave	13017	member
+BA0D183EA7C2B370	classic_bike	2021-01-05 13:19:22	2021-01-05 13:48:15	Larrabee St & North Ave	TA1306000008	Streeter Dr & Grand Ave	13022	casual
+038C2E52A6028B05	classic_bike	2021-01-12 14:13:32	2021-01-12 14:25:29	Michigan Ave & Jackson Blvd	TA1309000002	Streeter Dr & Grand Ave	13022	member
+A78FCEBA34EA8FEC	electric_bike	2021-01-13 15:00:19	2021-01-13 15:22:42	Halsted St & Roscoe St	TA1309000025	Western Ave & Granville Ave	KA1504000129	member
+065D142FB9A273A9	classic_bike	2021-01-07 11:19:28	2021-01-07 11:32:20	Michigan Ave & Jackson Blvd	TA1309000002	Streeter Dr & Grand Ave	13022	member
+A9A89756DCDB343B	classic_bike	2021-01-07 11:19:32	2021-01-07 11:32:04	Michigan Ave & Jackson Blvd	TA1309000002	Streeter Dr & Grand Ave	13022	member
+AC920F3D22F562C9	electric_bike	2021-01-13 11:17:48	2021-01-13 11:38:33	Wells St & Evergreen Ave	TA1308000049	Milwaukee Ave & Wabansia Ave	13243	member
+30B9991290D0EF67	classic_bike	2021-01-25 11:09:38	2021-01-25 11:16:17	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+F13D96ED094D6E74	classic_bike	2021-01-07 17:38:26	2021-01-07 17:41:57	Damen Ave & Pierce Ave	TA1305000041	Milwaukee Ave & Wabansia Ave	13243	member
+BE1ECBBEE6F7697F	electric_bike	2021-01-28 20:13:22	2021-01-28 20:17:37	Wells St & Evergreen Ave	TA1308000049	Franklin St & Chicago Ave	13017	member
+82183FA9D9497A81	electric_bike	2021-01-07 20:13:40	2021-01-07 20:28:26	Wells St & Evergreen Ave	TA1308000049	Milwaukee Ave & Wabansia Ave	13243	member
+B4C757812BC05B0F	classic_bike	2021-01-09 16:56:14	2021-01-09 17:15:54	Theater on the Lake	TA1308000001	Streeter Dr & Grand Ave	13022	member
+217AD84C48D61B00	classic_bike	2021-01-31 22:02:52	2021-01-31 22:18:14	Racine Ave & 35th St	15446	Blue Island Ave & 18th St	13135	member
+4E00E0D6065BAA7D	classic_bike	2021-01-25 21:52:58	2021-01-25 22:08:13	Racine Ave & 35th St	15446	Blue Island Ave & 18th St	13135	member
+33C4B50E0ABCF21E	electric_bike	2021-01-14 21:03:05	2021-01-14 21:07:53	Larrabee St & Oak St	KA1504000116	Franklin St & Chicago Ave	13017	member
+53977CCAC2166708	classic_bike	2021-01-22 16:23:15	2021-01-22 16:43:23	Desplaines St & Jackson Blvd	15539	Blue Island Ave & 18th St	13135	member
+45290E3EA6E23249	classic_bike	2021-01-13 15:21:39	2021-01-13 15:42:47	Desplaines St & Jackson Blvd	15539	Blue Island Ave & 18th St	13135	member
+908B60EC47CB388B	classic_bike	2021-01-21 14:13:56	2021-01-21 14:17:36	May St & Cullerton St	13331	Blue Island Ave & 18th St	13135	casual
+D8F5BD7F9ACA7548	classic_bike	2021-01-08 12:10:06	2021-01-08 12:16:20	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+5D3A637E45F0243A	electric_bike	2021-01-18 16:46:40	2021-01-18 16:51:38	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+3C91F7CDF8FB4D12	electric_bike	2021-01-02 18:30:24	2021-01-02 18:36:07	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+76D9C7D5A3B9256B	electric_bike	2021-01-13 13:18:02	2021-01-13 13:23:49	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+E4E04A281E8D3B27	classic_bike	2021-01-10 20:40:14	2021-01-10 20:56:02	Wabash Ave & 9th St	TA1309000010	Streeter Dr & Grand Ave	13022	member
+8DF43E3D766A37C0	electric_bike	2021-01-17 17:08:23	2021-01-17 17:16:04	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+3AA1D70B1827EFDD	classic_bike	2021-01-12 15:12:38	2021-01-12 15:21:33	Throop St & Taylor St	13139	Blue Island Ave & 18th St	13135	member
+8CE43CA31D6ED73D	classic_bike	2021-01-14 07:15:35	2021-01-14 07:22:21	Damen Ave & Cullerton St	13089	Blue Island Ave & 18th St	13135	member
+C46FA6DBF64BD97C	electric_bike	2021-01-17 12:47:28	2021-01-17 12:57:08	Halsted St & Roscoe St	TA1309000025	Ashland Ave & Grace St	13319	casual
+FD108A9603BD8F58	classic_bike	2021-01-12 15:35:54	2021-01-12 16:28:07	Franklin St & Monroe St	TA1309000007	Austin Blvd & Lake St	16906	member
+98F128F11C78692A	electric_bike	2021-01-12 16:35:36	2021-01-12 16:54:17	Clark St & Drummond Pl	TA1307000142	Ashland Ave & Grace St	13319	casual
+95BCBB34FEEE0B25	classic_bike	2021-01-11 18:15:24	2021-01-11 18:20:28	May St & Cullerton St	13331	Blue Island Ave & 18th St	13135	member
+AB18E51CCC8DA1E0	classic_bike	2021-01-13 17:48:36	2021-01-13 17:54:41	May St & Cullerton St	13331	Blue Island Ave & 18th St	13135	member
+428A877EE9C14FF8	classic_bike	2021-01-08 18:06:44	2021-01-08 18:11:45	May St & Cullerton St	13331	Blue Island Ave & 18th St	13135	member
+59414C82FCF5773A	classic_bike	2021-01-04 18:16:27	2021-01-04 18:21:55	May St & Cullerton St	13331	Blue Island Ave & 18th St	13135	member
+C2BC218E68172BA2	classic_bike	2021-01-06 18:26:06	2021-01-06 18:31:44	May St & Cullerton St	13331	Blue Island Ave & 18th St	13135	member
+30DA7D61C9AFBB98	classic_bike	2021-01-23 15:12:19	2021-01-23 15:36:15	Halsted St & Clybourn Ave	331	Ashland Ave & Grace St	13319	member
+10C6999652539629	classic_bike	2021-01-13 12:09:23	2021-01-13 12:16:50	Ashland Ave & Wellington Ave	13269	Ashland Ave & Grace St	13319	member
+100DB9C5034103BB	classic_bike	2021-01-02 14:15:15	2021-01-02 14:22:51	Paulina Ave & North Ave	TA1305000037	Milwaukee Ave & Wabansia Ave	13243	member
+0D1F489A17E9EE24	electric_bike	2021-01-01 11:33:30	2021-01-01 11:41:48	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+295EC4CAAB3C9816	electric_bike	2021-01-22 13:49:14	2021-01-22 13:57:40	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+F825DB9E6EE022DF	electric_bike	2021-01-08 15:41:25	2021-01-08 15:49:43	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+FE063DE40FD77090	electric_bike	2021-01-04 12:54:24	2021-01-04 13:02:54	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+EB20299D85D1FAA1	electric_bike	2021-01-02 09:48:39	2021-01-02 09:57:02	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+D55358864C899B3D	electric_bike	2021-01-07 09:05:00	2021-01-07 09:13:07	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+39D35DDBAE94A49B	electric_bike	2021-01-12 09:02:47	2021-01-12 09:10:33	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+DD95579BE04D4094	electric_bike	2021-01-18 12:18:53	2021-01-18 12:26:29	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+9B2EE74AFB57C024	electric_bike	2021-01-19 13:55:54	2021-01-19 14:04:05	Clark St & Columbia Ave	RP-008	Western Ave & Granville Ave	KA1504000129	member
+BF5598664E173A1D	classic_bike	2021-01-24 12:19:54	2021-01-24 12:27:20	Halsted St & Clybourn Ave	331	Franklin St & Chicago Ave	13017	member
+A67E71B446CF1FED	classic_bike	2021-01-18 14:13:02	2021-01-18 14:31:43	Washtenaw Ave & Lawrence Ave	KA1504000080	Ashland Ave & Grace St	13319	member
+4792037A17EE458C	docked_bike	2021-01-25 08:00:40	2021-01-25 08:16:15	Damen Ave & Clybourn Ave	13271	Ashland Ave & Grace St	13319	casual
+E53253558F5D35B6	classic_bike	2021-01-30 16:09:03	2021-01-30 16:17:13	California Ave & Milwaukee Ave	13084	Milwaukee Ave & Wabansia Ave	13243	member
+7A758041B215AF97	classic_bike	2021-01-18 14:55:17	2021-01-18 15:21:21	Drake Ave & Montrose Ave	KA1504000097	Clark St & Winnemac Ave	TA1309000035	member
+49114214E93551EA	classic_bike	2021-01-24 21:54:40	2021-01-24 21:57:34	Clark St & Berwyn Ave	KA1504000146	Clark St & Winnemac Ave	TA1309000035	member
+BDAF53E1735D8C28	classic_bike	2021-01-29 11:10:21	2021-01-29 11:13:15	Clark St & Berwyn Ave	KA1504000146	Clark St & Winnemac Ave	TA1309000035	member
+6FACB217F0139EC4	classic_bike	2021-01-17 09:25:43	2021-01-17 09:32:56	Sheffield Ave & Fullerton Ave	TA1306000016	Dayton St & North Ave	13058	member
+241C56C657E0BDF5	classic_bike	2021-01-19 20:29:49	2021-01-19 20:40:57	Halsted St & Clybourn Ave	331	Franklin St & Chicago Ave	13017	member
+BF3B1A2C23BDA8AD	electric_bike	2021-01-09 14:52:44	2021-01-09 15:04:33	Sheffield Ave & Fullerton Ave	TA1306000016	Clark St & Lincoln Ave	13179	casual
+8A4555E543EC0871	electric_bike	2021-01-13 10:10:08	2021-01-13 10:18:15	Sheffield Ave & Fullerton Ave	TA1306000016	Clark St & Lincoln Ave	13179	casual
+31466F71CA0A7AC1	electric_bike	2021-01-09 07:55:08	2021-01-09 08:07:58	Campbell Ave & Montrose Ave	15623	Clark St & Winnemac Ave	TA1309000035	member
+29CE35ED6E8D9DDF	electric_bike	2021-01-07 11:22:47	2021-01-07 11:37:58	Ogden Ave & Chicago Ave	TA1305000020	Clark St & Lincoln Ave	13179	casual
+1AA22CFF80C74FF9	classic_bike	2021-01-20 16:32:57	2021-01-20 16:38:06	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+00F3B93BA53DBF49	electric_bike	2021-01-24 14:23:38	2021-01-24 14:33:38	California Ave & Fletcher St	15642	Sawyer Ave & Irving Park Rd	KA1504000096	member
+2239CD2211BD8517	classic_bike	2021-01-15 17:57:39	2021-01-15 18:02:24	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+4F8D4D6740B3CBDE	electric_bike	2021-01-24 11:15:15	2021-01-24 11:23:06	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	casual
+1B9E463B6D1F7691	classic_bike	2021-01-10 14:48:03	2021-01-10 15:57:04	Desplaines St & Jackson Blvd	15539	Clark St & Lincoln Ave	13179	casual
+16140009975384EB	classic_bike	2021-01-06 14:17:22	2021-01-06 15:13:43	California Ave & Fletcher St	15642	Loomis St & Lexington St	13332	casual
+8F0E782204EE33BC	classic_bike	2021-01-21 17:25:16	2021-01-21 17:29:59	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+2F33F0D0D2162C47	classic_bike	2021-01-07 17:43:44	2021-01-07 17:48:53	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+D0CD473A1506D8EC	classic_bike	2021-01-06 18:01:23	2021-01-06 18:06:33	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+6B62DEAEC1996020	classic_bike	2021-01-13 16:49:41	2021-01-13 16:54:22	Greenview Ave & Fullerton Ave	TA1307000001	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+CCF43DB5A9501CDE	electric_bike	2021-01-06 09:23:51	2021-01-06 09:30:13	Wabash Ave & 9th St	TA1309000010	Franklin St & Adams St (Temp)	TA1309000008	member
+6867C6054E000D63	classic_bike	2021-01-14 09:20:43	2021-01-14 09:29:19	Wabash Ave & 9th St	TA1309000010	Franklin St & Adams St (Temp)	TA1309000008	member
+43ACADDA359F6801	classic_bike	2021-01-21 09:25:17	2021-01-21 09:33:55	Wabash Ave & 9th St	TA1309000010	Franklin St & Adams St (Temp)	TA1309000008	member
+0BC829F0C3660E6F	electric_bike	2021-01-11 19:15:16	2021-01-11 19:22:44	Bissell St & Armitage Ave	13059	Clark St & Lincoln Ave	13179	member
+340C3B462AE4E68C	classic_bike	2021-01-03 17:12:27	2021-01-03 17:18:23	Sheffield Ave & Webster Ave	TA1309000033	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+2F91D4F6412A7113	classic_bike	2021-01-13 15:15:39	2021-01-13 15:22:17	Central Ave & Madison St	16916	Laramie Ave & Kinzie St	530	casual
+1A0D4FFABD2A8729	classic_bike	2021-01-05 11:07:17	2021-01-05 11:17:33	Clark St & Chicago Ave	13303	Dayton St & North Ave	13058	casual
+6F79932B029AA6E4	classic_bike	2021-01-29 17:11:20	2021-01-29 17:19:59	Clark St & Chicago Ave	13303	Clark St & Lincoln Ave	13179	member
+71C3213353771E70	classic_bike	2021-01-30 09:22:16	2021-01-30 09:30:11	Clark St & Chicago Ave	13303	Clark St & Lincoln Ave	13179	member
+1EE7145C09D74F27	classic_bike	2021-01-21 08:24:09	2021-01-21 08:35:01	Lincoln Ave & Waveland Ave	13253	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+5D80597AE0DC0D9E	electric_bike	2021-01-07 15:25:20	2021-01-07 15:36:00	Kedzie Ave & Milwaukee Ave	13085	Leavitt St & North Ave	TA1308000005	member
+442BA34EEA4B80CA	classic_bike	2021-01-18 17:08:19	2021-01-18 17:17:27	Larrabee St & Division St	KA1504000079	Dayton St & North Ave	13058	member
+73739F31C5D3BB1C	classic_bike	2021-01-02 17:21:55	2021-01-02 17:33:20	Sheffield Ave & Willow St	TA1306000032	Leavitt St & North Ave	TA1308000005	member
+073794E946AB3963	classic_bike	2021-01-09 14:26:55	2021-01-09 14:39:42	Southport Ave & Irving Park Rd	TA1309000043	Lincoln Ave & Diversey Pkwy	TA1307000064	member
+8C436CEDEF8D0C21	classic_bike	2021-01-24 10:33:57	2021-01-24 10:42:23	Sheffield Ave & Willow St	TA1306000032	Clark St & Lincoln Ave	13179	member

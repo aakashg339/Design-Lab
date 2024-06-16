@@ -1,0 +1,3 @@
+SELECT COUNT(Id)
+FROM Orders
+WHERE CustomerId=10;
