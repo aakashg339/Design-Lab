@@ -23,7 +23,7 @@ In case of any missing library, kindly install it.
 
 ## Query 1
 ### Role of chatServer.c
-To habdle requests from the client.
+To handle requests from the client.
 
 ### Role of chatClient.c
 To communicate with server and with other clients.

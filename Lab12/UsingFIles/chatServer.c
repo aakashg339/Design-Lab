@@ -21,6 +21,16 @@
 #define FILE_INPUT "gpt_2_gen_input.txt"
 #define FILE_OUTPUT "gpt_2_gen_output.txt"
 
+#define COMMAND_ACTIVE "/active"
+#define COMMAND_SEND "/send"
+#define COMMAND_LOGOUT "/logout"
+#define COMMAND_HISTORY "/history"
+#define COMMAND_HISTORY_DELETE "/history_delete"
+#define COMMAND_DELETE_ALL "/delete_all"
+#define COMMAND_CHATBOT "/chatbot"
+#define COMMAND_CHATBOT_LOGOUT "/chatbot logout"
+#define COMMAND_CHATBOT_V2 "/chatbot_v2"
+#define COMMAND_CHATBOT_V2_LOGOUT "/chatbot_v2 logout"
 
 #define ACK_INVALID_COMMAND "Invalid command."
 #define ACK_INVALID_DESTINATION_ID "Invalid destination ID."
@@ -197,7 +207,15 @@ void sendChatHistory(int sourceId, int destId) {
         // remove leading and trailing spaces
         char *messageTrimmed = trimString(message);
 
+        // chat history messsages send from source to destination
         if (sId == sourceId && dest == destId) {
+            flag = 1;
+            bzero(buffer, MESSAGE_SIZE);
+            sprintf(buffer, "From:%d To:%d Message:%s\n", source, dest, messageTrimmed);
+            sendAcknowledgementToClient(getClientSocket(sourceId), buffer);
+        }
+        // chat history messages send from destination to source
+        else if (sId == sourceId && source == destId) {
             flag = 1;
             bzero(buffer, MESSAGE_SIZE);
             sprintf(buffer, "From:%d To:%d Message:%s\n", source, dest, messageTrimmed);
@@ -237,7 +255,11 @@ void deleteChatHistory(int sourceId, int destId) {
         message = strtok(NULL, "\0");
         if (sId == sourceId && dest == destId) {
             flag = 1;
-        } else {
+        } 
+        else if(sId == sourceId && source == destId) {
+            flag = 1;
+        }
+        else {
             fprintf(tempFile, "%s\n", line);
         }
     }
@@ -480,7 +502,7 @@ void chatbotHandler(char *request, int clientSocket) {
     int flag = 0;
 
     // If /chatbot logout is entered, then set the chatbot status to 0
-    if (strcmp(question, "/chatbot logout") == 0) {
+    if (strcmp(question, COMMAND_CHATBOT_LOGOUT) == 0) {
         setChatBotStatusOfClient(clientSocket, 0);
         char buffer[MESSAGE_SIZE];
         bzero(buffer, MESSAGE_SIZE);
@@ -558,7 +580,7 @@ void chatbotHandlerForGPT(char *request, int clientSocket) {
     int flag = 0;
 
     // If /chatbot_v2 logout is entered, then set the chatbot status to 0
-    if (strcmp(question, "/chatbot_v2 logout") == 0) {
+    if (strcmp(question, COMMAND_CHATBOT_V2_LOGOUT) == 0) {
         setChatBotStatusOfClient(clientSocket, 0);
         char buffer[MESSAGE_SIZE];
         bzero(buffer, MESSAGE_SIZE);
@@ -608,9 +630,9 @@ int handleClientRequest(int clientSocket, char *request) {
     // printf("Request : %s\n", request);
 
     char *command = strtok(request, " ");
-    // printf("Command : %s\n", command);
+    printf("Command : %s\n", command);
     if (command == NULL) {
-        sendAcknowledgementToClient(clientSocket, "Invalid command.");
+        sendAcknowledgementToClient(clientSocket, ACK_INVALID_COMMAND);
         return 0;
     }
 
@@ -650,10 +672,10 @@ int handleClientRequest(int clientSocket, char *request) {
 
         // store the chat history for botht the clients
         storeChatHistory(sourceId, atoi(destId), message);
-    } else if (strcmp(command, "/logout") == 0) {
+    } else if (strcmp(command, COMMAND_LOGOUT) == 0) {
         sendAcknowledgementToClient(clientSocket, ACK_LOGOUT_MESSAGE);
         return -1;
-    } else if (strcmp(command, "/chatbot") == 0) {
+    } else if (strcmp(command, COMMAND_CHATBOT) == 0) {
         char *subCommand = strtok(NULL, "");
         if (strcmp(subCommand, "login") == 0) {
             setChatBotStatusOfClient(clientSocket, 1);
@@ -666,7 +688,7 @@ int handleClientRequest(int clientSocket, char *request) {
             sendAcknowledgementToClient(clientSocket, ACK_INVALID_COMMAND);
         }
         return 0;
-    } else if (strcmp(command, "/history") == 0) {
+    } else if (strcmp(command, COMMAND_HISTORY) == 0) {
         char *destId = strtok(NULL, "");
         if (destId == NULL) {
             sendAcknowledgementToClient(clientSocket, ACK_INVALID_COMMAND);
@@ -676,7 +698,7 @@ int handleClientRequest(int clientSocket, char *request) {
         int destClientId = atoi(destId);
         printf("Dest Id: %s\n", destId);
         sendChatHistory(getClientId(clientSocket), destClientId);
-    } else if (strcmp(command, "/history_delete") == 0) {
+    } else if (strcmp(command, COMMAND_HISTORY_DELETE) == 0) {
         char *destId = strtok(NULL, " ");
         if (destId == NULL) {
             sendAcknowledgementToClient(clientSocket, ACK_INVALID_COMMAND);
@@ -685,13 +707,13 @@ int handleClientRequest(int clientSocket, char *request) {
 
         int destClientId = atoi(destId);
         deleteChatHistory(getClientId(clientSocket), destClientId);
-    } else if (strcmp(command, "/delete_all") == 0) {
+    } else if (strcmp(command, COMMAND_DELETE_ALL) == 0) {
         deleteAllChatHistory(getClientId(clientSocket));
     }
     // Clients should be able to toggle the chatbot feature using commands
     // ○ "/chatbot_v2 login" - to avail the chatbot feature
     // ○ "/chatbot_v2 logout" - to disable the feature
-    else if (strcmp(command, "/chatbot_v2") == 0) {
+    else if (strcmp(command, COMMAND_CHATBOT_V2) == 0) {
         char *subCommand = strtok(NULL, "");
         if (subCommand == NULL) {
             sendAcknowledgementToClient(clientSocket, ACK_INVALID_COMMAND);

@@ -7,7 +7,7 @@
 
 #define MESSAGE_SIZE 2048
 
-#define MESSAGE_END_TRANSFER "MESSAGE_END_TRANSFER"
+#define COMMAND_LOGOUT "/logout"
 
 #define ACK_MESSAGE "SUCCESS"
 #define ACK_CLOSE_MESSAGE "ACK_CLOSE"
@@ -21,6 +21,26 @@
 #define CHATBOT_LOGOUT_MESSAGE "Bye, Have a nice day and do not complain about me"
 
 #define CHATBOT_V2_LOGOUT_MESSAGE "Bye! Have a nice day and hope you do not have any complaints about me"
+
+int sockfd;
+
+void sigChandler(int sig_num) {
+    if (sig_num == SIGINT) {
+        char message[256];
+        bzero(message, 256);
+        sprintf(message, COMMAND_LOGOUT);
+        send(sockfd, message, sizeof(message), 0);
+    }
+}
+
+void sigZhandler(int sig_num) {
+    if (sig_num == SIGTSTP) {
+        char message[256];
+        bzero(message, 256);
+        sprintf(message, COMMAND_LOGOUT);
+        send(sockfd, message, sizeof(message), 0);
+    }
+}
 
 // Function to remove leading and trailing spaces and return the string
 char *trimString(char *string) {
@@ -79,6 +99,23 @@ void sendAcknowledgementToServer(int serverSocket, char *ackMessage) {
     send(serverSocket, buffer, strlen(buffer), 0);
 }
 
+// Function to display the supported commands
+void displaySupportedCommands() {
+    printf("-------------------------------------------------------------------------\n");
+    printf("Supported commands:\n");
+    printf("1. /active - retrieve a list of active clients\n");
+    printf("2. /send <dest_id> <message> - send messages to other clients using their unique IDs\n");
+    printf("3. /logout - client requests to exit the application.\n");
+    printf("4. /history <recipient_id> : the server should retrieve the conversation history between the requesting client and the specified recipient.\n");
+    printf("5. /history_delete <recipient_id>” : delete chats of specified recipient from requesting client chat history.\n");
+    printf("6. /delete_all : delete complete chat history of requesting client.\n");
+    printf("7. /chatbot login - to avail the chatbot feature\n");
+    printf("8. /chatbot logout - to logout from the chatbot feature\n");
+    printf("9. /chatbot_v2 login - to avail the gpt chatbot feature\n");
+    printf("10. /chatbot_v2 logout - to logout from the gpt chatbot feature\n");
+    printf("-------------------------------------------------------------------------\n");
+}
+
 // Function to handle recv and send messages as parent and child process. 
 void pingTheServer(int sock) {
     int chatbotStatus;
@@ -86,18 +123,9 @@ void pingTheServer(int sock) {
     pid_t pid;
 
     if((pid = fork()) == 0) {
-        chatbotStatus = 0;
         while(1) {
             char buffer[MESSAGE_SIZE];
             bzero(buffer, MESSAGE_SIZE);
-            sleep(1);
-            if (chatbotStatus == 1 ) {
-                printf("user> ");
-            }
-            else if (chatbotStatus == 2) {
-                sleep(4);
-                printf("user> ");
-            }
             fgets(buffer, MESSAGE_SIZE, stdin);
 
             // Remove trailing newline character
@@ -107,24 +135,10 @@ void pingTheServer(int sock) {
             char *trimmedBuffer = trimString(buffer);
             strcpy(buffer, trimmedBuffer);
 
-
+            // If the message is empty, continue
             if (strlen(buffer) == 0) {
                 continue;
             }
-
-            if (strcmp(buffer, "/chatbot login") == 0) {
-                chatbotStatus = 1;
-            }
-            else if (strcmp(buffer, "/chatbot logout") == 0) {
-                chatbotStatus = 0;
-            }
-            else if (strcmp(buffer, "/chatbot_v2 login") == 0) {
-                chatbotStatus = 2;
-            }
-            else if (strcmp(buffer, "/chatbot_v2 logout") == 0) {
-                chatbotStatus = 0;
-            }
-            
 
             send(sock, buffer, strlen(buffer), 0);
         }
@@ -157,12 +171,20 @@ void main(int argc, char *argv[]) {
 
     // Create TCP socket
     socketC = createSocket();
+    sockfd = socketC;
+
+    // Signal handling
+    signal(SIGINT, sigChandler);
+    signal(SIGTSTP, sigZhandler);
 
     // Assign address to socket
     assignAddressToSocket(socketC, &address, ipOfServer, serverPort);
 
     // Connect to the server
     connectToServer(socketC, &address);
+
+    // Display the supported commands
+    displaySupportedCommands();
 
     // Send ping requests to the server
     pingTheServer(socketC);
