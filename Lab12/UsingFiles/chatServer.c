@@ -438,12 +438,12 @@ void loadChatbot() {
         }
 
         if (cb->qa[cb->size] == NULL) {
-            perror("Memory allocation failed.");
+            perror("Memory allocation unsuccessful.");
             exit(1);
         }
 
         if (cb->qa[cb->size]->question == NULL || cb->qa[cb->size]->answer == NULL) {
-            perror("Memory allocation failed.");
+            perror("Memory allocation unsuccessful.");
             exit(1);
         }
 
@@ -807,7 +807,7 @@ void main(int argc, char *argv[]) {
 
     // if we got here, it means we didn't get bound
     if (p == NULL) {
-        fprintf(stderr, "selectserver: failed to bind\n");
+        fprintf(stderr, "selectserver: unsuccessful to bind\n");
         exit(2);
     }
 
